@@ -55,19 +55,23 @@ class AnkiGenerator:
         return "\n".join(dest_lines)
 
     def generate_from_md(self, md_text: str):
+        # TODO
+        # Combine multiple grammar files into 1 big file that's easier to import
         md_lines = md_text.splitlines()
         header = md_lines[0]
         if not header.startswith("# "):
             raise RuntimeError(f"Unexpected header: {header}")
+        
+        title = header[2:]
 
         md = marko.Markdown()
         doc = md.parse("\n".join(md_lines[1:]))
-        html_content = md.render(doc)
+        html_content = md.render(doc).replace("\n", "")
         
         dest_lines = [
             "#separator:Semicolon",
             "#columns:Title;Content",
-            html_content.replace("\n", "")
+            f"{title};{html_content}",
         ]
 
         return "\n".join(dest_lines)
@@ -79,6 +83,10 @@ class MarkdownGenerator:
         return ".md"
     
     def generate_from_csv(self, csv_text: str):
+        # TODO
+        # Should add a title and then just build a big table with the contents of the csv
+        # Future improvement:
+        # Put nouns, verbs, adverbs, etc into separate csvs and then combine them into 1 markdown file with different sections for all of them
         return "Not implemented"
     
     def generate_from_md(self, md_text: str):
