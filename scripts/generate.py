@@ -1,19 +1,27 @@
-from .parser.extensions import BlueElem
-from .parser.html_renderer import HtmlRendererMixin
-
 import marko
 
 from argparse import ArgumentParser
-from dataclasses import dataclass
-from enum import StrEnum
+from csv import DictReader, DictWriter, reader
+from dataclasses import dataclass, fields
+from enum import Enum, StrEnum
 from pathlib import Path
 from shutil import rmtree
-from typing import Callable, Protocol
+from typing import Protocol
+
+FIELDS = ["Word", "Masculine Singular", "Feminine Singular", "Masculine Plural", "Feminine Plural", "Adverb", "Infinitive", "Past Participle", "Present Participle", "Basic meanings of word", "Example sentences", "Wiktionary"]
 
 
 class FileType(StrEnum):
     Csv = ".csv"
     Markdown = ".md"
+
+
+class FileType(Enum):
+    Grammar = 0
+    Adjectives = 1
+    Nouns = 2
+    Verbs = 3
+
 
 
 @dataclass(frozen=True)
@@ -22,41 +30,154 @@ class File:
     type: FileType
 
 
+class VocabType:
+    @property
+    def is_empty(self):
+        self_fields = fields(self)
+        for field in self_fields:
+            val = getattr(self, field.name)
+            if val:
+                return False
+        return True
+
+    @classmethod
+    def parse(clazz, csv_text: str):
+        # CSV reader doesn't work well for some reason
+        vals = list(clazz(*row.split(';')) for row in csv_text.splitlines()[1:])
+        vals = [val for val in vals if not val.is_empty]
+        return vals
+
+
+@dataclass(frozen=True)
+class NounVocab(VocabType):
+    TYPE = "Nouns"
+
+    word: str
+    mas_sing: str | None
+    fem_sing: str | None
+    mas_plu: str | None
+    fem_plu: str | None
+    meanings: str
+    examples: str | None
+    wiktionary: str | None
+
+    def to_dict(self):
+        return {
+            "Word": self.word,
+            "Masculine Singular": self.mas_sing,
+            "Feminine Singular": self.fem_sing,
+            "Masculine Plural": self.mas_plu,
+            "Feminine Plural": self.fem_plu,
+            "Basic meanings of word": self.meanings,
+            "Example sentences": self.examples,
+            "Wiktionary": self.wiktionary,
+        }
+
+
+@dataclass(frozen=True)
+class AdjectiveVocab(VocabType):
+    TYPE = "Adjectives"
+
+    word: str
+    mas_sing: str | None
+    fem_sing: str | None
+    mas_plu: str | None
+    fem_plu: str | None
+    meanings: str
+    examples: str | None
+    wiktionary: str | None
+
+    def to_dict(self):
+        return {
+            "Word": self.word,
+            "Masculine Singular": self.mas_sing,
+            "Feminine Singular": self.fem_sing,
+            "Masculine Plural": self.mas_plu,
+            "Feminine Plural": self.fem_plu,
+            "Basic meanings of word": self.meanings,
+            "Example sentences": self.examples,
+            "Wiktionary": self.wiktionary,
+        }
+
+@dataclass(frozen=True)
+class VerbVocab(VocabType):
+    TYPE = "Verbs"
+
+    word: str
+    past_part: str
+    present_part: str
+    meanings: str
+    examples: str | None
+    wiktionary: str | None
+
+    def to_dict(self):
+        return {
+            "Word": self.word,
+            "Past Participle": self.past_part,
+            "Present Participle": self.present_part,
+            "Basic meanings of word": self.meanings,
+            "Example sentences": self.examples,
+            "Wiktionary": self.wiktionary,
+        }
+
+
 class Generator(Protocol):
-    @property
-    def suffix(self) -> str:
-        ...
+    def generate_files(self, src_dir: Path, dest_dir: Path):
+        for d in src_dir.iterdir():
+            if not d.is_dir():
+                continue
 
-    def generate_from_csv(self, text: str) -> str:
-        ...
-    
-    def generate_from_md(self, text: str) -> str:
-        ...
+            deck = d.name
+            dest_deck_dir = dest_dir / deck
+            dest_deck_dir.mkdir(parents=True, exist_ok=True)
 
+            def read_files(subdir: Path):
+                grammar_files: list[tuple[str, str]] = []
 
-class AnkiGenerator:
-    @property
-    def suffix(self):
-        return ".txt"
+                for grammar_file in subdir.iterdir():
+                    if not grammar_file.is_file():
+                        continue
 
-    def generate_from_csv(self, csv_text: str):
+                    grammar_files.append((grammar_file.name, grammar_file.read_text()))
+                
+                return grammar_files
+
+            src_grammar = d / "Grammar"
+            if src_grammar.exists():
+                grammar_files = read_files(src_grammar)
+                self.generate_grammar(dest_deck_dir, grammar_files)
+            
+            src_vocab = d / "Vocab"
+            if src_vocab.exists():
+                vocab_files = read_files(src_vocab)
+                self.generate_vocab(dest_deck_dir, vocab_files)
+
+    def parse_vocab_file(self, filename: str, csv_text: str):
         csv_lines = csv_text.splitlines()
         header = csv_lines[0]
         columns = header.split(';')
         if len(columns) <= 1:
             raise RuntimeError(f"Columns were not split by ';': {header}")
         
-        dest_lines = [
-            "#separator:Semicolon",
-            f"#columns:{header}",
-        ]
-        dest_lines.extend(csv_lines[1:])
+        if filename == "nouns.csv":
+            return NounVocab.parse(csv_text)
+        elif filename == "adjectives.csv":
+            return AdjectiveVocab.parse(csv_text)
+        elif filename == "verbs.csv":
+            return VerbVocab.parse(csv_text)
+        else:
+            raise NotImplementedError(filename)
+    
+    def generate_grammar(self, dest_deck_dir: Path, grammar_files: list[tuple[str, str]]):
+        ...
+    
+    def generate_vocab(self, dest_deck_dir: Path, vocab_files: list[tuple[str, str]]):
+        ...
 
-        return "\n".join(dest_lines)
 
-    def generate_from_md(self, md_text: str):
-        # TODO
-        # Combine multiple grammar files into 1 big file that's easier to import
+
+class AnkiGenerator(Generator):
+    def format_grammar_file(self, md_text: str):
         md_lines = md_text.splitlines()
         header = md_lines[0]
         if not header.startswith("# "):
@@ -67,64 +188,90 @@ class AnkiGenerator:
         md = marko.Markdown()
         doc = md.parse("\n".join(md_lines[1:]))
         html_content = md.render(doc).replace("\n", "")
-        
+
+        return f"{title}:{html_content}"
+    
+    def format_grammar_files(self, grammar_files: list[tuple[str, str]]):
         dest_lines = [
             "#separator:Semicolon",
             "#columns:Title;Content",
-            f"{title};{html_content}",
         ]
-
+        
+        formatted_lines = [self.format_grammar_file(gf[1]) for gf in grammar_files]
+        dest_lines.extend(sorted(formatted_lines))
         return "\n".join(dest_lines)
 
-
-class MarkdownGenerator:
-    @property
-    def suffix(self):
-        return ".md"
     
-    def generate_from_csv(self, csv_text: str):
-        # TODO
-        # Should add a title and then just build a big table with the contents of the csv
-        # Future improvement:
-        # Put nouns, verbs, adverbs, etc into separate csvs and then combine them into 1 markdown file with different sections for all of them
-        return "Not implemented"
+    def generate_grammar(self, dest_deck_dir: Path, grammar_files: list[tuple[str, str]]):
+        dest_file = dest_deck_dir / "grammar.txt"
+        dest_file.write_text(self.format_grammar_files(grammar_files))
     
-    def generate_from_md(self, md_text: str):
-        return md_text
-
-
-def _find_src_files(root: Path):
-    if not root.is_dir():
-        raise RuntimeError(f"{root} is not a directory")
+    def format_vocab(self, vocab: NounVocab | AdjectiveVocab | VerbVocab):
+        word_dict = vocab.to_dict()
+        word_fields: list[str] = []
+        for field in FIELDS:
+            word_fields.append(word_dict.get(field, "") or "")
+        return ";".join(word_fields)
     
-    src_files: list[File] = []
-
-    for f in root.iterdir():
-        if f.is_dir():
-            src_files.extend(_find_src_files(f))
-        elif f.is_file():
-            file_type = FileType(f.suffix)
-            src_files.append(File(f, file_type))
     
-    return src_files
+    def format_vocab_files(self, vocab_files: list[tuple[str, str]]):
+        dest_lines = [
+            "#separator:Semicolon",
+            "#columns:" + ";".join(FIELDS),
+        ]
+
+        formatted_lines: list[str] = []
+
+        for vocab_file, vocab_text in vocab_files:
+            parsed_lines = self.parse_vocab_file(vocab_file, vocab_text)
+            formatted_lines.extend([self.format_vocab(line) for line in parsed_lines])
+
+        dest_lines.extend(sorted(formatted_lines))
+        return "\n".join(dest_lines)
+
+    def generate_vocab(self, dest_deck_dir: Path, vocab_files: list[tuple[str, str]]):
+        dest_file = dest_deck_dir / "vocab.txt"
+        dest_file.write_text(self.format_vocab_files(vocab_files))
 
 
-def _generate_files(src_files: list[File], src_dir: Path, dest_dir: Path, generator: Generator):
-    for src_file in src_files:
-        rel_src_path = src_file.path.relative_to(src_dir)
-        dest_path = dest_dir.joinpath(rel_src_path).with_suffix(generator.suffix)
-        try:
-            if src_file.type == FileType.Csv:
-                dest_text = generator.generate_from_csv(src_file.path.read_text())
-            elif src_file.type == FileType.Markdown:
-                dest_text = generator.generate_from_md(src_file.path.read_text())
-            else:
-                raise NotImplementedError(f"Unknown src file type: {src_file}")
-        except RuntimeError as e:
-            print(f"Error generating from {src_file.path}: {e}")
-        else:
-            dest_path.parent.mkdir(parents=True, exist_ok=True)
-            dest_path.write_text(dest_text)
+class MarkdownGenerator(Generator):
+    def generate_grammar(self, dest_deck_dir: Path, grammar_files: list[tuple[str, str]]):
+        for grammar_file, grammar_text in grammar_files:
+            dest_file = dest_deck_dir / grammar_file
+            dest_file.write_text(grammar_text)
+    
+    def format_vocab_file(self, parsed_lines: list[NounVocab] | list[AdjectiveVocab] | list[VerbVocab]):
+        formatted_lines: list[str] = []
+
+        if not parsed_lines:
+            return formatted_lines
+        
+        first = parsed_lines[0]
+        formatted_lines.append(f"## {first.TYPE}")
+
+        fields = first.to_dict().keys()
+        fields = [f for f in FIELDS if f in fields]
+        formatted_lines.append("| " + " | ".join(fields) + " |")
+        formatted_lines.append("| " + " | ".join(["---"] * len(fields)) + " |")
+        for line in parsed_lines:
+            values = line.to_dict()
+            formatted_lines.append("| " + " | ".join([values[f] for f in fields]) + " |")
+        
+        return formatted_lines
+    
+    def format_vocab_files(self, vocab_files: list[tuple[str, str]]):
+        formatted_lines = ["# Vocabulary"]
+
+        for vocab_file, vocab_text in sorted(vocab_files):
+            parsed_lines = self.parse_vocab_file(vocab_file, vocab_text)
+            formatted_lines.extend(self.format_vocab_file(parsed_lines))
+        
+        return "\n".join(formatted_lines)
+
+
+    def generate_vocab(self, dest_deck_dir: Path, vocab_files: list[tuple[str, str]]):
+        dest_file = dest_deck_dir / "vocab.md"
+        dest_file.write_text(self.format_vocab_files(vocab_files))
 
 
 if __name__ == "__main__":
@@ -143,23 +290,6 @@ if __name__ == "__main__":
             rmtree(anki_dir, ignore_errors=True)
         if md_dir.exists():
             rmtree(md_dir, ignore_errors=True)
-
-    src_files = _find_src_files(src_dir)
-    _generate_files(src_files, src_dir, root / "anki", AnkiGenerator())
-    _generate_files(src_files, src_dir, root / "md", MarkdownGenerator())
-
-# def _main(file: str, print_only: bool):
-#     with open(file, encoding="UTF-8") as f:
-#         raw_md = f.read()
     
-#     extended_html = marko.MarkoExtension(
-#         elements=[BlueElem],
-#         renderer_mixins=[HtmlRendererMixin],
-#     )
-    
-#     markdown = marko.Markdown(extensions=[extended_html])
-#     doc = markdown.parse(raw_md)
-#     print(markdown.render(doc))
-    
-    # doc = marko.parse(raw_md)
-    # print(marko.render(doc))
+    AnkiGenerator().generate_files(src_dir, anki_dir)
+    MarkdownGenerator().generate_files(src_dir, md_dir)
