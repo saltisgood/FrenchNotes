@@ -1,0 +1,3 @@
+#separator:Semicolon
+#columns:Title;Content
+<ul><li>Equivalent to &quot;my one&quot;, &quot;his/her one&quot;</li><li>Replaces a noun and the object which &quot;owns&quot; it</li></ul><p>| Possesseur | Objet Passédé | | | || --- | --- | --- | --- | --- || | Singulier | | Pluriel | || | <blue>M</blue> | F | M | F || Je | le mien | la mienne | les miens | les miennes |</p>
