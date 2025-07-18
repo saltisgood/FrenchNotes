@@ -1,0 +1,21 @@
+#separator:Pipe
+#columns:Word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Basic meanings of word|Example sentences|Wiktionary
+alterner|||||||alterné|alternant|Verb: To alternate||
+concret|concret|concrète|concrets|concrètes|||||Adjective: concrete, real||
+contacter|||||||conctacté|contactant|Verb: to contact||
+imposer|||||||imposé|imposant|Verb: To impose. (Reflexive) To triumph, to be required||
+intime|intime|intime|intimes|intimes|||||Adjective: intimate||
+inventer|||||||inventé|inventant|Verb: to invent||
+littérature||la littérature||les littératures|||||Noun: literature||
+mémoriser|||||||mémorisé|mémorisant|Verb: To memorise||
+nouvelle||la nouvelle||les nouvelles|||||Noun: Piece of news. Novella/short story.||
+outil|l'outil||les outils||||||Noun: tool||
+par la suite|||||par la suite||||Adverb: Subsequently, afterwards, later||
+passage|le passage||les passages||||||Noun: passage of text||
+polyglotte|le polyglotte|la polyglotte|les polyglottes|les polyglottes|||||Noun (also adjective): a polyglot||
+poétique|poétique|poétique|poétiques|poétiques|||||Adjective: poetic||
+revue||la revue||les revues|||||Noun: magazine, journal||
+rédacteur en chef|le rédacteur en chef|la rédactrice en chef|les rédacteurs en chef|les rédactrices en chef|||||Noun: editor in chief||
+rédacteur|le rédacteur|la rédactrice|les rédacteurs|les rédactrices|||||Noun: editor, author of a book or publication||
+théorique|théorique|théorique|théoriques|théoriques|||||Adjective: theoretical||
+écriture||l'écriture||les écritures|||||Noun: writing, handwriting||

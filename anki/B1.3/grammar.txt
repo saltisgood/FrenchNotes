@@ -1,0 +1,2 @@
+#separator:Pipe
+#columns:Title|Content

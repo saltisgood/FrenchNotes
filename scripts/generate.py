@@ -121,6 +121,25 @@ class VerbVocab(VocabType):
         }
 
 
+@dataclass(frozen=True)
+class AdverbVocab(VocabType):
+    TYPE = "Adverbs"
+
+    word: str
+    meanings: str
+    examples: str | None
+    wiktionary: str | None
+
+    def to_dict(self):
+        return {
+            "Word": self.word,
+            "Adverb": self.word,
+            "Basic meanings of word": self.meanings,
+            "Example sentences": self.examples,
+            "Wiktionary": self.wiktionary,
+        }
+
+
 class Generator(Protocol):
     def generate_files(self, src_dir: Path, dest_dir: Path):
         for d in src_dir.iterdir():
@@ -165,6 +184,8 @@ class Generator(Protocol):
             return AdjectiveVocab.parse(csv_text)
         elif filename == "verbs.csv":
             return VerbVocab.parse(csv_text)
+        elif filename == "adverbs.csv":
+            return AdverbVocab.parse(csv_text)
         else:
             raise NotImplementedError(filename)
     
@@ -189,12 +210,12 @@ class AnkiGenerator(Generator):
         doc = md.parse("\n".join(md_lines[1:]))
         html_content = md.render(doc).replace("\n", "")
 
-        return f"{title}:{html_content}"
+        return f"{title}|{html_content}"
     
     def format_grammar_files(self, grammar_files: list[tuple[str, str]]):
         dest_lines = [
-            "#separator:Semicolon",
-            "#columns:Title;Content",
+            "#separator:Pipe",
+            "#columns:Title|Content",
         ]
         
         formatted_lines = [self.format_grammar_file(gf[1]) for gf in grammar_files]
@@ -211,13 +232,13 @@ class AnkiGenerator(Generator):
         word_fields: list[str] = []
         for field in FIELDS:
             word_fields.append(word_dict.get(field, "") or "")
-        return ";".join(word_fields)
+        return "|".join(word_fields)
     
     
     def format_vocab_files(self, vocab_files: list[tuple[str, str]]):
         dest_lines = [
-            "#separator:Semicolon",
-            "#columns:" + ";".join(FIELDS),
+            "#separator:Pipe",
+            "#columns:" + "|".join(FIELDS),
         ]
 
         formatted_lines: list[str] = []
@@ -240,7 +261,7 @@ class MarkdownGenerator(Generator):
             dest_file = dest_deck_dir / grammar_file
             dest_file.write_text(grammar_text)
     
-    def format_vocab_file(self, parsed_lines: list[NounVocab] | list[AdjectiveVocab] | list[VerbVocab]):
+    def format_vocab_file(self, parsed_lines: list[NounVocab] | list[AdjectiveVocab] | list[VerbVocab] | list[AdverbVocab]):
         formatted_lines: list[str] = []
 
         if not parsed_lines:
