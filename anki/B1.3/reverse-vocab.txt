@@ -1,58 +1,95 @@
 #separator:Pipe
 #columns:Basic meanings of word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Example sentences|Wiktionary
+Adjective: alert, conscious, aware of consequences|conscient|consciente|conscients|conscientes||||||
 Adjective: authoritarian|autoritaire|autoritaire|autoritaires|autoritaires||||||
 Adjective: civic|civique|civique|civiques|civiques||||||
 Adjective: concrete, real|concret|concrète|concrets|concrètes||||||
+Adjective: equal|égal|égale|égaux|égales||||||
+Adjective: governmental|gouvernemental|gouvernementale|gouvernementaux|gouvernementales||||||
 Adjective: intimate|intime|intime|intimes|intimes||||||
 Adjective: poetic|poétique|poétique|poétiques|poétiques||||||
+Adjective: related to air, aerial|aérien|aérienne|aériens|aériennes||||||
+Adjective: respectful|respectueux|respectueuse|respectueux|respectueuses||||||
 Adjective: theoretical|théorique|théorique|théoriques|théoriques||||||
+Adjective: winter, wintery|hivernal|hivernale|hivernaux|hivernales||||||
 Adverb: Subsequently, afterwards, later|||||par la suite|||||
 Adverb: concretely, solidly|||||concrètement|||||
 Adverb: forcefully, vigorously|||||vivement|||||
+Adverb: more|||||davantage|||||
+Adverb: really, genuinely, in fact|||||réellement|||||
 Conjunction: Once, as soon as|||||dès que|||||
 Noun (also adjective): a polyglot|le polyglotte|la polyglotte|les polyglottes|les polyglottes||||||
 Noun (also adjective): military|le militaire||les militaires|||||||
 Noun (also adjective): volunteer (or voluntary)|le volontaire|la volontaire|les volontaires|les volontiares||||||
+Noun: Iceland||Islande||||||||
 Noun: Piece of news. Novella/short story.||la nouvelle||les nouvelles||||||
+Noun: Piece of publicity|l'encart||les encarts|||||||
+Noun: a large amount of something (a mass), a majority (of people), mass (physics), a paste, dough||la masse||les masses||||||
+Noun: administration, management||la gestion||les gestions||||||
 Noun: ancestors, old people (plural only)|||les aïeux|||||||
 Noun: authority||l'autorité||les autorités||||||
+Noun: beauty||la beauté||les beautés||||||
+Noun: behaviour, demeanour|le comportement||les comportements|||||||
+Noun: buy, purchase|l'achat||les achats|||||||
+Noun: catastrophe||la catastrophe||les catastrophes||||||
 Noun: citizenship||la citoyenneté||les citoyennetés||||||
 Noun: collection|le recueil||les recueils|||||||
+Noun: commitment, engagement|l'engagement||les engagements|||||||
 Noun: competition, contest|le concours||les concours|||||||
+Noun: consequence||la conséquence||les conséquences||||||
+Noun: content|le contenu||les contenus|||||||
+Noun: criticism, review. Adjective: critical||la critique||les critiques||||||
 Noun: demand||l'exigence||les exigence||||||
 Noun: diagram, computer graphics||l'infographie||les infographies||||||
 Noun: diplomacy||la diplomatie||les diplomaties||||||
 Noun: editor in chief|le rédacteur en chef|la rédactrice en chef|les rédacteurs en chef|les rédactrices en chef||||||
 Noun: editor, author of a book or publication|le rédacteur|la rédactrice|les rédacteurs|les rédactrices||||||
+Noun: foundation||la fondation||les fondations||||||
+Noun: government|le gouvernement||les gouvernements|||||||
 Noun: heritage, inheritance, legacy|l'héritage||les héritages|||||||
+Noun: importance, significance||l'importance||les importances||||||
+Noun: initiative||l'initiative||les initiatives||||||
+Noun: installation. Literally put in place||la mise en place||les mises en place||||||
 Noun: interest|l'intérêt||les intérêts|||||||
 Noun: literature||la littérature||les littératures||||||
 Noun: magazine, journal||la revue||les revues||||||
 Noun: memo, memoir, dissertation (compare to feminine)|le mémoire||les mémoires|||||||
 Noun: memory (compare to masculine)||la mémoire||les mémoires||||||
 Noun: ministry|le ministère||les ministères|||||||
+Noun: off-piste|l'hors-piste||les hors-pistes|||||||
 Noun: organisation||l'organisation||les organisations||||||
+Noun: organiser, host|l'organisateur|l'organisatrice|les organisateurs|les organisatrices||||||
+Noun: outcome, result|le résultat||les résultats|||||||
 Noun: partnership|le partenariat||les partenariats|||||||
 Noun: passage of text|le passage||les passages|||||||
 Noun: program|le programme||les programmes|||||||
 Noun: protocol|le protocole||les protocoles|||||||
+Noun: racism|le racisme|||||||||
+Noun: silhouette||la silhouette||les silhouettes||||||
 Noun: solidarity||la solidarité||les solidarités||||||
+Noun: speaker, stakeholder|l'intervenant|l'intervenante|les intervenants|les intervenantes||||||
 Noun: staff, personnel|le personnel||les personnels|||||||
 Noun: status, statute|le statut||les statuts|||||||
+Noun: struggle, fight, battle||la lutte||les luttes||||||
 Noun: surveyor|le géomètre|la géomètre|les géomètres|les géomètres||||||
+Noun: tax||la taxe||les taxes||||||
 Noun: tool|l'outil||les outils|||||||
 Noun: trick, tip||l'astuce||les astuces||||||
 Noun: upkeep, maintaining, behaviour|le maintien||les maintiens|||||||
 Noun: worry, (plural) cares, concern||la préoccupation||les préoccupations||||||
 Noun: writing, handwriting||l'écriture||les écritures||||||
+Preposition: since, from|||||dès|||||
 Verb: (transitive) To deceive, trick (incl cheating on a partner). (reflexive) To make a mistake, be wrong.|||||||trompé|trompant||
 Verb: To affect, influence|||||||affecté|affectant||
 Verb: To alternate|||||||alterné|alternant||
+Verb: To belong to, to concern|||||||appartenu|appartenant||
+Verb: To consign, to record, (school) to give detention|||||||consigné|consignant||
 Verb: To diffuse, to broadcast|||||||diffusé|diffusant||
 Verb: To direct, fulfill, perform, make, realise. Reflexive: to become real|||||||réalisé|réalisant||
 Verb: To impose. (Reflexive) To triumph, to be required|||||||imposé|imposant||
 Verb: To load, charge. (Reflexive) To take care of|||||||chargé|chargeant||
 Verb: To memorise|||||||mémorisé|mémorisant||
+Verb: To note, notice, certify|||||||constaté|constatant||
 Verb: To pledge, hire, involve, encourage, enlist, enter into|||||||engagé|engageant||
 Verb: To reapproach, come/bring closer. (reflexive + de) to get closer (to)|||||||rapproaché|rapproachant||
 Verb: To transcribe|||||||transcrit|transcrivant||
@@ -61,11 +98,20 @@ Verb: to approve of|||||||approuvé|approuvant||
 Verb: to collect, gather, obtain. (reflexive) To reflect, meditate|||||||recueilli|recueillant||
 Verb: to contact|||||||conctacté|contactant||
 Verb: to correspond (+ à), to write to|||||||correspondu|correspondant||
+Verb: to criticise|||||||critiqué|critiquant||
+Verb: to defend, forbid|||||||défendu|défendant||
 Verb: to determine, establish|||||||déterminé|déterminant||
+Verb: to diminish, decrease|||||||diminué|diminuant||
 Verb: to discipline, punish|||||||discipliné|disciplinant||
+Verb: to educate|||||||éduqué|éduquant||
+Verb: to fund, finance|||||||financé|finançant||
 Verb: to get/obtain|||||||procuré|procurant||
+Verb: to intervene, to take part|||||||intervenu|intervenant||
 Verb: to invent|||||||inventé|inventant||
+Verb: to invest|||||||investi|investissant||
+Verb: to limit|||||||limité|limitant||
 Verb: to obey|||||||obéi|obéissant||
 Verb: to roll, revolve|||||||roulé|roulant||
 Verb: to signify, mean|||||||signifié|signifiant||
+Verb: to struggle, to fight|||||||lutté|luttant||
 Verb: to unroll. (reflexive) to unravel, unfold|||||||déroulé|déroulant||
