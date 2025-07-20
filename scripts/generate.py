@@ -1,33 +1,15 @@
 import marko
 
 from argparse import ArgumentParser
-from csv import DictReader, DictWriter, reader
 from dataclasses import dataclass, fields
 from enum import Enum, StrEnum
 from pathlib import Path
 from shutil import rmtree
 from typing import Protocol
 
-FIELDS = ["Word", "Masculine Singular", "Feminine Singular", "Masculine Plural", "Feminine Plural", "Adverb", "Infinitive", "Past Participle", "Present Participle", "Basic meanings of word", "Example sentences", "Wiktionary"]
+VOCAB_FIELDS = ["Word", "Masculine Singular", "Feminine Singular", "Masculine Plural", "Feminine Plural", "Adverb", "Infinitive", "Past Participle", "Present Participle", "Basic meanings of word", "Example sentences", "Wiktionary"]
+REVERSE_VOCAB_FIELDS = ["Basic meanings of word", "Masculine Singular", "Feminine Singular", "Masculine Plural", "Feminine Plural", "Adverb", "Infinitive", "Past Participle", "Present Participle", "Example sentences", "Wiktionary"]
 
-
-class FileType(StrEnum):
-    Csv = ".csv"
-    Markdown = ".md"
-
-
-class FileType(Enum):
-    Grammar = 0
-    Adjectives = 1
-    Nouns = 2
-    Verbs = 3
-
-
-
-@dataclass(frozen=True)
-class File:
-    path: Path
-    type: FileType
 
 
 class VocabType:
@@ -140,6 +122,25 @@ class AdverbVocab(VocabType):
         }
 
 
+@dataclass(frozen=True)
+class MiscVocab(VocabType):
+    TYPE = "Misc"
+
+    word: str
+    meanings: str
+    examples: str | None
+    wiktionary: str | None
+
+    def to_dict(self):
+        return {
+            "Word": self.word,
+            "Adverb": self.word,
+            "Basic meanings of word": self.meanings,
+            "Example sentences": self.examples,
+            "Wiktionary": self.wiktionary,
+        }
+
+
 class Generator(Protocol):
     def generate_files(self, src_dir: Path, dest_dir: Path):
         for d in src_dir.iterdir():
@@ -186,6 +187,8 @@ class Generator(Protocol):
             return VerbVocab.parse(csv_text)
         elif filename == "adverbs.csv":
             return AdverbVocab.parse(csv_text)
+        elif filename == "misc.csv":
+            return MiscVocab.parse(csv_text)
         else:
             raise NotImplementedError(filename)
     
@@ -227,32 +230,35 @@ class AnkiGenerator(Generator):
         dest_file = dest_deck_dir / "grammar.txt"
         dest_file.write_text(self.format_grammar_files(grammar_files))
     
-    def format_vocab(self, vocab: NounVocab | AdjectiveVocab | VerbVocab):
+    def format_vocab(self, vocab: NounVocab | AdjectiveVocab | VerbVocab | AdverbVocab | MiscVocab, fields: list[str]):
         word_dict = vocab.to_dict()
         word_fields: list[str] = []
-        for field in FIELDS:
+        for field in fields:
             word_fields.append(word_dict.get(field, "") or "")
         return "|".join(word_fields)
     
     
-    def format_vocab_files(self, vocab_files: list[tuple[str, str]]):
+    def format_vocab_files(self, vocab_files: list[tuple[str, str]], fields: list[str]):
         dest_lines = [
             "#separator:Pipe",
-            "#columns:" + "|".join(FIELDS),
+            "#columns:" + "|".join(fields),
         ]
 
         formatted_lines: list[str] = []
 
         for vocab_file, vocab_text in vocab_files:
             parsed_lines = self.parse_vocab_file(vocab_file, vocab_text)
-            formatted_lines.extend([self.format_vocab(line) for line in parsed_lines])
+            formatted_lines.extend([self.format_vocab(line, fields) for line in parsed_lines])
 
         dest_lines.extend(sorted(formatted_lines))
         return "\n".join(dest_lines)
-
+    
     def generate_vocab(self, dest_deck_dir: Path, vocab_files: list[tuple[str, str]]):
         dest_file = dest_deck_dir / "vocab.txt"
-        dest_file.write_text(self.format_vocab_files(vocab_files))
+        dest_file.write_text(self.format_vocab_files(vocab_files, VOCAB_FIELDS))
+
+        reverse_dest_file = dest_deck_dir / "reverse-vocab.txt"
+        reverse_dest_file.write_text(self.format_vocab_files(vocab_files, REVERSE_VOCAB_FIELDS))
 
 
 class MarkdownGenerator(Generator):
@@ -271,7 +277,7 @@ class MarkdownGenerator(Generator):
         formatted_lines.append(f"## {first.TYPE}")
 
         fields = first.to_dict().keys()
-        fields = [f for f in FIELDS if f in fields]
+        fields = [f for f in VOCAB_FIELDS if f in fields]
         formatted_lines.append("| " + " | ".join(fields) + " |")
         formatted_lines.append("| " + " | ".join(["---"] * len(fields)) + " |")
         for line in parsed_lines:

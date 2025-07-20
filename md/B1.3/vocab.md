@@ -11,10 +11,13 @@
 ## Adverbs
 | Word | Adverb | Basic meanings of word | Example sentences | Wiktionary |
 | --- | --- | --- | --- | --- |
-| dès que | dès que | Conjunction: Once, as soon as |  |  |
 | concrètement | concrètement | Adverb: concretely, solidly |  |  |
 | par la suite | par la suite | Adverb: Subsequently, afterwards, later |  |  |
 | vivement | vivement | Adverb: forcefully, vigorously |  |  |
+## Misc
+| Word | Adverb | Basic meanings of word | Example sentences | Wiktionary |
+| --- | --- | --- | --- | --- |
+| dès que | dès que | Conjunction: Once, as soon as |  |  |
 ## Nouns
 | Word | Masculine Singular | Feminine Singular | Masculine Plural | Feminine Plural | Basic meanings of word | Example sentences | Wiktionary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
