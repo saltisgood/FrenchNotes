@@ -31,3 +31,7 @@ To generate the compiled files:
 - To adjust styling: From main screen, click the top centre button `Browse`. Click on a deck and card that you want to change. Click on `Cards...` button.
 - To adjust fields: Same as above but click on `Fields...` button.
 
+## TODO
+
+- Remove the `Noun:`, `Adjective:`, etc prefixes and just generate them dynamically
+- Add colour styling in the markdown generation for vocab
