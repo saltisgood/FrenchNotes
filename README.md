@@ -21,6 +21,13 @@ To generate the compiled files:
 
 - From the main area in the app, click on `Import File`
 - Select the file you want to import
-- Select the correct note type. For vocab files should be `French to English Noun`, for grammar should be `French Grammar`.
+- Select the correct note type. For vocab files should be `French to English Noun`, for English to French vocab should be `English to French` and for grammar should be `French Grammar`.
 - Check the fields look correctly mapped and click `Import`
+- **Remember to sync to/from your other devices**
+
+### Basic Anki Windows app instructions
+
+- Create deck: On main screen, bottom centre button `Create Deck`. Enter a name with levels separated by `::`
+- To adjust styling: From main screen, click the top centre button `Browse`. Click on a deck and card that you want to change. Click on `Cards...` button.
+- To adjust fields: Same as above but click on `Fields...` button.
 
