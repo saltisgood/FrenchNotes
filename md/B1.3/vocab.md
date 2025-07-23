@@ -101,7 +101,7 @@
 | consigner | consigné | consignant | Verb: To consign, to record, (school) to give detention |  | [Link](<https://en.wiktionary.org/wiki/consigner#French>) |
 | constater | constaté | constatant | Verb: To note, notice, certify |  | [Link](<https://en.wiktionary.org/wiki/constater#French>) |
 | contacter | conctacté | contactant | Verb: to contact |  | [Link](<https://en.wiktionary.org/wiki/contacter#French>) |
-| correespondre | correspondu | correspondant | Verb: to correspond (+ à), to write to |  | [Link](<https://en.wiktionary.org/wiki/correespondre#French>) |
+| correspondre | correspondu | correspondant | Verb: to correspond (+ à), to write to |  | [Link](<https://en.wiktionary.org/wiki/correspondre#French>) |
 | critiquer | critiqué | critiquant | Verb: to criticise |  | [Link](<https://en.wiktionary.org/wiki/critiquer#French>) |
 | défendre | défendu | défendant | Verb: to defend, forbid |  | [Link](<https://en.wiktionary.org/wiki/défendre#French>) |
 | dérouler | déroulé | déroulant | Verb: to unroll. (reflexive) to unravel, unfold |  | [Link](<https://en.wiktionary.org/wiki/dérouler#French>) |

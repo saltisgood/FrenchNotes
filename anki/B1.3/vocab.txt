@@ -26,7 +26,7 @@ constater|||||||constaté|constatant|Verb: To note, notice, certify||
 conséquence||la conséquence||les conséquences|||||Noun: consequence||
 contacter|||||||conctacté|contactant|Verb: to contact||
 contenu|le contenu||les contenus||||||Noun: content||
-correespondre|||||||correspondu|correspondant|Verb: to correspond (+ à), to write to||
+correspondre|||||||correspondu|correspondant|Verb: to correspond (+ à), to write to||
 critiquer|||||||critiqué|critiquant|Verb: to criticise||
 critique||la critique||les critiques|||||Noun: criticism, review. Adjective: critical||
 davantage|||||davantage||||Adverb: more||
