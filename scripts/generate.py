@@ -2,14 +2,13 @@ import marko
 
 from argparse import ArgumentParser
 from dataclasses import dataclass, fields
-from enum import Enum, StrEnum
 from pathlib import Path
 from shutil import rmtree
 from typing import Protocol
 
+
 VOCAB_FIELDS = ["Word", "Masculine Singular", "Feminine Singular", "Masculine Plural", "Feminine Plural", "Adverb", "Infinitive", "Past Participle", "Present Participle", "Basic meanings of word", "Example sentences", "Wiktionary"]
 REVERSE_VOCAB_FIELDS = ["Basic meanings of word", "Masculine Singular", "Feminine Singular", "Masculine Plural", "Feminine Plural", "Adverb", "Infinitive", "Past Participle", "Present Participle", "Example sentences", "Wiktionary"]
-
 
 
 class VocabType:
@@ -21,6 +20,10 @@ class VocabType:
             if val:
                 return False
         return True
+    
+    @staticmethod
+    def format_wiki_link(word: str, wiktionary: str | None):
+        return f'https://en.wiktionary.org/wiki/{word}#French'
 
     @classmethod
     def parse(clazz, csv_text: str):
@@ -282,6 +285,7 @@ class MarkdownGenerator(Generator):
         formatted_lines.append("| " + " | ".join(["---"] * len(fields)) + " |")
         for line in parsed_lines:
             values = line.to_dict()
+            values["Wiktionary"] = f"[Link]({VocabType.format_wiki_link(values['Word'], values['Wiktionary'])})"
             formatted_lines.append("| " + " | ".join([values[f] for f in fields]) + " |")
         
         return formatted_lines
