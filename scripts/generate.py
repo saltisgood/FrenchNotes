@@ -285,7 +285,7 @@ class MarkdownGenerator(Generator):
         formatted_lines.append("| " + " | ".join(["---"] * len(fields)) + " |")
         for line in parsed_lines:
             values = line.to_dict()
-            values["Wiktionary"] = f"[Link]({VocabType.format_wiki_link(values['Word'], values['Wiktionary'])})"
+            values["Wiktionary"] = f"[Link](<{VocabType.format_wiki_link(values['Word'], values['Wiktionary'])}>)"
             formatted_lines.append("| " + " | ".join([values[f] for f in fields]) + " |")
         
         return formatted_lines
