@@ -18,10 +18,13 @@ Adverb: forcefully, vigorously|||||vivement|||||
 Adverb: more|||||davantage|||||
 Adverb: really, genuinely, in fact|||||réellement|||||
 Conjunction: Once, as soon as|||||dès que|||||
+Conjunction: Since, because|||||puisque|||||
 Noun (also adjective): a polyglot|le polyglotte|la polyglotte|les polyglottes|les polyglottes||||||
 Noun (also adjective): military|le militaire||les militaires|||||||
 Noun (also adjective): volunteer (or voluntary)|le volontaire|la volontaire|les volontaires|les volontiares||||||
+Noun: (lit.) Deep France. Meaning very conservative country areas.||la France pronde||||||||
 Noun: Iceland||Islande||||||||
+Noun: NGO. Non government organisation||l'Organisation non-gouvernementale||||||||
 Noun: Piece of news. Novella/short story.||la nouvelle||les nouvelles||||||
 Noun: Piece of publicity|l'encart||les encarts|||||||
 Noun: a large amount of something (a mass), a majority (of people), mass (physics), a paste, dough||la masse||les masses||||||
@@ -30,6 +33,8 @@ Noun: ancestors, old people (plural only)|||les aïeux|||||||
 Noun: authority||l'autorité||les autorités||||||
 Noun: beauty||la beauté||les beautés||||||
 Noun: behaviour, demeanour|le comportement||les comportements|||||||
+Noun: blunder, mistake (also adj.) (maths) odd|l'impair||les impairs|||||||
+Noun: bogan|le beauf||les beaufs|||||||
 Noun: buy, purchase|l'achat||les achats|||||||
 Noun: catastrophe||la catastrophe||les catastrophes||||||
 Noun: citizenship||la citoyenneté||les citoyennetés||||||
@@ -44,8 +49,12 @@ Noun: diagram, computer graphics||l'infographie||les infographies||||||
 Noun: diplomacy||la diplomatie||les diplomaties||||||
 Noun: editor in chief|le rédacteur en chef|la rédactrice en chef|les rédacteurs en chef|les rédactrices en chef||||||
 Noun: editor, author of a book or publication|le rédacteur|la rédactrice|les rédacteurs|les rédactrices||||||
+Noun: education, formation||la formation||les formations||||||
 Noun: foundation||la fondation||les fondations||||||
+Noun: gesture|le geste||les gestes|||||||
+Noun: gift, donation|le don||les dons|||||||
 Noun: government|le gouvernement||les gouvernements|||||||
+Noun: greenness (like grassy areas)||la verdure||les verdures||||||
 Noun: heritage, inheritance, legacy|l'héritage||les héritages|||||||
 Noun: importance, significance||l'importance||les importances||||||
 Noun: initiative||l'initiative||les initiatives||||||
@@ -62,12 +71,15 @@ Noun: organiser, host|l'organisateur|l'organisatrice|les organisateurs|les organ
 Noun: outcome, result|le résultat||les résultats|||||||
 Noun: partnership|le partenariat||les partenariats|||||||
 Noun: passage of text|le passage||les passages|||||||
+Noun: peer (also adj.) (maths) even|le pair||les pairs|||||||
 Noun: program|le programme||les programmes|||||||
 Noun: protocol|le protocole||les protocoles|||||||
 Noun: racism|le racisme|||||||||
+Noun: show off|le kéké||les kékés|||||||
 Noun: silhouette||la silhouette||les silhouettes||||||
 Noun: solidarity||la solidarité||les solidarités||||||
-Noun: speaker, stakeholder|l'intervenant|l'intervenante|les intervenants|les intervenantes||||||
+Noun: spare wheel||la roue de secours||les roues de secours||||||
+Noun: speaker, stakeholder, consultant|l'intervenant|l'intervenante|les intervenants|les intervenantes||||||
 Noun: staff, personnel|le personnel||les personnels|||||||
 Noun: status, statute|le statut||les statuts|||||||
 Noun: struggle, fight, battle||la lutte||les luttes||||||
@@ -76,14 +88,18 @@ Noun: tax||la taxe||les taxes||||||
 Noun: tool|l'outil||les outils|||||||
 Noun: trick, tip||l'astuce||les astuces||||||
 Noun: upkeep, maintaining, behaviour|le maintien||les maintiens|||||||
+Noun: volunteering (act of volunteering)|le volontariat||les volontariats|||||||
 Noun: worry, (plural) cares, concern||la préoccupation||les préoccupations||||||
 Noun: writing, handwriting||l'écriture||les écritures||||||
 Preposition: since, from|||||dès|||||
+To get drunk|||||se bourrer la gueule|||||
+Verb: (trans.) To stuff (incl with food/drink). (reflex.) To get drunk||||||bourrer|bourré|bourrant||
 Verb: (transitive) To deceive, trick (incl cheating on a partner). (reflexive) To make a mistake, be wrong.||||||tromper|trompé|trompant||
 Verb: To affect, influence||||||affecter|affecté|affectant||
 Verb: To alternate||||||alterner|alterné|alternant||
 Verb: To belong to, to concern||||||appartenir|appartenu|appartenant||
 Verb: To consign, to record, (school) to give detention||||||consigner|consigné|consignant||
+Verb: To dare||||||oser|osé|osant||
 Verb: To diffuse, to broadcast||||||diffuser|diffusé|diffusant||
 Verb: To direct, fulfill, perform, make, realise. Reflexive: to become real||||||réaliser|réalisé|réalisant||
 Verb: To impose. (Reflexive) To triumph, to be required||||||imposer|imposé|imposant||
@@ -99,6 +115,7 @@ Verb: to collect, gather, obtain. (reflexive) To reflect, meditate||||||recueill
 Verb: to contact||||||contacter|conctacté|contactant||
 Verb: to correspond (+ à), to write to||||||correspondre|correspondu|correspondant||
 Verb: to criticise||||||critiquer|critiqué|critiquant||
+Verb: to dedicate||||||dédier|dédié|dédiant||
 Verb: to defend, forbid||||||défendre|défendu|défendant||
 Verb: to determine, establish||||||déterminer|déterminé|déterminant||
 Verb: to diminish, decrease||||||diminuer|diminué|diminuant||

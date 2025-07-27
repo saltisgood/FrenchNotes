@@ -27,6 +27,8 @@
 | --- | --- | --- | --- | --- |
 | dès | dès | Preposition: since, from |  | [Link](<https://en.wiktionary.org/wiki/dès#French>) |
 | dès que | dès que | Conjunction: Once, as soon as |  | [Link](<https://en.wiktionary.org/wiki/dès que#French>) |
+| puisque | puisque | Conjunction: Since, because |  | [Link](<https://en.wiktionary.org/wiki/puisque#French>) |
+| se bourrer la gueule | se bourrer la gueule | To get drunk |  | [Link](<https://en.wiktionary.org/wiki/se bourrer la gueule#French>) |
 ## Nouns
 | Word | Masculine Singular | Feminine Singular | Masculine Plural | Feminine Plural | Basic meanings of word | Example sentences | Wiktionary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -34,6 +36,7 @@
 | aïeux |  |  | les aïeux |  | Noun: ancestors, old people (plural only) |  | [Link](<https://en.wiktionary.org/wiki/aïeux#French>) |
 | astuce |  | l'astuce |  | les astuces | Noun: trick, tip |  | [Link](<https://en.wiktionary.org/wiki/astuce#French>) |
 | autorité |  | l'autorité |  | les autorités | Noun: authority |  | [Link](<https://en.wiktionary.org/wiki/autorité#French>) |
+| beauf | le beauf |  | les beaufs |  | Noun: bogan |  | [Link](<https://en.wiktionary.org/wiki/beauf#French>) |
 | beauté |  | la beauté |  | les beautés | Noun: beauty |  | [Link](<https://en.wiktionary.org/wiki/beauté#French>) |
 | catastrophe |  | la catastrophe |  | les catastrophes | Noun: catastrophe |  | [Link](<https://en.wiktionary.org/wiki/catastrophe#French>) |
 | citoyenneté |  | la citoyenneté |  | les citoyennetés | Noun: citizenship |  | [Link](<https://en.wiktionary.org/wiki/citoyenneté#French>) |
@@ -43,21 +46,27 @@
 | contenu | le contenu |  | les contenus |  | Noun: content |  | [Link](<https://en.wiktionary.org/wiki/contenu#French>) |
 | critique |  | la critique |  | les critiques | Noun: criticism, review. Adjective: critical |  | [Link](<https://en.wiktionary.org/wiki/critique#French>) |
 | diplomatie |  | la diplomatie |  | les diplomaties | Noun: diplomacy |  | [Link](<https://en.wiktionary.org/wiki/diplomatie#French>) |
+| don | le don |  | les dons |  | Noun: gift, donation |  | [Link](<https://en.wiktionary.org/wiki/don#French>) |
 | écriture |  | l'écriture |  | les écritures | Noun: writing, handwriting |  | [Link](<https://en.wiktionary.org/wiki/écriture#French>) |
 | encart | l'encart |  | les encarts |  | Noun: Piece of publicity |  | [Link](<https://en.wiktionary.org/wiki/encart#French>) |
 | engagement | l'engagement |  | les engagements |  | Noun: commitment, engagement |  | [Link](<https://en.wiktionary.org/wiki/engagement#French>) |
 | exigence |  | l'exigence |  | les exigence | Noun: demand |  | [Link](<https://en.wiktionary.org/wiki/exigence#French>) |
 | fondation |  | la fondation |  | les fondations | Noun: foundation |  | [Link](<https://en.wiktionary.org/wiki/fondation#French>) |
+| formation |  | la formation |  | les formations | Noun: education, formation |  | [Link](<https://en.wiktionary.org/wiki/formation#French>) |
+| France profonde |  | la France pronde |  |  | Noun: (lit.) Deep France. Meaning very conservative country areas. |  | [Link](<https://en.wiktionary.org/wiki/France profonde#French>) |
 | infographie |  | l'infographie |  | les infographies | Noun: diagram, computer graphics |  | [Link](<https://en.wiktionary.org/wiki/infographie#French>) |
 | initiative |  | l'initiative |  | les initiatives | Noun: initiative |  | [Link](<https://en.wiktionary.org/wiki/initiative#French>) |
 | géomètre | le géomètre | la géomètre | les géomètres | les géomètres | Noun: surveyor |  | [Link](<https://en.wiktionary.org/wiki/géomètre#French>) |
+| geste | le geste |  | les gestes |  | Noun: gesture |  | [Link](<https://en.wiktionary.org/wiki/geste#French>) |
 | gestion |  | la gestion |  | les gestions | Noun: administration, management |  | [Link](<https://en.wiktionary.org/wiki/gestion#French>) |
 | gouvernement | le gouvernement |  | les gouvernements |  | Noun: government |  | [Link](<https://en.wiktionary.org/wiki/gouvernement#French>) |
 | héritage | l'héritage |  | les héritages |  | Noun: heritage, inheritance, legacy |  | [Link](<https://en.wiktionary.org/wiki/héritage#French>) |
 | hors-piste | l'hors-piste |  | les hors-pistes |  | Noun: off-piste |  | [Link](<https://en.wiktionary.org/wiki/hors-piste#French>) |
+| impair | l'impair |  | les impairs |  | Noun: blunder, mistake (also adj.) (maths) odd |  | [Link](<https://en.wiktionary.org/wiki/impair#French>) |
 | importance |  | l'importance |  | les importances | Noun: importance, significance |  | [Link](<https://en.wiktionary.org/wiki/importance#French>) |
 | intérêt | l'intérêt |  | les intérêts |  | Noun: interest |  | [Link](<https://en.wiktionary.org/wiki/intérêt#French>) |
-| intervenant | l'intervenant | l'intervenante | les intervenants | les intervenantes | Noun: speaker, stakeholder |  | [Link](<https://en.wiktionary.org/wiki/intervenant#French>) |
+| intervenant | l'intervenant | l'intervenante | les intervenants | les intervenantes | Noun: speaker, stakeholder, consultant |  | [Link](<https://en.wiktionary.org/wiki/intervenant#French>) |
+| kéké | le kéké |  | les kékés |  | Noun: show off |  | [Link](<https://en.wiktionary.org/wiki/kéké#French>) |
 | Islande |  | Islande |  |  | Noun: Iceland |  | [Link](<https://en.wiktionary.org/wiki/Islande#French>) |
 | littérature |  | la littérature |  | les littératures | Noun: literature |  | [Link](<https://en.wiktionary.org/wiki/littérature#French>) |
 | lutte |  | la lutte |  | les luttes | Noun: struggle, fight, battle |  | [Link](<https://en.wiktionary.org/wiki/lutte#French>) |
@@ -69,9 +78,11 @@
 | ministère | le ministère |  | les ministères |  | Noun: ministry |  | [Link](<https://en.wiktionary.org/wiki/ministère#French>) |
 | mise en place |  | la mise en place |  | les mises en place | Noun: installation. Literally put in place |  | [Link](<https://en.wiktionary.org/wiki/mise en place#French>) |
 | nouvelle |  | la nouvelle |  | les nouvelles | Noun: Piece of news. Novella/short story. |  | [Link](<https://en.wiktionary.org/wiki/nouvelle#French>) |
+| ONG |  | l'Organisation non-gouvernementale |  |  | Noun: NGO. Non government organisation |  | [Link](<https://en.wiktionary.org/wiki/ONG#French>) |
 | organisateur | l'organisateur | l'organisatrice | les organisateurs | les organisatrices | Noun: organiser, host |  | [Link](<https://en.wiktionary.org/wiki/organisateur#French>) |
 | organisation |  | l'organisation |  | les organisations | Noun: organisation |  | [Link](<https://en.wiktionary.org/wiki/organisation#French>) |
 | outil | l'outil |  | les outils |  | Noun: tool |  | [Link](<https://en.wiktionary.org/wiki/outil#French>) |
+| pair | le pair |  | les pairs |  | Noun: peer (also adj.) (maths) even |  | [Link](<https://en.wiktionary.org/wiki/pair#French>) |
 | partenariat | le partenariat |  | les partenariats |  | Noun: partnership |  | [Link](<https://en.wiktionary.org/wiki/partenariat#French>) |
 | passage | le passage |  | les passages |  | Noun: passage of text |  | [Link](<https://en.wiktionary.org/wiki/passage#French>) |
 | personnel | le personnel |  | les personnels |  | Noun: staff, personnel |  | [Link](<https://en.wiktionary.org/wiki/personnel#French>) |
@@ -85,11 +96,14 @@
 | rédacteur en chef | le rédacteur en chef | la rédactrice en chef | les rédacteurs en chef | les rédactrices en chef | Noun: editor in chief |  | [Link](<https://en.wiktionary.org/wiki/rédacteur en chef#French>) |
 | résultat | le résultat |  | les résultats |  | Noun: outcome, result |  | [Link](<https://en.wiktionary.org/wiki/résultat#French>) |
 | revue |  | la revue |  | les revues | Noun: magazine, journal |  | [Link](<https://en.wiktionary.org/wiki/revue#French>) |
+| roue de secours |  | la roue de secours |  | les roues de secours | Noun: spare wheel |  | [Link](<https://en.wiktionary.org/wiki/roue de secours#French>) |
 | silhouette |  | la silhouette |  | les silhouettes | Noun: silhouette |  | [Link](<https://en.wiktionary.org/wiki/silhouette#French>) |
 | solidarité |  | la solidarité |  | les solidarités | Noun: solidarity |  | [Link](<https://en.wiktionary.org/wiki/solidarité#French>) |
 | statut | le statut |  | les statuts |  | Noun: status, statute |  | [Link](<https://en.wiktionary.org/wiki/statut#French>) |
 | taxe |  | la taxe |  | les taxes | Noun: tax |  | [Link](<https://en.wiktionary.org/wiki/taxe#French>) |
+| verdure |  | la verdure |  | les verdures | Noun: greenness (like grassy areas) |  | [Link](<https://en.wiktionary.org/wiki/verdure#French>) |
 | volontaire | le volontaire | la volontaire | les volontaires | les volontiares | Noun (also adjective): volunteer (or voluntary) |  | [Link](<https://en.wiktionary.org/wiki/volontaire#French>) |
+| volontariat | le volontariat |  | les volontariats |  | Noun: volunteering (act of volunteering) |  | [Link](<https://en.wiktionary.org/wiki/volontariat#French>) |
 ## Verbs
 | Word | Infinitive | Past Participle | Present Participle | Basic meanings of word | Example sentences | Wiktionary |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -97,12 +111,14 @@
 | alterner | alterner | alterné | alternant | Verb: To alternate |  | [Link](<https://en.wiktionary.org/wiki/alterner#French>) |
 | appartenir | appartenir | appartenu | appartenant | Verb: To belong to, to concern |  | [Link](<https://en.wiktionary.org/wiki/appartenir#French>) |
 | approuver | approuver | approuvé | approuvant | Verb: to approve of |  | [Link](<https://en.wiktionary.org/wiki/approuver#French>) |
+| bourrer | bourrer | bourré | bourrant | Verb: (trans.) To stuff (incl with food/drink). (reflex.) To get drunk |  | [Link](<https://en.wiktionary.org/wiki/bourrer#French>) |
 | charger | charger | chargé | chargeant | Verb: To load, charge. (Reflexive) To take care of |  | [Link](<https://en.wiktionary.org/wiki/charger#French>) |
 | consigner | consigner | consigné | consignant | Verb: To consign, to record, (school) to give detention |  | [Link](<https://en.wiktionary.org/wiki/consigner#French>) |
 | constater | constater | constaté | constatant | Verb: To note, notice, certify |  | [Link](<https://en.wiktionary.org/wiki/constater#French>) |
 | contacter | contacter | conctacté | contactant | Verb: to contact |  | [Link](<https://en.wiktionary.org/wiki/contacter#French>) |
 | correspondre | correspondre | correspondu | correspondant | Verb: to correspond (+ à), to write to |  | [Link](<https://en.wiktionary.org/wiki/correspondre#French>) |
 | critiquer | critiquer | critiqué | critiquant | Verb: to criticise |  | [Link](<https://en.wiktionary.org/wiki/critiquer#French>) |
+| dédier | dédier | dédié | dédiant | Verb: to dedicate |  | [Link](<https://en.wiktionary.org/wiki/dédier#French>) |
 | défendre | défendre | défendu | défendant | Verb: to defend, forbid |  | [Link](<https://en.wiktionary.org/wiki/défendre#French>) |
 | dérouler | dérouler | déroulé | déroulant | Verb: to unroll. (reflexive) to unravel, unfold |  | [Link](<https://en.wiktionary.org/wiki/dérouler#French>) |
 | déterminer | déterminer | déterminé | déterminant | Verb: to determine, establish |  | [Link](<https://en.wiktionary.org/wiki/déterminer#French>) |
@@ -120,6 +136,7 @@
 | mémoriser | mémoriser | mémorisé | mémorisant | Verb: To memorise |  | [Link](<https://en.wiktionary.org/wiki/mémoriser#French>) |
 | imposer | imposer | imposé | imposant | Verb: To impose. (Reflexive) To triumph, to be required |  | [Link](<https://en.wiktionary.org/wiki/imposer#French>) |
 | obéir | obéir | obéi | obéissant | Verb: to obey |  | [Link](<https://en.wiktionary.org/wiki/obéir#French>) |
+| oser | oser | osé | osant | Verb: To dare |  | [Link](<https://en.wiktionary.org/wiki/oser#French>) |
 | procurer | procurer | procuré | procurant | Verb: to get/obtain |  | [Link](<https://en.wiktionary.org/wiki/procurer#French>) |
 | rapproacher | rapproacher | rapproaché | rapproachant | Verb: To reapproach, come/bring closer. (reflexive + de) to get closer (to) |  | [Link](<https://en.wiktionary.org/wiki/rapproacher#French>) |
 | réaliser | réaliser | réalisé | réalisant | Verb: To direct, fulfill, perform, make, realise. Reflexive: to become real |  | [Link](<https://en.wiktionary.org/wiki/réaliser#French>) |
