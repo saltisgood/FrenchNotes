@@ -79,39 +79,39 @@ Noun: upkeep, maintaining, behaviour|le maintien||les maintiens|||||||
 Noun: worry, (plural) cares, concern||la préoccupation||les préoccupations||||||
 Noun: writing, handwriting||l'écriture||les écritures||||||
 Preposition: since, from|||||dès|||||
-Verb: (transitive) To deceive, trick (incl cheating on a partner). (reflexive) To make a mistake, be wrong.|||||||trompé|trompant||
-Verb: To affect, influence|||||||affecté|affectant||
-Verb: To alternate|||||||alterné|alternant||
-Verb: To belong to, to concern|||||||appartenu|appartenant||
-Verb: To consign, to record, (school) to give detention|||||||consigné|consignant||
-Verb: To diffuse, to broadcast|||||||diffusé|diffusant||
-Verb: To direct, fulfill, perform, make, realise. Reflexive: to become real|||||||réalisé|réalisant||
-Verb: To impose. (Reflexive) To triumph, to be required|||||||imposé|imposant||
-Verb: To load, charge. (Reflexive) To take care of|||||||chargé|chargeant||
-Verb: To memorise|||||||mémorisé|mémorisant||
-Verb: To note, notice, certify|||||||constaté|constatant||
-Verb: To pledge, hire, involve, encourage, enlist, enter into|||||||engagé|engageant||
-Verb: To reapproach, come/bring closer. (reflexive + de) to get closer (to)|||||||rapproaché|rapproachant||
-Verb: To transcribe|||||||transcrit|transcrivant||
-Verb: to add/place value|||||||valorisé|valorisant||
-Verb: to approve of|||||||approuvé|approuvant||
-Verb: to collect, gather, obtain. (reflexive) To reflect, meditate|||||||recueilli|recueillant||
-Verb: to contact|||||||conctacté|contactant||
-Verb: to correspond (+ à), to write to|||||||correspondu|correspondant||
-Verb: to criticise|||||||critiqué|critiquant||
-Verb: to defend, forbid|||||||défendu|défendant||
-Verb: to determine, establish|||||||déterminé|déterminant||
-Verb: to diminish, decrease|||||||diminué|diminuant||
-Verb: to discipline, punish|||||||discipliné|disciplinant||
-Verb: to educate|||||||éduqué|éduquant||
-Verb: to fund, finance|||||||financé|finançant||
-Verb: to get/obtain|||||||procuré|procurant||
-Verb: to intervene, to take part|||||||intervenu|intervenant||
-Verb: to invent|||||||inventé|inventant||
-Verb: to invest|||||||investi|investissant||
-Verb: to limit|||||||limité|limitant||
-Verb: to obey|||||||obéi|obéissant||
-Verb: to roll, revolve|||||||roulé|roulant||
-Verb: to signify, mean|||||||signifié|signifiant||
-Verb: to struggle, to fight|||||||lutté|luttant||
-Verb: to unroll. (reflexive) to unravel, unfold|||||||déroulé|déroulant||
+Verb: (transitive) To deceive, trick (incl cheating on a partner). (reflexive) To make a mistake, be wrong.||||||tromper|trompé|trompant||
+Verb: To affect, influence||||||affecter|affecté|affectant||
+Verb: To alternate||||||alterner|alterné|alternant||
+Verb: To belong to, to concern||||||appartenir|appartenu|appartenant||
+Verb: To consign, to record, (school) to give detention||||||consigner|consigné|consignant||
+Verb: To diffuse, to broadcast||||||diffuser|diffusé|diffusant||
+Verb: To direct, fulfill, perform, make, realise. Reflexive: to become real||||||réaliser|réalisé|réalisant||
+Verb: To impose. (Reflexive) To triumph, to be required||||||imposer|imposé|imposant||
+Verb: To load, charge. (Reflexive) To take care of||||||charger|chargé|chargeant||
+Verb: To memorise||||||mémoriser|mémorisé|mémorisant||
+Verb: To note, notice, certify||||||constater|constaté|constatant||
+Verb: To pledge, hire, involve, encourage, enlist, enter into||||||engager|engagé|engageant||
+Verb: To reapproach, come/bring closer. (reflexive + de) to get closer (to)||||||rapproacher|rapproaché|rapproachant||
+Verb: To transcribe||||||transcrire|transcrit|transcrivant||
+Verb: to add/place value||||||valoriser|valorisé|valorisant||
+Verb: to approve of||||||approuver|approuvé|approuvant||
+Verb: to collect, gather, obtain. (reflexive) To reflect, meditate||||||recueillir|recueilli|recueillant||
+Verb: to contact||||||contacter|conctacté|contactant||
+Verb: to correspond (+ à), to write to||||||correspondre|correspondu|correspondant||
+Verb: to criticise||||||critiquer|critiqué|critiquant||
+Verb: to defend, forbid||||||défendre|défendu|défendant||
+Verb: to determine, establish||||||déterminer|déterminé|déterminant||
+Verb: to diminish, decrease||||||diminuer|diminué|diminuant||
+Verb: to discipline, punish||||||discipliner|discipliné|disciplinant||
+Verb: to educate||||||éduquer|éduqué|éduquant||
+Verb: to fund, finance||||||financer|financé|finançant||
+Verb: to get/obtain||||||procurer|procuré|procurant||
+Verb: to intervene, to take part||||||intervenir|intervenu|intervenant||
+Verb: to invent||||||inventer|inventé|inventant||
+Verb: to invest||||||investir|investi|investissant||
+Verb: to limit||||||limiter|limité|limitant||
+Verb: to obey||||||obéir|obéi|obéissant||
+Verb: to roll, revolve||||||rouler|roulé|roulant||
+Verb: to signify, mean||||||signifier|signifié|signifiant||
+Verb: to struggle, to fight||||||lutter|lutté|luttant||
+Verb: to unroll. (reflexive) to unravel, unfold||||||dérouler|déroulé|déroulant||

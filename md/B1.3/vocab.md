@@ -91,41 +91,41 @@
 | taxe |  | la taxe |  | les taxes | Noun: tax |  | [Link](<https://en.wiktionary.org/wiki/taxe#French>) |
 | volontaire | le volontaire | la volontaire | les volontaires | les volontiares | Noun (also adjective): volunteer (or voluntary) |  | [Link](<https://en.wiktionary.org/wiki/volontaire#French>) |
 ## Verbs
-| Word | Past Participle | Present Participle | Basic meanings of word | Example sentences | Wiktionary |
-| --- | --- | --- | --- | --- | --- |
-| affecter | affecté | affectant | Verb: To affect, influence |  | [Link](<https://en.wiktionary.org/wiki/affecter#French>) |
-| alterner | alterné | alternant | Verb: To alternate |  | [Link](<https://en.wiktionary.org/wiki/alterner#French>) |
-| appartenir | appartenu | appartenant | Verb: To belong to, to concern |  | [Link](<https://en.wiktionary.org/wiki/appartenir#French>) |
-| approuver | approuvé | approuvant | Verb: to approve of |  | [Link](<https://en.wiktionary.org/wiki/approuver#French>) |
-| charger | chargé | chargeant | Verb: To load, charge. (Reflexive) To take care of |  | [Link](<https://en.wiktionary.org/wiki/charger#French>) |
-| consigner | consigné | consignant | Verb: To consign, to record, (school) to give detention |  | [Link](<https://en.wiktionary.org/wiki/consigner#French>) |
-| constater | constaté | constatant | Verb: To note, notice, certify |  | [Link](<https://en.wiktionary.org/wiki/constater#French>) |
-| contacter | conctacté | contactant | Verb: to contact |  | [Link](<https://en.wiktionary.org/wiki/contacter#French>) |
-| correspondre | correspondu | correspondant | Verb: to correspond (+ à), to write to |  | [Link](<https://en.wiktionary.org/wiki/correspondre#French>) |
-| critiquer | critiqué | critiquant | Verb: to criticise |  | [Link](<https://en.wiktionary.org/wiki/critiquer#French>) |
-| défendre | défendu | défendant | Verb: to defend, forbid |  | [Link](<https://en.wiktionary.org/wiki/défendre#French>) |
-| dérouler | déroulé | déroulant | Verb: to unroll. (reflexive) to unravel, unfold |  | [Link](<https://en.wiktionary.org/wiki/dérouler#French>) |
-| déterminer | déterminé | déterminant | Verb: to determine, establish |  | [Link](<https://en.wiktionary.org/wiki/déterminer#French>) |
-| diffuser | diffusé | diffusant | Verb: To diffuse, to broadcast |  | [Link](<https://en.wiktionary.org/wiki/diffuser#French>) |
-| diminuer | diminué | diminuant | Verb: to diminish, decrease |  | [Link](<https://en.wiktionary.org/wiki/diminuer#French>) |
-| discipliner | discipliné | disciplinant | Verb: to discipline, punish |  | [Link](<https://en.wiktionary.org/wiki/discipliner#French>) |
-| éduquer | éduqué | éduquant | Verb: to educate |  | [Link](<https://en.wiktionary.org/wiki/éduquer#French>) |
-| engager | engagé | engageant | Verb: To pledge, hire, involve, encourage, enlist, enter into |  | [Link](<https://en.wiktionary.org/wiki/engager#French>) |
-| financer | financé | finançant | Verb: to fund, finance |  | [Link](<https://en.wiktionary.org/wiki/financer#French>) |
-| intervenir | intervenu | intervenant | Verb: to intervene, to take part |  | [Link](<https://en.wiktionary.org/wiki/intervenir#French>) |
-| inventer | inventé | inventant | Verb: to invent |  | [Link](<https://en.wiktionary.org/wiki/inventer#French>) |
-| investir | investi | investissant | Verb: to invest |  | [Link](<https://en.wiktionary.org/wiki/investir#French>) |
-| limiter | limité | limitant | Verb: to limit |  | [Link](<https://en.wiktionary.org/wiki/limiter#French>) |
-| lutter | lutté | luttant | Verb: to struggle, to fight |  | [Link](<https://en.wiktionary.org/wiki/lutter#French>) |
-| mémoriser | mémorisé | mémorisant | Verb: To memorise |  | [Link](<https://en.wiktionary.org/wiki/mémoriser#French>) |
-| imposer | imposé | imposant | Verb: To impose. (Reflexive) To triumph, to be required |  | [Link](<https://en.wiktionary.org/wiki/imposer#French>) |
-| obéir | obéi | obéissant | Verb: to obey |  | [Link](<https://en.wiktionary.org/wiki/obéir#French>) |
-| procurer | procuré | procurant | Verb: to get/obtain |  | [Link](<https://en.wiktionary.org/wiki/procurer#French>) |
-| rapproacher | rapproaché | rapproachant | Verb: To reapproach, come/bring closer. (reflexive + de) to get closer (to) |  | [Link](<https://en.wiktionary.org/wiki/rapproacher#French>) |
-| réaliser | réalisé | réalisant | Verb: To direct, fulfill, perform, make, realise. Reflexive: to become real |  | [Link](<https://en.wiktionary.org/wiki/réaliser#French>) |
-| recueillir | recueilli | recueillant | Verb: to collect, gather, obtain. (reflexive) To reflect, meditate |  | [Link](<https://en.wiktionary.org/wiki/recueillir#French>) |
-| rouler | roulé | roulant | Verb: to roll, revolve |  | [Link](<https://en.wiktionary.org/wiki/rouler#French>) |
-| signifier | signifié | signifiant | Verb: to signify, mean |  | [Link](<https://en.wiktionary.org/wiki/signifier#French>) |
-| transcrire | transcrit | transcrivant | Verb: To transcribe |  | [Link](<https://en.wiktionary.org/wiki/transcrire#French>) |
-| tromper | trompé | trompant | Verb: (transitive) To deceive, trick (incl cheating on a partner). (reflexive) To make a mistake, be wrong. |  | [Link](<https://en.wiktionary.org/wiki/tromper#French>) |
-| valoriser | valorisé | valorisant | Verb: to add/place value |  | [Link](<https://en.wiktionary.org/wiki/valoriser#French>) |
+| Word | Infinitive | Past Participle | Present Participle | Basic meanings of word | Example sentences | Wiktionary |
+| --- | --- | --- | --- | --- | --- | --- |
+| affecter | affecter | affecté | affectant | Verb: To affect, influence |  | [Link](<https://en.wiktionary.org/wiki/affecter#French>) |
+| alterner | alterner | alterné | alternant | Verb: To alternate |  | [Link](<https://en.wiktionary.org/wiki/alterner#French>) |
+| appartenir | appartenir | appartenu | appartenant | Verb: To belong to, to concern |  | [Link](<https://en.wiktionary.org/wiki/appartenir#French>) |
+| approuver | approuver | approuvé | approuvant | Verb: to approve of |  | [Link](<https://en.wiktionary.org/wiki/approuver#French>) |
+| charger | charger | chargé | chargeant | Verb: To load, charge. (Reflexive) To take care of |  | [Link](<https://en.wiktionary.org/wiki/charger#French>) |
+| consigner | consigner | consigné | consignant | Verb: To consign, to record, (school) to give detention |  | [Link](<https://en.wiktionary.org/wiki/consigner#French>) |
+| constater | constater | constaté | constatant | Verb: To note, notice, certify |  | [Link](<https://en.wiktionary.org/wiki/constater#French>) |
+| contacter | contacter | conctacté | contactant | Verb: to contact |  | [Link](<https://en.wiktionary.org/wiki/contacter#French>) |
+| correspondre | correspondre | correspondu | correspondant | Verb: to correspond (+ à), to write to |  | [Link](<https://en.wiktionary.org/wiki/correspondre#French>) |
+| critiquer | critiquer | critiqué | critiquant | Verb: to criticise |  | [Link](<https://en.wiktionary.org/wiki/critiquer#French>) |
+| défendre | défendre | défendu | défendant | Verb: to defend, forbid |  | [Link](<https://en.wiktionary.org/wiki/défendre#French>) |
+| dérouler | dérouler | déroulé | déroulant | Verb: to unroll. (reflexive) to unravel, unfold |  | [Link](<https://en.wiktionary.org/wiki/dérouler#French>) |
+| déterminer | déterminer | déterminé | déterminant | Verb: to determine, establish |  | [Link](<https://en.wiktionary.org/wiki/déterminer#French>) |
+| diffuser | diffuser | diffusé | diffusant | Verb: To diffuse, to broadcast |  | [Link](<https://en.wiktionary.org/wiki/diffuser#French>) |
+| diminuer | diminuer | diminué | diminuant | Verb: to diminish, decrease |  | [Link](<https://en.wiktionary.org/wiki/diminuer#French>) |
+| discipliner | discipliner | discipliné | disciplinant | Verb: to discipline, punish |  | [Link](<https://en.wiktionary.org/wiki/discipliner#French>) |
+| éduquer | éduquer | éduqué | éduquant | Verb: to educate |  | [Link](<https://en.wiktionary.org/wiki/éduquer#French>) |
+| engager | engager | engagé | engageant | Verb: To pledge, hire, involve, encourage, enlist, enter into |  | [Link](<https://en.wiktionary.org/wiki/engager#French>) |
+| financer | financer | financé | finançant | Verb: to fund, finance |  | [Link](<https://en.wiktionary.org/wiki/financer#French>) |
+| intervenir | intervenir | intervenu | intervenant | Verb: to intervene, to take part |  | [Link](<https://en.wiktionary.org/wiki/intervenir#French>) |
+| inventer | inventer | inventé | inventant | Verb: to invent |  | [Link](<https://en.wiktionary.org/wiki/inventer#French>) |
+| investir | investir | investi | investissant | Verb: to invest |  | [Link](<https://en.wiktionary.org/wiki/investir#French>) |
+| limiter | limiter | limité | limitant | Verb: to limit |  | [Link](<https://en.wiktionary.org/wiki/limiter#French>) |
+| lutter | lutter | lutté | luttant | Verb: to struggle, to fight |  | [Link](<https://en.wiktionary.org/wiki/lutter#French>) |
+| mémoriser | mémoriser | mémorisé | mémorisant | Verb: To memorise |  | [Link](<https://en.wiktionary.org/wiki/mémoriser#French>) |
+| imposer | imposer | imposé | imposant | Verb: To impose. (Reflexive) To triumph, to be required |  | [Link](<https://en.wiktionary.org/wiki/imposer#French>) |
+| obéir | obéir | obéi | obéissant | Verb: to obey |  | [Link](<https://en.wiktionary.org/wiki/obéir#French>) |
+| procurer | procurer | procuré | procurant | Verb: to get/obtain |  | [Link](<https://en.wiktionary.org/wiki/procurer#French>) |
+| rapproacher | rapproacher | rapproaché | rapproachant | Verb: To reapproach, come/bring closer. (reflexive + de) to get closer (to) |  | [Link](<https://en.wiktionary.org/wiki/rapproacher#French>) |
+| réaliser | réaliser | réalisé | réalisant | Verb: To direct, fulfill, perform, make, realise. Reflexive: to become real |  | [Link](<https://en.wiktionary.org/wiki/réaliser#French>) |
+| recueillir | recueillir | recueilli | recueillant | Verb: to collect, gather, obtain. (reflexive) To reflect, meditate |  | [Link](<https://en.wiktionary.org/wiki/recueillir#French>) |
+| rouler | rouler | roulé | roulant | Verb: to roll, revolve |  | [Link](<https://en.wiktionary.org/wiki/rouler#French>) |
+| signifier | signifier | signifié | signifiant | Verb: to signify, mean |  | [Link](<https://en.wiktionary.org/wiki/signifier#French>) |
+| transcrire | transcrire | transcrit | transcrivant | Verb: To transcribe |  | [Link](<https://en.wiktionary.org/wiki/transcrire#French>) |
+| tromper | tromper | trompé | trompant | Verb: (transitive) To deceive, trick (incl cheating on a partner). (reflexive) To make a mistake, be wrong. |  | [Link](<https://en.wiktionary.org/wiki/tromper#French>) |
+| valoriser | valoriser | valorisé | valorisant | Verb: to add/place value |  | [Link](<https://en.wiktionary.org/wiki/valoriser#French>) |

@@ -98,6 +98,7 @@ class VerbVocab(VocabType):
     def to_dict(self):
         return {
             "Word": self.word,
+            "Infinitive": self.word,
             "Past Participle": self.past_part,
             "Present Participle": self.present_part,
             "Basic meanings of word": self.meanings,

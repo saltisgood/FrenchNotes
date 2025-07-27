@@ -2,4 +2,4 @@
 #columns:Basic meanings of word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Example sentences|Wiktionary
 Noun: aftershave|l'après-rasage||les après-rasage|||||||
 Noun: small box, case, casket|le coffret||les coffrets|||||||
-Verb: To tease, chastise. Not used much in modern French|||||||châtié|châtiant||
+Verb: To tease, chastise. Not used much in modern French||||||châtier|châtié|châtiant||

@@ -1,9 +1,11 @@
 # French Notes
 
+My French learning notes on grammar and vocab. Set up for importing into Anki and also viewable in markdown format.
+
 ## Structure
 
 - Source files are in `src/`
-- Grammar files are written in markdown, vocab files are CSVs
+- Grammar files are written in markdown, vocab files are CSVs. I recommend using a proper CSV editor for updating them. I'm using ReprEng's CSV extension in VS Code.
 - You can generate the equivalent files in Anki format or Markdown with the included scripts (requires python >= 3.11)
 
 ## Scripts
