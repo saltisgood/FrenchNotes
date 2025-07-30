@@ -415,11 +415,41 @@ class MarkdownGenerator(Generator):
         dest_file = dest_deck_dir / "vocab.md"
         dest_file.write_text(self.format_vocab_files(vocab_files))
     
+    def format_parsed_file(self, typ: T, parsed_lines: Sequence[T]):
+        formatted_lines: list[str] = []
+
+        formatted_lines.append(f"# {typ.DECK_NAME}")
+        formatted_lines.append("")
+
+        fields = typ.FIELDS
+        if "Key" in fields:
+            del fields[fields.index("Key")]
+
+        formatted_lines.append("| " + " | ".join(fields) + " |")
+        formatted_lines.append("| " + " | ".join(["---"] * len(fields)) + " |")
+        for line in parsed_lines:
+            values = line.to_dict()
+            formatted_lines.append("| " + " | ".join([values.get(f, "") for f in fields]) + " |")
+        return "\n".join(formatted_lines)
+    
+    def generate_parsed_file(self, dest_file: Path, typ: T, files: list[tuple[str, str]]):
+        if not files:
+            return
+        
+        if len(files) != 1:
+            raise RuntimeError(f"Expected exactly one {str(typ)} file, got: {len(files)}")
+        
+        dest_file.write_text(self.format_parsed_file(typ, self.parse_csv_file(typ, *files[0])))
+    
     def generate(self, type: FileType, deck_folder: str, dest_deck_dir: Path, files: list[tuple[str, str]]):
         if type == FileType.Grammar:
             self.generate_grammar(dest_deck_dir, files)
         elif type == FileType.Vocab:
             self.generate_vocab(dest_deck_dir, files)
+        elif type == FileType.AdjectivePreposition:
+            self.generate_parsed_file(dest_deck_dir / "adjective-preposition.md", AdjectivePreposition, files)
+        elif type == FileType.VerbPreposition:
+            self.generate_parsed_file(dest_deck_dir / "verb-preposition.md", VerbPreposition, files)
         else:
             print(f"File type {type} is not supported for Markdown generation.")
 
