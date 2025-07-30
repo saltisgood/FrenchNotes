@@ -21,9 +21,22 @@ To generate the compiled files:
 
 ## Anki
 
+- Anki is an app used for helping you memorise things. It basically works through flash cards and periodic reminders. e.g. you view a card once and then if you know it you won't see it again for a day, then 2, then a week, etc.
+- You can import the files from here to load into your app and then start practicing
+
+### Import via apkg
+
+- **Recommended**
+- Find the [latest release](https://github.com/saltisgood/FrenchNotes/releases/latest) and download the apkg file
+- Open the Anki app and click `File / Import`. **Don't select to import progress**
+
+### Import via individual files
+
+- **For advanced users**
+- This repo contains all the individual files that make up the collection which you can import individually if you like
 - From the main area in the app, click on `Import File`
 - Select the file you want to import
-- Select the correct note type. For vocab files should be `French to English Noun`, for English to French vocab should be `English to French` and for grammar should be `French Grammar`.
+- You may have to precreate the decks and note types!
 - Check the fields look correctly mapped and click `Import`
 - **Remember to sync to/from your other devices**
 
