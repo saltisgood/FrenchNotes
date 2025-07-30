@@ -1,17 +1,25 @@
-import marko
-
 from argparse import ArgumentParser
 from dataclasses import dataclass, fields
+from enum import StrEnum
 from pathlib import Path
 from shutil import rmtree
-from typing import Protocol
+from typing import Iterable, Protocol, Sequence, TypeVar
+
+import marko
 
 
-VOCAB_FIELDS = ["Word", "Masculine Singular", "Feminine Singular", "Masculine Plural", "Feminine Plural", "Adverb", "Infinitive", "Past Participle", "Present Participle", "Basic meanings of word", "Example sentences", "Wiktionary"]
-REVERSE_VOCAB_FIELDS = ["Basic meanings of word", "Masculine Singular", "Feminine Singular", "Masculine Plural", "Feminine Plural", "Adverb", "Infinitive", "Past Participle", "Present Participle", "Example sentences", "Wiktionary"]
+class FileType(StrEnum):
+    Grammar = "Grammar"
+    Vocab = "Vocab"
+    AdjectivePreposition = "AdjectivePreposition"
+    VerbPreposition = "VerbPreposition"
 
 
-class VocabType:
+class ParsedFileType:
+    FIELDS: Sequence[str]
+    NOTE_TYPE: str
+    DECK_NAME: str
+
     @property
     def is_empty(self):
         self_fields = fields(self)
@@ -21,9 +29,8 @@ class VocabType:
                 return False
         return True
     
-    @staticmethod
-    def format_wiki_link(word: str, wiktionary: str | None):
-        return f'https://en.wiktionary.org/wiki/{word}#French'
+    def to_dict(self) -> dict[str, str | None]:
+        ...
 
     @classmethod
     def parse(clazz, csv_text: str):
@@ -31,6 +38,22 @@ class VocabType:
         vals = list(clazz(*row.split(';')) for row in csv_text.splitlines()[1:])
         vals = [val for val in vals if not val.is_empty]
         return vals
+
+
+T = TypeVar("T", bound=ParsedFileType)
+
+class VocabType(ParsedFileType):
+    TYPE: str
+    NOTE_TYPE = "French to English Noun"
+    REVERSE_NOTE_TYPE = "English to French"
+    DECK_NAME = "Vocab"
+    REVERSE_DECK_NAME = "English to French Vocab"
+    FIELDS = ["Word", "Masculine Singular", "Feminine Singular", "Masculine Plural", "Feminine Plural", "Adverb", "Infinitive", "Past Participle", "Present Participle", "Basic meanings of word", "Example sentences", "Wiktionary"]
+    REVERSE_FIELDS = ["Basic meanings of word", "Masculine Singular", "Feminine Singular", "Masculine Plural", "Feminine Plural", "Adverb", "Infinitive", "Past Participle", "Present Participle", "Example sentences", "Wiktionary"]
+
+    @staticmethod
+    def format_wiki_link(word: str, wiktionary: str | None):
+        return f'https://en.wiktionary.org/wiki/{word}#French'
 
 
 @dataclass(frozen=True)
@@ -145,6 +168,49 @@ class MiscVocab(VocabType):
         }
 
 
+@dataclass(frozen=True)
+class AdjectivePreposition(ParsedFileType):
+    FIELDS = ["Key", "Adjective", "Complement", "Preposition", "Example"]
+    NOTE_TYPE = "Adjective Prepositions"
+    DECK_NAME = "Adjective Prepositions"
+
+    adjective: str
+    complement: str
+    preposition: str
+    example: str
+
+    def to_dict(self):
+        return {
+            "Key": f"{self.adjective}-{self.complement}",
+            "Adjective": self.adjective,
+            "Complement": self.complement,
+            "Preposition": self.preposition,
+            "Example": self.example,
+        }
+
+
+@dataclass(frozen=True)
+class VerbPreposition(ParsedFileType):
+    FIELDS = ["Verb", "Prolative Usage", "A Usage", "De Usage", "Avec Usage"]
+    NOTE_TYPE = "Verb Prepositions"
+    DECK_NAME = "Verb Prepositions"
+
+    verb: str
+    prolative_usage: str | None
+    a_usage: str | None
+    de_usage: str | None
+    avec_usage: str | None
+
+    def to_dict(self):
+        return {
+            "Verb": self.verb,
+            "Prolative Usage": self.prolative_usage,
+            "A Usage": self.a_usage,
+            "De Usage": self.de_usage,
+            "Avec Usage": self.avec_usage,
+        }
+
+
 class Generator(Protocol):
     def generate_files(self, src_dir: Path, dest_dir: Path):
         for d in src_dir.iterdir():
@@ -155,56 +221,64 @@ class Generator(Protocol):
             dest_deck_dir = dest_dir / deck
             dest_deck_dir.mkdir(parents=True, exist_ok=True)
 
-            def read_files(subdir: Path):
-                grammar_files: list[tuple[str, str]] = []
+            def read_files(files: Iterable[Path]):
+                file_contents: list[tuple[str, str]] = []
 
-                for grammar_file in subdir.iterdir():
-                    if not grammar_file.is_file():
+                for file in files:
+                    if not file.is_file():
                         continue
 
-                    grammar_files.append((grammar_file.name, grammar_file.read_text()))
+                    file_contents.append((file.name, file.read_text()))
                 
-                return grammar_files
-
-            src_grammar = d / "Grammar"
-            if src_grammar.exists():
-                grammar_files = read_files(src_grammar)
-                self.generate_grammar(dest_deck_dir, grammar_files)
+                return file_contents
             
-            src_vocab = d / "Vocab"
-            if src_vocab.exists():
-                vocab_files = read_files(src_vocab)
-                self.generate_vocab(dest_deck_dir, vocab_files)
+            for f in FileType:
+                src = d / (f.value + ".csv")
+                if src.is_file():
+                    files = read_files([src])
+                else:
+                    src_dir = d / f.value
+                    if not src_dir.is_dir():
+                        continue
 
-    def parse_vocab_file(self, filename: str, csv_text: str):
+                    files = read_files(src_dir.iterdir())
+                
+                self.generate(f, deck, dest_deck_dir, files)
+
+    def parse_vocab_file(self, filename: str, csv_text: str) -> Sequence[VocabType]:
+        vocab_types = {
+            "nouns.csv": NounVocab,
+            "adjectives.csv": AdjectiveVocab,
+            "verbs.csv": VerbVocab,
+            "adverbs.csv": AdverbVocab,
+            "misc.csv": MiscVocab,
+        }
+
+        if filename not in vocab_types:
+            raise NotImplementedError(f"Unsupported vocab file: {filename}")
+        
+        return self.parse_csv_file(vocab_types[filename], filename, csv_text)
+    
+    def parse_csv_file(self, typ: T, filename: str, csv_text: str) -> Sequence[T]:
         csv_lines = csv_text.splitlines()
         header = csv_lines[0]
         columns = header.split(';')
         if len(columns) <= 1:
             raise RuntimeError(f"Columns were not split by ';': {header}")
-        
-        if filename == "nouns.csv":
-            return NounVocab.parse(csv_text)
-        elif filename == "adjectives.csv":
-            return AdjectiveVocab.parse(csv_text)
-        elif filename == "verbs.csv":
-            return VerbVocab.parse(csv_text)
-        elif filename == "adverbs.csv":
-            return AdverbVocab.parse(csv_text)
-        elif filename == "misc.csv":
-            return MiscVocab.parse(csv_text)
-        else:
-            raise NotImplementedError(filename)
+        return typ.parse(csv_text)
+
     
-    def generate_grammar(self, dest_deck_dir: Path, grammar_files: list[tuple[str, str]]):
-        ...
-    
-    def generate_vocab(self, dest_deck_dir: Path, vocab_files: list[tuple[str, str]]):
+    def generate(self, type: FileType, deck_folder: str, dest_deck_dir: Path, files: list[tuple[str, str]]):
         ...
 
 
 
 class AnkiGenerator(Generator):
+    DECK_PREFIX = "French Courses"
+
+    def format_deck_name(self, *deck_parts: str):
+        return "::".join([self.DECK_PREFIX, *deck_parts])
+
     def format_grammar_file(self, md_text: str):
         md_lines = md_text.splitlines()
         header = md_lines[0]
@@ -219,10 +293,12 @@ class AnkiGenerator(Generator):
 
         return f"{title}|{html_content}"
     
-    def format_grammar_files(self, grammar_files: list[tuple[str, str]]):
+    def format_grammar_files(self, deck_folder: str, grammar_files: list[tuple[str, str]]):
         dest_lines = [
             "#separator:Pipe",
             "#columns:Title|Content",
+            "#notetype:French Grammar",
+            f"#deck:{self.format_deck_name(deck_folder, 'Grammar')}",
         ]
         
         formatted_lines = [self.format_grammar_file(gf[1]) for gf in grammar_files]
@@ -230,11 +306,10 @@ class AnkiGenerator(Generator):
         return "\n".join(dest_lines)
 
     
-    def generate_grammar(self, dest_deck_dir: Path, grammar_files: list[tuple[str, str]]):
-        dest_file = dest_deck_dir / "grammar.txt"
-        dest_file.write_text(self.format_grammar_files(grammar_files))
+    def generate_grammar(self, deck_folder: str, dest_file: Path, grammar_files: list[tuple[str, str]]):
+        dest_file.write_text(self.format_grammar_files(deck_folder, grammar_files))
     
-    def format_vocab(self, vocab: NounVocab | AdjectiveVocab | VerbVocab | AdverbVocab | MiscVocab, fields: list[str]):
+    def format_vocab(self, vocab: VocabType, fields: list[str]):
         word_dict = vocab.to_dict()
         word_fields: list[str] = []
         for field in fields:
@@ -242,10 +317,12 @@ class AnkiGenerator(Generator):
         return "|".join(word_fields)
     
     
-    def format_vocab_files(self, vocab_files: list[tuple[str, str]], fields: list[str]):
+    def format_vocab_files(self, notetype: str, deck_path: list[str], vocab_files: list[tuple[str, str]], fields: list[str]):
         dest_lines = [
             "#separator:Pipe",
             "#columns:" + "|".join(fields),
+            f"#notetype:{notetype}",
+            f"#deck:{self.format_deck_name(*deck_path)}",
         ]
 
         formatted_lines: list[str] = []
@@ -257,12 +334,46 @@ class AnkiGenerator(Generator):
         dest_lines.extend(sorted(formatted_lines))
         return "\n".join(dest_lines)
     
-    def generate_vocab(self, dest_deck_dir: Path, vocab_files: list[tuple[str, str]]):
+    def generate_vocab(self, deck_folder: str, dest_deck_dir: Path, vocab_files: list[tuple[str, str]]):
         dest_file = dest_deck_dir / "vocab.txt"
-        dest_file.write_text(self.format_vocab_files(vocab_files, VOCAB_FIELDS))
+        dest_file.write_text(self.format_vocab_files(VocabType.NOTE_TYPE, [deck_folder, VocabType.DECK_NAME], vocab_files, VocabType.FIELDS))
 
         reverse_dest_file = dest_deck_dir / "reverse-vocab.txt"
-        reverse_dest_file.write_text(self.format_vocab_files(vocab_files, REVERSE_VOCAB_FIELDS))
+        reverse_dest_file.write_text(self.format_vocab_files(VocabType.REVERSE_NOTE_TYPE, [deck_folder, VocabType.REVERSE_DECK_NAME], vocab_files, VocabType.REVERSE_FIELDS))
+    
+    def generate_parsed_file(self, deck_folder: str, dest_file: Path, typ: T, files: list[tuple[str, str]]):
+        if not files:
+            return
+        
+        if len(files) != 1:
+            raise RuntimeError(f"Expected exactly one {str(typ)} file, got: {len(files)}")
+        
+        parsed = self.parse_csv_file(typ, *files[0])
+
+        dest_lines = [
+            "#separator:Pipe",
+            "#columns:" + "|".join(typ.FIELDS),
+            f"#notetype:{typ.NOTE_TYPE}",
+            f"#deck:{self.format_deck_name(deck_folder, typ.DECK_NAME)}",
+        ]
+
+        for line in parsed:
+            values = line.to_dict()
+            dest_lines.append("|".join([values.get(f, "") or "" for f in typ.FIELDS]))
+        
+        dest_file.write_text("\n".join(dest_lines))
+    
+    def generate(self, type: FileType, deck_folder: str, dest_deck_dir: Path, files: list[tuple[str, str]]):
+        if type == FileType.Grammar:
+            self.generate_grammar(deck_folder, dest_deck_dir / "grammar.txt", files)
+        elif type == FileType.Vocab:
+            self.generate_vocab(deck_folder, dest_deck_dir, files)
+        elif type == FileType.AdjectivePreposition:
+            self.generate_parsed_file(deck_folder, dest_deck_dir / "adjective-preposition.txt", AdjectivePreposition, files)
+        elif type == FileType.VerbPreposition:
+            self.generate_parsed_file(deck_folder, dest_deck_dir / "verb-preposition.txt", VerbPreposition, files)
+        else:
+            raise NotImplementedError(f"File type {type} is not supported for Anki generation.")
 
 
 class MarkdownGenerator(Generator):
@@ -271,7 +382,7 @@ class MarkdownGenerator(Generator):
             dest_file = dest_deck_dir / grammar_file
             dest_file.write_text(grammar_text)
     
-    def format_vocab_file(self, parsed_lines: list[NounVocab] | list[AdjectiveVocab] | list[VerbVocab] | list[AdverbVocab]):
+    def format_vocab_file(self, parsed_lines: Sequence[VocabType]):
         formatted_lines: list[str] = []
 
         if not parsed_lines:
@@ -281,7 +392,7 @@ class MarkdownGenerator(Generator):
         formatted_lines.append(f"## {first.TYPE}")
 
         fields = first.to_dict().keys()
-        fields = [f for f in VOCAB_FIELDS if f in fields]
+        fields = [f for f in VocabType.FIELDS if f in fields]
         formatted_lines.append("| " + " | ".join(fields) + " |")
         formatted_lines.append("| " + " | ".join(["---"] * len(fields)) + " |")
         for line in parsed_lines:
@@ -300,10 +411,17 @@ class MarkdownGenerator(Generator):
         
         return "\n".join(formatted_lines)
 
-
     def generate_vocab(self, dest_deck_dir: Path, vocab_files: list[tuple[str, str]]):
         dest_file = dest_deck_dir / "vocab.md"
         dest_file.write_text(self.format_vocab_files(vocab_files))
+    
+    def generate(self, type: FileType, deck_folder: str, dest_deck_dir: Path, files: list[tuple[str, str]]):
+        if type == FileType.Grammar:
+            self.generate_grammar(dest_deck_dir, files)
+        elif type == FileType.Vocab:
+            self.generate_vocab(dest_deck_dir, files)
+        else:
+            print(f"File type {type} is not supported for Markdown generation.")
 
 
 if __name__ == "__main__":

@@ -1,5 +1,7 @@
 #separator:Pipe
 #columns:Word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Basic meanings of word|Example sentences|Wiktionary
+#notetype:French to English Noun
+#deck:French Courses::B1.3::Vocab
 France profonde||la France pronde|||||||Noun: (lit.) Deep France. Meaning very conservative country areas.||
 Islande||Islande|||||||Noun: Iceland||
 ONG||l'Organisation non-gouvernementale|||||||Noun: NGO. Non government organisation||

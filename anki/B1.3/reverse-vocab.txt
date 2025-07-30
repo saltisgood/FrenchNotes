@@ -1,5 +1,7 @@
 #separator:Pipe
 #columns:Basic meanings of word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Example sentences|Wiktionary
+#notetype:English to French
+#deck:French Courses::B1.3::English to French Vocab
 Adjective: alert, conscious, aware of consequences|conscient|consciente|conscients|conscientes||||||
 Adjective: authoritarian|autoritaire|autoritaire|autoritaires|autoritaires||||||
 Adjective: civic|civique|civique|civiques|civiques||||||

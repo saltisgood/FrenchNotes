@@ -1,0 +1,19 @@
+#separator:Pipe
+#columns:Key|Adjective|Complement|Preposition|Example
+#notetype:Adjective Prepositions
+#deck:French Courses::Misc::Adjective Prepositions
+bon-nom|bon|nom|pour|Ce fruit est bon pour la santé
+bon-verbe|bon|verbe|de|Il est bon de se reposer
+conscient-nom|conscient|nom|de|Ils sont conscients de l'importance
+content-verbe|content|verbe|de|Je suis content de te voir
+difficile-verbe|difficile|verbe|à|Ce mot est difficile à prononcer
+facile-verbe|facile|verbe|à|Ce texte est facile à lire
+fier-nom|fier|nom|de|Vous devez être fiers de votre travail
+heureux-verbe|heureux|verbe|de|Ils sont heureux de partir demain
+important-verbe|important|verbe|de|Il est important de noter
+jaloux-nom|jaloux|nom|de|Il est jaloux de son frère
+mauvais-nom|mauvais|nom|pour|Fumer est mauvais pour la santé
+mauvais-verbe|mauvais|verbe|de|Il est mauvais de fumer
+prêt-verbe|prêt|verbe|à|Elle est prête à partir
+responsable-nom|responsable|nom|de|Elle est responsable de ce project
+triste-verbe|triste|verbe|de|Il est triste de comprendre

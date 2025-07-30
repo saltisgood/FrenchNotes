@@ -1,5 +1,7 @@
 #separator:Pipe
 #columns:Word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Basic meanings of word|Example sentences|Wiktionary
+#notetype:French to English Noun
+#deck:French Courses::B1.2::Vocab
 après-rasage|l'après-rasage||les après-rasage||||||Noun: aftershave||
 châtier||||||châtier|châtié|châtiant|Verb: To tease, chastise. Not used much in modern French||
 coffret|le coffret||les coffrets||||||Noun: small box, case, casket||
