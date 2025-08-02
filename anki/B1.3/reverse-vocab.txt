@@ -4,11 +4,14 @@
 #deck:French Courses::B1.3::English to French Vocab
 Adjective: alert, conscious, aware of consequences|conscient|consciente|conscients|conscientes||||||
 Adjective: authoritarian|autoritaire|autoritaire|autoritaires|autoritaires||||||
+Adjective: chubby|potelé|potelée|potelés|potelées||||||
 Adjective: civic|civique|civique|civiques|civiques||||||
 Adjective: concrete, real|concret|concrète|concrets|concrètes||||||
 Adjective: equal|égal|égale|égaux|égales||||||
 Adjective: governmental|gouvernemental|gouvernementale|gouvernementaux|gouvernementales||||||
 Adjective: intimate|intime|intime|intimes|intimes||||||
+Adjective: like, alike, same (also adverb)|pareil|pareille|pareils|pareilles||||||
+Adjective: moralising, sanctimonious|moralisateur|moralisatrice|moralisateurs|moralisatrices||||||
 Adjective: poetic|poétique|poétique|poétiques|poétiques||||||
 Adjective: related to air, aerial|aérien|aérienne|aériens|aériennes||||||
 Adjective: respectful|respectueux|respectueuse|respectueux|respectueuses||||||
@@ -19,8 +22,14 @@ Adverb: concretely, solidly|||||concrètement|||||
 Adverb: forcefully, vigorously|||||vivement|||||
 Adverb: more|||||davantage|||||
 Adverb: really, genuinely, in fact|||||réellement|||||
+Better and better|||||de mieux en mieux|||||
 Conjunction: Once, as soon as|||||dès que|||||
 Conjunction: Since, because|||||puisque|||||
+Easier said than done|||||c'est plus facile à dire que faire|||||
+Heartwarming|||||chaud au coeur|||||
+Less and less|||||de mois en mois|||||
+Little by little|||||de peu en peu|||||
+More and more|||||de plus en plus|||||
 Noun (also adjective): a polyglot|le polyglotte|la polyglotte|les polyglottes|les polyglottes||||||
 Noun (also adjective): military|le militaire||les militaires|||||||
 Noun (also adjective): volunteer (or voluntary)|le volontaire|la volontaire|les volontaires|les volontiares||||||
@@ -67,6 +76,7 @@ Noun: magazine, journal||la revue||les revues||||||
 Noun: memo, memoir, dissertation (compare to feminine)|le mémoire||les mémoires|||||||
 Noun: memory (compare to masculine)||la mémoire||les mémoires||||||
 Noun: ministry|le ministère||les ministères|||||||
+Noun: observation, statement|le constat||les constats|||||||
 Noun: off-piste|l'hors-piste||les hors-pistes|||||||
 Noun: organisation||l'organisation||les organisations||||||
 Noun: organiser, host|l'organisateur|l'organisatrice|les organisateurs|les organisatrices||||||
@@ -113,6 +123,7 @@ Verb: To reapproach, come/bring closer. (reflexive + de) to get closer (to)|||||
 Verb: To transcribe||||||transcrire|transcrit|transcrivant||
 Verb: to add/place value||||||valoriser|valorisé|valorisant||
 Verb: to approve of||||||approuver|approuvé|approuvant||
+Verb: to attract||||||attirer|attiré|attirant||
 Verb: to collect, gather, obtain. (reflexive) To reflect, meditate||||||recueillir|recueilli|recueillant||
 Verb: to contact||||||contacter|conctacté|contactant||
 Verb: to correspond (+ à), to write to||||||correspondre|correspondu|correspondant||
@@ -134,3 +145,4 @@ Verb: to roll, revolve||||||rouler|roulé|roulant||
 Verb: to signify, mean||||||signifier|signifié|signifiant||
 Verb: to struggle, to fight||||||lutter|lutté|luttant||
 Verb: to unroll. (reflexive) to unravel, unfold||||||dérouler|déroulé|déroulant||
+Worse and worse|||||de pire en pire|||||

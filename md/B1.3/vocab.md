@@ -12,7 +12,10 @@
 | hivernal | hivernal | hivernale | hivernaux | hivernales | Adjective: winter, wintery |  | [Link](<https://en.wiktionary.org/wiki/hivernal#French>) |
 | théorique | théorique | théorique | théoriques | théoriques | Adjective: theoretical |  | [Link](<https://en.wiktionary.org/wiki/théorique#French>) |
 | intime | intime | intime | intimes | intimes | Adjective: intimate |  | [Link](<https://en.wiktionary.org/wiki/intime#French>) |
+| moralisateur | moralisateur | moralisatrice | moralisateurs | moralisatrices | Adjective: moralising, sanctimonious |  | [Link](<https://en.wiktionary.org/wiki/moralisateur#French>) |
+| pareil | pareil | pareille | pareils | pareilles | Adjective: like, alike, same (also adverb) |  | [Link](<https://en.wiktionary.org/wiki/pareil#French>) |
 | poétique | poétique | poétique | poétiques | poétiques | Adjective: poetic |  | [Link](<https://en.wiktionary.org/wiki/poétique#French>) |
+| potelé | potelé | potelée | potelés | potelées | Adjective: chubby |  | [Link](<https://en.wiktionary.org/wiki/potelé#French>) |
 | respectueux | respectueux | respectueuse | respectueux | respectueuses | Adjective: respectful |  | [Link](<https://en.wiktionary.org/wiki/respectueux#French>) |
 ## Adverbs
 | Word | Adverb | Basic meanings of word | Example sentences | Wiktionary |
@@ -25,8 +28,15 @@
 ## Misc
 | Word | Adverb | Basic meanings of word | Example sentences | Wiktionary |
 | --- | --- | --- | --- | --- |
+| c'est plus facile à dire que faire | c'est plus facile à dire que faire | Easier said than done |  | [Link](<https://en.wiktionary.org/wiki/c'est plus facile à dire que faire#French>) |
+| chaud au coeur | chaud au coeur | Heartwarming |  | [Link](<https://en.wiktionary.org/wiki/chaud au coeur#French>) |
 | dès | dès | Preposition: since, from |  | [Link](<https://en.wiktionary.org/wiki/dès#French>) |
 | dès que | dès que | Conjunction: Once, as soon as |  | [Link](<https://en.wiktionary.org/wiki/dès que#French>) |
+| de mieux en mieux | de mieux en mieux | Better and better |  | [Link](<https://en.wiktionary.org/wiki/de mieux en mieux#French>) |
+| de mois en mois | de mois en mois | Less and less |  | [Link](<https://en.wiktionary.org/wiki/de mois en mois#French>) |
+| de peu en peu | de peu en peu | Little by little |  | [Link](<https://en.wiktionary.org/wiki/de peu en peu#French>) |
+| de pire en pire | de pire en pire | Worse and worse |  | [Link](<https://en.wiktionary.org/wiki/de pire en pire#French>) |
+| de plus en plus | de plus en plus | More and more |  | [Link](<https://en.wiktionary.org/wiki/de plus en plus#French>) |
 | puisque | puisque | Conjunction: Since, because |  | [Link](<https://en.wiktionary.org/wiki/puisque#French>) |
 | se bourrer la gueule | se bourrer la gueule | To get drunk |  | [Link](<https://en.wiktionary.org/wiki/se bourrer la gueule#French>) |
 ## Nouns
@@ -43,6 +53,7 @@
 | comportement | le comportement |  | les comportements |  | Noun: behaviour, demeanour |  | [Link](<https://en.wiktionary.org/wiki/comportement#French>) |
 | concours | le concours |  | les concours |  | Noun: competition, contest |  | [Link](<https://en.wiktionary.org/wiki/concours#French>) |
 | conséquence |  | la conséquence |  | les conséquences | Noun: consequence |  | [Link](<https://en.wiktionary.org/wiki/conséquence#French>) |
+| constat | le constat |  | les constats |  | Noun: observation, statement |  | [Link](<https://en.wiktionary.org/wiki/constat#French>) |
 | contenu | le contenu |  | les contenus |  | Noun: content |  | [Link](<https://en.wiktionary.org/wiki/contenu#French>) |
 | critique |  | la critique |  | les critiques | Noun: criticism, review. Adjective: critical |  | [Link](<https://en.wiktionary.org/wiki/critique#French>) |
 | diplomatie |  | la diplomatie |  | les diplomaties | Noun: diplomacy |  | [Link](<https://en.wiktionary.org/wiki/diplomatie#French>) |
@@ -111,6 +122,7 @@
 | alterner | alterner | alterné | alternant | Verb: To alternate |  | [Link](<https://en.wiktionary.org/wiki/alterner#French>) |
 | appartenir | appartenir | appartenu | appartenant | Verb: To belong to, to concern |  | [Link](<https://en.wiktionary.org/wiki/appartenir#French>) |
 | approuver | approuver | approuvé | approuvant | Verb: to approve of |  | [Link](<https://en.wiktionary.org/wiki/approuver#French>) |
+| attirer | attirer | attiré | attirant | Verb: to attract |  | [Link](<https://en.wiktionary.org/wiki/attirer#French>) |
 | bourrer | bourrer | bourré | bourrant | Verb: (trans.) To stuff (incl with food/drink). (reflex.) To get drunk |  | [Link](<https://en.wiktionary.org/wiki/bourrer#French>) |
 | charger | charger | chargé | chargeant | Verb: To load, charge. (Reflexive) To take care of |  | [Link](<https://en.wiktionary.org/wiki/charger#French>) |
 | consigner | consigner | consigné | consignant | Verb: To consign, to record, (school) to give detention |  | [Link](<https://en.wiktionary.org/wiki/consigner#French>) |

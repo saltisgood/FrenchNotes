@@ -11,6 +11,7 @@ alterner||||||alterner|alterné|alternant|Verb: To alternate||
 appartenir||||||appartenir|appartenu|appartenant|Verb: To belong to, to concern||
 approuver||||||approuver|approuvé|approuvant|Verb: to approve of||
 astuce||l'astuce||les astuces|||||Noun: trick, tip||
+attirer||||||attirer|attiré|attirant|Verb: to attract||
 autoritaire|autoritaire|autoritaire|autoritaires|autoritaires|||||Adjective: authoritarian||
 autorité||l'autorité||les autorités|||||Noun: authority||
 aérien|aérien|aérienne|aériens|aériennes|||||Adjective: related to air, aerial||
@@ -18,8 +19,10 @@ aïeux|||les aïeux||||||Noun: ancestors, old people (plural only)||
 beauf|le beauf||les beaufs||||||Noun: bogan||
 beauté||la beauté||les beautés|||||Noun: beauty||
 bourrer||||||bourrer|bourré|bourrant|Verb: (trans.) To stuff (incl with food/drink). (reflex.) To get drunk||
+c'est plus facile à dire que faire|||||c'est plus facile à dire que faire||||Easier said than done||
 catastrophe||la catastrophe||les catastrophes|||||Noun: catastrophe||
 charger||||||charger|chargé|chargeant|Verb: To load, charge. (Reflexive) To take care of||
+chaud au coeur|||||chaud au coeur||||Heartwarming||
 citoyenneté||la citoyenneté||les citoyennetés|||||Noun: citizenship||
 civique|civique|civique|civiques|civiques|||||Adjective: civic||
 comportement|le comportement||les comportements||||||Noun: behaviour, demeanour||
@@ -29,6 +32,7 @@ concrètement|||||concrètement||||Adverb: concretely, solidly||
 conscient|conscient|consciente|conscients|conscientes|||||Adjective: alert, conscious, aware of consequences||
 consigner||||||consigner|consigné|consignant|Verb: To consign, to record, (school) to give detention||
 constater||||||constater|constaté|constatant|Verb: To note, notice, certify||
+constat|le constat||les constats||||||Noun: observation, statement||
 conséquence||la conséquence||les conséquences|||||Noun: consequence||
 contacter||||||contacter|conctacté|contactant|Verb: to contact||
 contenu|le contenu||les contenus||||||Noun: content||
@@ -36,6 +40,11 @@ correspondre||||||correspondre|correspondu|correspondant|Verb: to correspond (+ 
 critiquer||||||critiquer|critiqué|critiquant|Verb: to criticise||
 critique||la critique||les critiques|||||Noun: criticism, review. Adjective: critical||
 davantage|||||davantage||||Adverb: more||
+de mieux en mieux|||||de mieux en mieux||||Better and better||
+de mois en mois|||||de mois en mois||||Less and less||
+de peu en peu|||||de peu en peu||||Little by little||
+de pire en pire|||||de pire en pire||||Worse and worse||
+de plus en plus|||||de plus en plus||||More and more||
 diffuser||||||diffuser|diffusé|diffusant|Verb: To diffuse, to broadcast||
 diminuer||||||diminuer|diminué|diminuant|Verb: to diminish, decrease||
 diplomatie||la diplomatie||les diplomaties|||||Noun: diplomacy||
@@ -83,6 +92,7 @@ masse||la masse||les masses|||||Noun: a large amount of something (a mass), a ma
 militaire|le militaire||les militaires||||||Noun (also adjective): military||
 ministère|le ministère||les ministères||||||Noun: ministry||
 mise en place||la mise en place||les mises en place|||||Noun: installation. Literally put in place||
+moralisateur|moralisateur|moralisatrice|moralisateurs|moralisatrices|||||Adjective: moralising, sanctimonious||
 mémoire (f)||la mémoire||les mémoires|||||Noun: memory (compare to masculine)||
 mémoire (m)|le mémoire||les mémoires||||||Noun: memo, memoir, dissertation (compare to feminine)||
 mémoriser||||||mémoriser|mémorisé|mémorisant|Verb: To memorise||
@@ -94,10 +104,12 @@ oser||||||oser|osé|osant|Verb: To dare||
 outil|l'outil||les outils||||||Noun: tool||
 pair|le pair||les pairs||||||Noun: peer (also adj.) (maths) even||
 par la suite|||||par la suite||||Adverb: Subsequently, afterwards, later||
+pareil|pareil|pareille|pareils|pareilles|||||Adjective: like, alike, same (also adverb)||
 partenariat|le partenariat||les partenariats||||||Noun: partnership||
 passage|le passage||les passages||||||Noun: passage of text||
 personnel|le personnel||les personnels||||||Noun: staff, personnel||
 polyglotte|le polyglotte|la polyglotte|les polyglottes|les polyglottes|||||Noun (also adjective): a polyglot||
+potelé|potelé|potelée|potelés|potelées|||||Adjective: chubby||
 poétique|poétique|poétique|poétiques|poétiques|||||Adjective: poetic||
 procurer||||||procurer|procuré|procurant|Verb: to get/obtain||
 programme|le programme||les programmes||||||Noun: program||
