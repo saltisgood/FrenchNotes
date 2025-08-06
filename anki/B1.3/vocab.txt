@@ -74,7 +74,7 @@ noun-littérature|littérature||la littérature||les littératures|||||Noun: lit
 noun-lutte|lutte||la lutte||les luttes|||||Noun: struggle, fight, battle||
 noun-maintien|maintien|le maintien||les maintiens||||||Noun: upkeep, maintaining, behaviour||
 noun-masse|masse||la masse||les masses|||||Noun: a large amount of something (a mass), a majority (of people), mass (physics), a paste, dough||
-noun-militaire|militaire|le militaire||les militaires||||||Noun (also adjective): military||
+noun-militaire|militaire|le militaire||les militaires||||||Noun: military (also adj.)||
 noun-ministère|ministère|le ministère||les ministères||||||Noun: ministry||
 noun-mise en place|mise en place||la mise en place||les mises en place|||||Noun: installation. Literally put in place||
 noun-mémoire (f)|mémoire (f)||la mémoire||les mémoires|||||Noun: memory (compare to masculine)||
@@ -87,7 +87,7 @@ noun-pair|pair|le pair||les pairs||||||Noun: peer (also adj.) (maths) even||
 noun-partenariat|partenariat|le partenariat||les partenariats||||||Noun: partnership||
 noun-passage|passage|le passage||les passages||||||Noun: passage of text||
 noun-personnel|personnel|le personnel||les personnels||||||Noun: staff, personnel||
-noun-polyglotte|polyglotte|le polyglotte|la polyglotte|les polyglottes|les polyglottes|||||Noun (also adjective): a polyglot||
+noun-polyglotte|polyglotte|le polyglotte|la polyglotte|les polyglottes|les polyglottes|||||Noun: a polyglot (also adj.)||
 noun-programme|programme|le programme||les programmes||||||Noun: program||
 noun-protocole|protocole|le protocole||les protocoles||||||Noun: protocol||
 noun-préoccupation|préoccupation||la préoccupation||les préoccupations|||||Noun: worry, (plural) cares, concern||
@@ -103,7 +103,7 @@ noun-solidarité|solidarité||la solidarité||les solidarités|||||Noun: solidar
 noun-statut|statut|le statut||les statuts||||||Noun: status, statute||
 noun-taxe|taxe||la taxe||les taxes|||||Noun: tax||
 noun-verdure|verdure||la verdure||les verdures|||||Noun: greenness (like grassy areas)||
-noun-volontaire|volontaire|le volontaire|la volontaire|les volontaires|les volontiares|||||Noun (also adjective): volunteer (or voluntary)||
+noun-volontaire|volontaire|le volontaire|la volontaire|les volontaires|les volontiares|||||Noun: volunteer (or voluntary) (also adj.)||
 noun-volontariat|volontariat|le volontariat||les volontariats||||||Noun: volunteering (act of volunteering)||
 noun-écriture|écriture||l'écriture||les écritures|||||Noun: writing, handwriting||
 verb-affecter|affecter||||||affecter|affecté|affectant|Verb: To affect, influence||

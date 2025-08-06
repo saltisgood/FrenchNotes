@@ -52,6 +52,9 @@ class VocabType(ParsedFileType):
     FIELDS = ["Key", "Word", "Masculine Singular", "Feminine Singular", "Masculine Plural", "Feminine Plural", "Adverb", "Infinitive", "Past Participle", "Present Participle", "Basic meanings of word", "Example sentences", "Wiktionary"]
     REVERSE_FIELDS = ["Key", "Basic meanings of word", "Masculine Singular", "Feminine Singular", "Masculine Plural", "Feminine Plural", "Adverb", "Infinitive", "Past Participle", "Present Participle", "Example sentences", "Wiktionary"]
 
+    def to_dict(self, include_type: bool) -> dict[str, str | None]:
+        ...
+
     @staticmethod
     def format_wiki_link(word: str, wiktionary: str | None):
         return f'https://en.wiktionary.org/wiki/{word}#French'
@@ -70,7 +73,7 @@ class NounVocab(VocabType):
     examples: str | None
     wiktionary: str | None
 
-    def to_dict(self):
+    def to_dict(self, include_type: bool):
         return {
             "Key": f"noun-{self.word}",
             "Word": self.word,
@@ -78,7 +81,7 @@ class NounVocab(VocabType):
             "Feminine Singular": self.fem_sing,
             "Masculine Plural": self.mas_plu,
             "Feminine Plural": self.fem_plu,
-            "Basic meanings of word": self.meanings,
+            "Basic meanings of word": f"{'Noun: ' if include_type else ''}{self.meanings}",
             "Example sentences": self.examples,
             "Wiktionary": self.wiktionary,
         }
@@ -97,7 +100,7 @@ class AdjectiveVocab(VocabType):
     examples: str | None
     wiktionary: str | None
 
-    def to_dict(self):
+    def to_dict(self, include_type: bool):
         return {
             "Key": f"adj-{self.word}",
             "Word": self.word,
@@ -105,7 +108,7 @@ class AdjectiveVocab(VocabType):
             "Feminine Singular": self.fem_sing,
             "Masculine Plural": self.mas_plu,
             "Feminine Plural": self.fem_plu,
-            "Basic meanings of word": self.meanings,
+            "Basic meanings of word": f"{'Adjective: ' if include_type else ''}{self.meanings}",
             "Example sentences": self.examples,
             "Wiktionary": self.wiktionary,
         }
@@ -121,14 +124,14 @@ class VerbVocab(VocabType):
     examples: str | None
     wiktionary: str | None
 
-    def to_dict(self):
+    def to_dict(self, include_type: bool):
         return {
             "Key": f"verb-{self.word}",
             "Word": self.word,
             "Infinitive": self.word,
             "Past Participle": self.past_part,
             "Present Participle": self.present_part,
-            "Basic meanings of word": self.meanings,
+            "Basic meanings of word": f"{'Verb: ' if include_type else ''}{self.meanings}",
             "Example sentences": self.examples,
             "Wiktionary": self.wiktionary,
         }
@@ -143,12 +146,12 @@ class AdverbVocab(VocabType):
     examples: str | None
     wiktionary: str | None
 
-    def to_dict(self):
+    def to_dict(self, include_type: bool):
         return {
             "Key": f"adv-{self.word}",
             "Word": self.word,
             "Adverb": self.word,
-            "Basic meanings of word": self.meanings,
+            "Basic meanings of word": f"{'Adverb: ' if include_type else ''}{self.meanings}",
             "Example sentences": self.examples,
             "Wiktionary": self.wiktionary,
         }
@@ -163,7 +166,7 @@ class MiscVocab(VocabType):
     examples: str | None
     wiktionary: str | None
 
-    def to_dict(self):
+    def to_dict(self, include_type: bool):
         return {
             "Key": f"misc-{self.word}",
             "Word": self.word,
@@ -316,7 +319,7 @@ class AnkiGenerator(Generator):
         dest_file.write_text(self.format_grammar_files(deck_folder, grammar_files))
     
     def format_vocab(self, vocab: VocabType, fields: list[str]):
-        word_dict = vocab.to_dict()
+        word_dict = vocab.to_dict(include_type=True)
         word_fields: list[str] = []
         for field in fields:
             word_fields.append(word_dict.get(field, "") or "")
@@ -397,12 +400,12 @@ class MarkdownGenerator(Generator):
         first = parsed_lines[0]
         formatted_lines.append(f"## {first.TYPE}")
 
-        fields = first.to_dict().keys()
+        fields = first.to_dict(include_type=False).keys()
         fields = [f for f in VocabType.FIELDS if f in fields and f != "Key"]
         formatted_lines.append("| " + " | ".join(fields) + " |")
         formatted_lines.append("| " + " | ".join(["---"] * len(fields)) + " |")
         for line in parsed_lines:
-            values = line.to_dict()
+            values = line.to_dict(include_type=False)
             values["Wiktionary"] = f"[Link](<{VocabType.format_wiki_link(values['Word'], values['Wiktionary'])}>)"
             formatted_lines.append("| " + " | ".join([values[f] for f in fields]) + " |")
         
