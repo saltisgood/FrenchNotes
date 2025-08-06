@@ -1,148 +1,148 @@
 #separator:Pipe
-#columns:Basic meanings of word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Example sentences|Wiktionary
+#columns:Key|Basic meanings of word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Example sentences|Wiktionary
 #notetype:English to French
 #deck:French Courses::B1.3::English to French Vocab
-Adjective: alert, conscious, aware of consequences|conscient|consciente|conscients|conscientes||||||
-Adjective: authoritarian|autoritaire|autoritaire|autoritaires|autoritaires||||||
-Adjective: chubby|potelé|potelée|potelés|potelées||||||
-Adjective: civic|civique|civique|civiques|civiques||||||
-Adjective: concrete, real|concret|concrète|concrets|concrètes||||||
-Adjective: equal|égal|égale|égaux|égales||||||
-Adjective: governmental|gouvernemental|gouvernementale|gouvernementaux|gouvernementales||||||
-Adjective: intimate|intime|intime|intimes|intimes||||||
-Adjective: like, alike, same (also adverb)|pareil|pareille|pareils|pareilles||||||
-Adjective: moralising, sanctimonious|moralisateur|moralisatrice|moralisateurs|moralisatrices||||||
-Adjective: poetic|poétique|poétique|poétiques|poétiques||||||
-Adjective: related to air, aerial|aérien|aérienne|aériens|aériennes||||||
-Adjective: respectful|respectueux|respectueuse|respectueux|respectueuses||||||
-Adjective: theoretical|théorique|théorique|théoriques|théoriques||||||
-Adjective: winter, wintery|hivernal|hivernale|hivernaux|hivernales||||||
-Adverb: Subsequently, afterwards, later|||||par la suite|||||
-Adverb: concretely, solidly|||||concrètement|||||
-Adverb: forcefully, vigorously|||||vivement|||||
-Adverb: more|||||davantage|||||
-Adverb: really, genuinely, in fact|||||réellement|||||
-Better and better|||||de mieux en mieux|||||
-Conjunction: Once, as soon as|||||dès que|||||
-Conjunction: Since, because|||||puisque|||||
-Easier said than done|||||c'est plus facile à dire que faire|||||
-Heartwarming|||||chaud au coeur|||||
-Less and less|||||de mois en mois|||||
-Little by little|||||de peu en peu|||||
-More and more|||||de plus en plus|||||
-Noun (also adjective): a polyglot|le polyglotte|la polyglotte|les polyglottes|les polyglottes||||||
-Noun (also adjective): military|le militaire||les militaires|||||||
-Noun (also adjective): volunteer (or voluntary)|le volontaire|la volontaire|les volontaires|les volontiares||||||
-Noun: (lit.) Deep France. Meaning very conservative country areas.||la France pronde||||||||
-Noun: Iceland||Islande||||||||
-Noun: NGO. Non government organisation||l'Organisation non-gouvernementale||||||||
-Noun: Piece of news. Novella/short story.||la nouvelle||les nouvelles||||||
-Noun: Piece of publicity|l'encart||les encarts|||||||
-Noun: a large amount of something (a mass), a majority (of people), mass (physics), a paste, dough||la masse||les masses||||||
-Noun: administration, management||la gestion||les gestions||||||
-Noun: ancestors, old people (plural only)|||les aïeux|||||||
-Noun: authority||l'autorité||les autorités||||||
-Noun: beauty||la beauté||les beautés||||||
-Noun: behaviour, demeanour|le comportement||les comportements|||||||
-Noun: blunder, mistake (also adj.) (maths) odd|l'impair||les impairs|||||||
-Noun: bogan|le beauf||les beaufs|||||||
-Noun: buy, purchase|l'achat||les achats|||||||
-Noun: catastrophe||la catastrophe||les catastrophes||||||
-Noun: citizenship||la citoyenneté||les citoyennetés||||||
-Noun: collection|le recueil||les recueils|||||||
-Noun: commitment, engagement|l'engagement||les engagements|||||||
-Noun: competition, contest|le concours||les concours|||||||
-Noun: consequence||la conséquence||les conséquences||||||
-Noun: content|le contenu||les contenus|||||||
-Noun: criticism, review. Adjective: critical||la critique||les critiques||||||
-Noun: demand||l'exigence||les exigence||||||
-Noun: diagram, computer graphics||l'infographie||les infographies||||||
-Noun: diplomacy||la diplomatie||les diplomaties||||||
-Noun: editor in chief|le rédacteur en chef|la rédactrice en chef|les rédacteurs en chef|les rédactrices en chef||||||
-Noun: editor, author of a book or publication|le rédacteur|la rédactrice|les rédacteurs|les rédactrices||||||
-Noun: education, formation||la formation||les formations||||||
-Noun: foundation||la fondation||les fondations||||||
-Noun: gesture|le geste||les gestes|||||||
-Noun: gift, donation|le don||les dons|||||||
-Noun: government|le gouvernement||les gouvernements|||||||
-Noun: greenness (like grassy areas)||la verdure||les verdures||||||
-Noun: heritage, inheritance, legacy|l'héritage||les héritages|||||||
-Noun: importance, significance||l'importance||les importances||||||
-Noun: initiative||l'initiative||les initiatives||||||
-Noun: installation. Literally put in place||la mise en place||les mises en place||||||
-Noun: interest|l'intérêt||les intérêts|||||||
-Noun: literature||la littérature||les littératures||||||
-Noun: magazine, journal||la revue||les revues||||||
-Noun: memo, memoir, dissertation (compare to feminine)|le mémoire||les mémoires|||||||
-Noun: memory (compare to masculine)||la mémoire||les mémoires||||||
-Noun: ministry|le ministère||les ministères|||||||
-Noun: observation, statement|le constat||les constats|||||||
-Noun: off-piste|l'hors-piste||les hors-pistes|||||||
-Noun: organisation||l'organisation||les organisations||||||
-Noun: organiser, host|l'organisateur|l'organisatrice|les organisateurs|les organisatrices||||||
-Noun: outcome, result|le résultat||les résultats|||||||
-Noun: partnership|le partenariat||les partenariats|||||||
-Noun: passage of text|le passage||les passages|||||||
-Noun: peer (also adj.) (maths) even|le pair||les pairs|||||||
-Noun: program|le programme||les programmes|||||||
-Noun: protocol|le protocole||les protocoles|||||||
-Noun: racism|le racisme|||||||||
-Noun: show off|le kéké||les kékés|||||||
-Noun: silhouette||la silhouette||les silhouettes||||||
-Noun: solidarity||la solidarité||les solidarités||||||
-Noun: spare wheel||la roue de secours||les roues de secours||||||
-Noun: speaker, stakeholder, consultant|l'intervenant|l'intervenante|les intervenants|les intervenantes||||||
-Noun: staff, personnel|le personnel||les personnels|||||||
-Noun: status, statute|le statut||les statuts|||||||
-Noun: struggle, fight, battle||la lutte||les luttes||||||
-Noun: surveyor|le géomètre|la géomètre|les géomètres|les géomètres||||||
-Noun: tax||la taxe||les taxes||||||
-Noun: tool|l'outil||les outils|||||||
-Noun: trick, tip||l'astuce||les astuces||||||
-Noun: upkeep, maintaining, behaviour|le maintien||les maintiens|||||||
-Noun: volunteering (act of volunteering)|le volontariat||les volontariats|||||||
-Noun: worry, (plural) cares, concern||la préoccupation||les préoccupations||||||
-Noun: writing, handwriting||l'écriture||les écritures||||||
-Preposition: since, from|||||dès|||||
-To get drunk|||||se bourrer la gueule|||||
-Verb: (trans.) To stuff (incl with food/drink). (reflex.) To get drunk||||||bourrer|bourré|bourrant||
-Verb: (transitive) To deceive, trick (incl cheating on a partner). (reflexive) To make a mistake, be wrong.||||||tromper|trompé|trompant||
-Verb: To affect, influence||||||affecter|affecté|affectant||
-Verb: To alternate||||||alterner|alterné|alternant||
-Verb: To belong to, to concern||||||appartenir|appartenu|appartenant||
-Verb: To consign, to record, (school) to give detention||||||consigner|consigné|consignant||
-Verb: To dare||||||oser|osé|osant||
-Verb: To diffuse, to broadcast||||||diffuser|diffusé|diffusant||
-Verb: To direct, fulfill, perform, make, realise. Reflexive: to become real||||||réaliser|réalisé|réalisant||
-Verb: To impose. (Reflexive) To triumph, to be required||||||imposer|imposé|imposant||
-Verb: To load, charge. (Reflexive) To take care of||||||charger|chargé|chargeant||
-Verb: To memorise||||||mémoriser|mémorisé|mémorisant||
-Verb: To note, notice, certify||||||constater|constaté|constatant||
-Verb: To pledge, hire, involve, encourage, enlist, enter into||||||engager|engagé|engageant||
-Verb: To reapproach, come/bring closer. (reflexive + de) to get closer (to)||||||rapproacher|rapproaché|rapproachant||
-Verb: To transcribe||||||transcrire|transcrit|transcrivant||
-Verb: to add/place value||||||valoriser|valorisé|valorisant||
-Verb: to approve of||||||approuver|approuvé|approuvant||
-Verb: to attract||||||attirer|attiré|attirant||
-Verb: to collect, gather, obtain. (reflexive) To reflect, meditate||||||recueillir|recueilli|recueillant||
-Verb: to contact||||||contacter|conctacté|contactant||
-Verb: to correspond (+ à), to write to||||||correspondre|correspondu|correspondant||
-Verb: to criticise||||||critiquer|critiqué|critiquant||
-Verb: to dedicate||||||dédier|dédié|dédiant||
-Verb: to defend, forbid||||||défendre|défendu|défendant||
-Verb: to determine, establish||||||déterminer|déterminé|déterminant||
-Verb: to diminish, decrease||||||diminuer|diminué|diminuant||
-Verb: to discipline, punish||||||discipliner|discipliné|disciplinant||
-Verb: to educate||||||éduquer|éduqué|éduquant||
-Verb: to fund, finance||||||financer|financé|finançant||
-Verb: to get/obtain||||||procurer|procuré|procurant||
-Verb: to intervene, to take part||||||intervenir|intervenu|intervenant||
-Verb: to invent||||||inventer|inventé|inventant||
-Verb: to invest||||||investir|investi|investissant||
-Verb: to limit||||||limiter|limité|limitant||
-Verb: to obey||||||obéir|obéi|obéissant||
-Verb: to roll, revolve||||||rouler|roulé|roulant||
-Verb: to signify, mean||||||signifier|signifié|signifiant||
-Verb: to struggle, to fight||||||lutter|lutté|luttant||
-Verb: to unroll. (reflexive) to unravel, unfold||||||dérouler|déroulé|déroulant||
-Worse and worse|||||de pire en pire|||||
+adj-autoritaire|Adjective: authoritarian|autoritaire|autoritaire|autoritaires|autoritaires||||||
+adj-aérien|Adjective: related to air, aerial|aérien|aérienne|aériens|aériennes||||||
+adj-civique|Adjective: civic|civique|civique|civiques|civiques||||||
+adj-concret|Adjective: concrete, real|concret|concrète|concrets|concrètes||||||
+adj-conscient|Adjective: alert, conscious, aware of consequences|conscient|consciente|conscients|conscientes||||||
+adj-gouvernemental|Adjective: governmental|gouvernemental|gouvernementale|gouvernementaux|gouvernementales||||||
+adj-hivernal|Adjective: winter, wintery|hivernal|hivernale|hivernaux|hivernales||||||
+adj-intime|Adjective: intimate|intime|intime|intimes|intimes||||||
+adj-moralisateur|Adjective: moralising, sanctimonious|moralisateur|moralisatrice|moralisateurs|moralisatrices||||||
+adj-pareil|Adjective: like, alike, same (also adverb)|pareil|pareille|pareils|pareilles||||||
+adj-potelé|Adjective: chubby|potelé|potelée|potelés|potelées||||||
+adj-poétique|Adjective: poetic|poétique|poétique|poétiques|poétiques||||||
+adj-respectueux|Adjective: respectful|respectueux|respectueuse|respectueux|respectueuses||||||
+adj-théorique|Adjective: theoretical|théorique|théorique|théoriques|théoriques||||||
+adj-égal|Adjective: equal|égal|égale|égaux|égales||||||
+adv-concrètement|Adverb: concretely, solidly|||||concrètement|||||
+adv-davantage|Adverb: more|||||davantage|||||
+adv-par la suite|Adverb: Subsequently, afterwards, later|||||par la suite|||||
+adv-réellement|Adverb: really, genuinely, in fact|||||réellement|||||
+adv-vivement|Adverb: forcefully, vigorously|||||vivement|||||
+misc-c'est plus facile à dire que faire|Easier said than done|||||c'est plus facile à dire que faire|||||
+misc-chaud au coeur|Heartwarming|||||chaud au coeur|||||
+misc-de mieux en mieux|Better and better|||||de mieux en mieux|||||
+misc-de mois en mois|Less and less|||||de mois en mois|||||
+misc-de peu en peu|Little by little|||||de peu en peu|||||
+misc-de pire en pire|Worse and worse|||||de pire en pire|||||
+misc-de plus en plus|More and more|||||de plus en plus|||||
+misc-dès que|Conjunction: Once, as soon as|||||dès que|||||
+misc-dès|Preposition: since, from|||||dès|||||
+misc-puisque|Conjunction: Since, because|||||puisque|||||
+misc-se bourrer la gueule|To get drunk|||||se bourrer la gueule|||||
+noun-France profonde|Noun: (lit.) Deep France. Meaning very conservative country areas.||la France pronde||||||||
+noun-Islande|Noun: Iceland||Islande||||||||
+noun-ONG|Noun: NGO. Non government organisation||l'Organisation non-gouvernementale||||||||
+noun-achat|Noun: buy, purchase|l'achat||les achats|||||||
+noun-astuce|Noun: trick, tip||l'astuce||les astuces||||||
+noun-autorité|Noun: authority||l'autorité||les autorités||||||
+noun-aïeux|Noun: ancestors, old people (plural only)|||les aïeux|||||||
+noun-beauf|Noun: bogan|le beauf||les beaufs|||||||
+noun-beauté|Noun: beauty||la beauté||les beautés||||||
+noun-catastrophe|Noun: catastrophe||la catastrophe||les catastrophes||||||
+noun-citoyenneté|Noun: citizenship||la citoyenneté||les citoyennetés||||||
+noun-comportement|Noun: behaviour, demeanour|le comportement||les comportements|||||||
+noun-concours|Noun: competition, contest|le concours||les concours|||||||
+noun-constat|Noun: observation, statement|le constat||les constats|||||||
+noun-conséquence|Noun: consequence||la conséquence||les conséquences||||||
+noun-contenu|Noun: content|le contenu||les contenus|||||||
+noun-critique|Noun: criticism, review. Adjective: critical||la critique||les critiques||||||
+noun-diplomatie|Noun: diplomacy||la diplomatie||les diplomaties||||||
+noun-don|Noun: gift, donation|le don||les dons|||||||
+noun-encart|Noun: Piece of publicity|l'encart||les encarts|||||||
+noun-engagement|Noun: commitment, engagement|l'engagement||les engagements|||||||
+noun-exigence|Noun: demand||l'exigence||les exigence||||||
+noun-fondation|Noun: foundation||la fondation||les fondations||||||
+noun-formation|Noun: education, formation||la formation||les formations||||||
+noun-geste|Noun: gesture|le geste||les gestes|||||||
+noun-gestion|Noun: administration, management||la gestion||les gestions||||||
+noun-gouvernement|Noun: government|le gouvernement||les gouvernements|||||||
+noun-géomètre|Noun: surveyor|le géomètre|la géomètre|les géomètres|les géomètres||||||
+noun-hors-piste|Noun: off-piste|l'hors-piste||les hors-pistes|||||||
+noun-héritage|Noun: heritage, inheritance, legacy|l'héritage||les héritages|||||||
+noun-impair|Noun: blunder, mistake (also adj.) (maths) odd|l'impair||les impairs|||||||
+noun-importance|Noun: importance, significance||l'importance||les importances||||||
+noun-infographie|Noun: diagram, computer graphics||l'infographie||les infographies||||||
+noun-initiative|Noun: initiative||l'initiative||les initiatives||||||
+noun-intervenant|Noun: speaker, stakeholder, consultant|l'intervenant|l'intervenante|les intervenants|les intervenantes||||||
+noun-intérêt|Noun: interest|l'intérêt||les intérêts|||||||
+noun-kéké|Noun: show off|le kéké||les kékés|||||||
+noun-littérature|Noun: literature||la littérature||les littératures||||||
+noun-lutte|Noun: struggle, fight, battle||la lutte||les luttes||||||
+noun-maintien|Noun: upkeep, maintaining, behaviour|le maintien||les maintiens|||||||
+noun-masse|Noun: a large amount of something (a mass), a majority (of people), mass (physics), a paste, dough||la masse||les masses||||||
+noun-militaire|Noun (also adjective): military|le militaire||les militaires|||||||
+noun-ministère|Noun: ministry|le ministère||les ministères|||||||
+noun-mise en place|Noun: installation. Literally put in place||la mise en place||les mises en place||||||
+noun-mémoire (f)|Noun: memory (compare to masculine)||la mémoire||les mémoires||||||
+noun-mémoire (m)|Noun: memo, memoir, dissertation (compare to feminine)|le mémoire||les mémoires|||||||
+noun-nouvelle|Noun: Piece of news. Novella/short story.||la nouvelle||les nouvelles||||||
+noun-organisateur|Noun: organiser, host|l'organisateur|l'organisatrice|les organisateurs|les organisatrices||||||
+noun-organisation|Noun: organisation||l'organisation||les organisations||||||
+noun-outil|Noun: tool|l'outil||les outils|||||||
+noun-pair|Noun: peer (also adj.) (maths) even|le pair||les pairs|||||||
+noun-partenariat|Noun: partnership|le partenariat||les partenariats|||||||
+noun-passage|Noun: passage of text|le passage||les passages|||||||
+noun-personnel|Noun: staff, personnel|le personnel||les personnels|||||||
+noun-polyglotte|Noun (also adjective): a polyglot|le polyglotte|la polyglotte|les polyglottes|les polyglottes||||||
+noun-programme|Noun: program|le programme||les programmes|||||||
+noun-protocole|Noun: protocol|le protocole||les protocoles|||||||
+noun-préoccupation|Noun: worry, (plural) cares, concern||la préoccupation||les préoccupations||||||
+noun-racisme|Noun: racism|le racisme|||||||||
+noun-recueil|Noun: collection|le recueil||les recueils|||||||
+noun-revue|Noun: magazine, journal||la revue||les revues||||||
+noun-roue de secours|Noun: spare wheel||la roue de secours||les roues de secours||||||
+noun-rédacteur en chef|Noun: editor in chief|le rédacteur en chef|la rédactrice en chef|les rédacteurs en chef|les rédactrices en chef||||||
+noun-rédacteur|Noun: editor, author of a book or publication|le rédacteur|la rédactrice|les rédacteurs|les rédactrices||||||
+noun-résultat|Noun: outcome, result|le résultat||les résultats|||||||
+noun-silhouette|Noun: silhouette||la silhouette||les silhouettes||||||
+noun-solidarité|Noun: solidarity||la solidarité||les solidarités||||||
+noun-statut|Noun: status, statute|le statut||les statuts|||||||
+noun-taxe|Noun: tax||la taxe||les taxes||||||
+noun-verdure|Noun: greenness (like grassy areas)||la verdure||les verdures||||||
+noun-volontaire|Noun (also adjective): volunteer (or voluntary)|le volontaire|la volontaire|les volontaires|les volontiares||||||
+noun-volontariat|Noun: volunteering (act of volunteering)|le volontariat||les volontariats|||||||
+noun-écriture|Noun: writing, handwriting||l'écriture||les écritures||||||
+verb-affecter|Verb: To affect, influence||||||affecter|affecté|affectant||
+verb-alterner|Verb: To alternate||||||alterner|alterné|alternant||
+verb-appartenir|Verb: To belong to, to concern||||||appartenir|appartenu|appartenant||
+verb-approuver|Verb: to approve of||||||approuver|approuvé|approuvant||
+verb-attirer|Verb: to attract||||||attirer|attiré|attirant||
+verb-bourrer|Verb: (trans.) To stuff (incl with food/drink). (reflex.) To get drunk||||||bourrer|bourré|bourrant||
+verb-charger|Verb: To load, charge. (Reflexive) To take care of||||||charger|chargé|chargeant||
+verb-consigner|Verb: To consign, to record, (school) to give detention||||||consigner|consigné|consignant||
+verb-constater|Verb: To note, notice, certify||||||constater|constaté|constatant||
+verb-contacter|Verb: to contact||||||contacter|conctacté|contactant||
+verb-correspondre|Verb: to correspond (+ à), to write to||||||correspondre|correspondu|correspondant||
+verb-critiquer|Verb: to criticise||||||critiquer|critiqué|critiquant||
+verb-diffuser|Verb: To diffuse, to broadcast||||||diffuser|diffusé|diffusant||
+verb-diminuer|Verb: to diminish, decrease||||||diminuer|diminué|diminuant||
+verb-discipliner|Verb: to discipline, punish||||||discipliner|discipliné|disciplinant||
+verb-dédier|Verb: to dedicate||||||dédier|dédié|dédiant||
+verb-défendre|Verb: to defend, forbid||||||défendre|défendu|défendant||
+verb-dérouler|Verb: to unroll. (reflexive) to unravel, unfold||||||dérouler|déroulé|déroulant||
+verb-déterminer|Verb: to determine, establish||||||déterminer|déterminé|déterminant||
+verb-engager|Verb: To pledge, hire, involve, encourage, enlist, enter into||||||engager|engagé|engageant||
+verb-financer|Verb: to fund, finance||||||financer|financé|finançant||
+verb-imposer|Verb: To impose. (Reflexive) To triumph, to be required||||||imposer|imposé|imposant||
+verb-intervenir|Verb: to intervene, to take part||||||intervenir|intervenu|intervenant||
+verb-inventer|Verb: to invent||||||inventer|inventé|inventant||
+verb-investir|Verb: to invest||||||investir|investi|investissant||
+verb-limiter|Verb: to limit||||||limiter|limité|limitant||
+verb-lutter|Verb: to struggle, to fight||||||lutter|lutté|luttant||
+verb-mémoriser|Verb: To memorise||||||mémoriser|mémorisé|mémorisant||
+verb-obéir|Verb: to obey||||||obéir|obéi|obéissant||
+verb-oser|Verb: To dare||||||oser|osé|osant||
+verb-procurer|Verb: to get/obtain||||||procurer|procuré|procurant||
+verb-rapproacher|Verb: To reapproach, come/bring closer. (reflexive + de) to get closer (to)||||||rapproacher|rapproaché|rapproachant||
+verb-recueillir|Verb: to collect, gather, obtain. (reflexive) To reflect, meditate||||||recueillir|recueilli|recueillant||
+verb-rouler|Verb: to roll, revolve||||||rouler|roulé|roulant||
+verb-réaliser|Verb: To direct, fulfill, perform, make, realise. Reflexive: to become real||||||réaliser|réalisé|réalisant||
+verb-signifier|Verb: to signify, mean||||||signifier|signifié|signifiant||
+verb-transcrire|Verb: To transcribe||||||transcrire|transcrit|transcrivant||
+verb-tromper|Verb: (transitive) To deceive, trick (incl cheating on a partner). (reflexive) To make a mistake, be wrong.||||||tromper|trompé|trompant||
+verb-valoriser|Verb: to add/place value||||||valoriser|valorisé|valorisant||
+verb-éduquer|Verb: to educate||||||éduquer|éduqué|éduquant||

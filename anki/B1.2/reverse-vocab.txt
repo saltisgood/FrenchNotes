@@ -1,7 +1,7 @@
 #separator:Pipe
-#columns:Basic meanings of word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Example sentences|Wiktionary
+#columns:Key|Basic meanings of word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Example sentences|Wiktionary
 #notetype:English to French
 #deck:French Courses::B1.2::English to French Vocab
-Noun: aftershave|l'après-rasage||les après-rasage|||||||
-Noun: small box, case, casket|le coffret||les coffrets|||||||
-Verb: To tease, chastise. Not used much in modern French||||||châtier|châtié|châtiant||
+noun-après-rasage|Noun: aftershave|l'après-rasage||les après-rasage|||||||
+noun-coffret|Noun: small box, case, casket|le coffret||les coffrets|||||||
+verb-châtier|Verb: To tease, chastise. Not used much in modern French||||||châtier|châtié|châtiant||

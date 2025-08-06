@@ -1,4 +1,5 @@
 from argparse import ArgumentParser
+from copy import copy
 from dataclasses import dataclass, fields
 from enum import StrEnum
 from pathlib import Path
@@ -48,8 +49,8 @@ class VocabType(ParsedFileType):
     REVERSE_NOTE_TYPE = "English to French"
     DECK_NAME = "Vocab"
     REVERSE_DECK_NAME = "English to French Vocab"
-    FIELDS = ["Word", "Masculine Singular", "Feminine Singular", "Masculine Plural", "Feminine Plural", "Adverb", "Infinitive", "Past Participle", "Present Participle", "Basic meanings of word", "Example sentences", "Wiktionary"]
-    REVERSE_FIELDS = ["Basic meanings of word", "Masculine Singular", "Feminine Singular", "Masculine Plural", "Feminine Plural", "Adverb", "Infinitive", "Past Participle", "Present Participle", "Example sentences", "Wiktionary"]
+    FIELDS = ["Key", "Word", "Masculine Singular", "Feminine Singular", "Masculine Plural", "Feminine Plural", "Adverb", "Infinitive", "Past Participle", "Present Participle", "Basic meanings of word", "Example sentences", "Wiktionary"]
+    REVERSE_FIELDS = ["Key", "Basic meanings of word", "Masculine Singular", "Feminine Singular", "Masculine Plural", "Feminine Plural", "Adverb", "Infinitive", "Past Participle", "Present Participle", "Example sentences", "Wiktionary"]
 
     @staticmethod
     def format_wiki_link(word: str, wiktionary: str | None):
@@ -71,6 +72,7 @@ class NounVocab(VocabType):
 
     def to_dict(self):
         return {
+            "Key": f"noun-{self.word}",
             "Word": self.word,
             "Masculine Singular": self.mas_sing,
             "Feminine Singular": self.fem_sing,
@@ -97,6 +99,7 @@ class AdjectiveVocab(VocabType):
 
     def to_dict(self):
         return {
+            "Key": f"adj-{self.word}",
             "Word": self.word,
             "Masculine Singular": self.mas_sing,
             "Feminine Singular": self.fem_sing,
@@ -120,6 +123,7 @@ class VerbVocab(VocabType):
 
     def to_dict(self):
         return {
+            "Key": f"verb-{self.word}",
             "Word": self.word,
             "Infinitive": self.word,
             "Past Participle": self.past_part,
@@ -141,6 +145,7 @@ class AdverbVocab(VocabType):
 
     def to_dict(self):
         return {
+            "Key": f"adv-{self.word}",
             "Word": self.word,
             "Adverb": self.word,
             "Basic meanings of word": self.meanings,
@@ -160,6 +165,7 @@ class MiscVocab(VocabType):
 
     def to_dict(self):
         return {
+            "Key": f"misc-{self.word}",
             "Word": self.word,
             "Adverb": self.word,
             "Basic meanings of word": self.meanings,
@@ -392,7 +398,7 @@ class MarkdownGenerator(Generator):
         formatted_lines.append(f"## {first.TYPE}")
 
         fields = first.to_dict().keys()
-        fields = [f for f in VocabType.FIELDS if f in fields]
+        fields = [f for f in VocabType.FIELDS if f in fields and f != "Key"]
         formatted_lines.append("| " + " | ".join(fields) + " |")
         formatted_lines.append("| " + " | ".join(["---"] * len(fields)) + " |")
         for line in parsed_lines:
@@ -421,7 +427,7 @@ class MarkdownGenerator(Generator):
         formatted_lines.append(f"# {typ.DECK_NAME}")
         formatted_lines.append("")
 
-        fields = typ.FIELDS
+        fields = copy(typ.FIELDS)
         if "Key" in fields:
             del fields[fields.index("Key")]
 
