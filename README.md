@@ -24,6 +24,11 @@ To generate the compiled files:
 - Anki is an app used for helping you memorise things. It basically works through flash cards and periodic reminders. e.g. you view a card once and then if you know it you won't see it again for a day, then 2, then a week, etc.
 - You can import the files from here to load into your app and then start practicing
 
+### Example
+
+![Example front](./static/anki-example-front.jpg)
+![Example back](./static/anki-example-back.jpg)
+
 ### Import via apkg
 
 - **Recommended**
