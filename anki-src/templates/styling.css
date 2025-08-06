@@ -1,0 +1,71 @@
+.card {
+    font-family: tahoma;
+    font-size: 40px;
+    text-align: center;
+    color: #4a4a4a;
+    background-color: white;
+}
+
+a {
+    color: #496899
+}
+
+
+/* color and size of the Part of Speech */
+gr {
+    color: gray;
+    font-size: 0.5em;
+}
+
+
+.mobile #showExs {
+    margin: auto;
+    width: 95%;
+    border: 3px solid gray;
+    padding: 10px;
+    text-align: left;
+}
+
+#note {
+    margin: auto;
+    width: 75%;
+    border: 3px solid gray;
+    padding: 10px;
+    text-align: left;
+}
+
+
+/* to save space on the tables */
+li,
+ul,
+dd,
+dl,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0.3em;
+}
+
+blue {
+    color: #6755f2;
+}
+
+red {
+    color: #f25555;
+}
+
+purple {
+    color: #c655f2;
+}
+
+.night_mode blue {
+    color: #80aaff;
+}
+
+.night_mode red {
+    color: #ff8080;
+}
