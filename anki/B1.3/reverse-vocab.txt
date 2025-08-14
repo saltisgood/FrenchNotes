@@ -2,6 +2,7 @@
 #columns:Key|Basic meanings of word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Example sentences|Wiktionary
 #notetype:English to French
 #deck:French Courses::B1.3::English to French Vocab
+adj-alimentaire|Adjective: food|alimentaire|alimentaire|alimentaires|alimentaires||||||
 adj-autoritaire|Adjective: authoritarian|autoritaire|autoritaire|autoritaires|autoritaires||||||
 adj-aérien|Adjective: related to air, aerial|aérien|aérienne|aériens|aériennes||||||
 adj-civique|Adjective: civic|civique|civique|civiques|civiques||||||
@@ -14,12 +15,17 @@ adj-moralisateur|Adjective: moralising, sanctimonious|moralisateur|moralisatrice
 adj-pareil|Adjective: like, alike, same (also adverb)|pareil|pareille|pareils|pareilles||||||
 adj-potelé|Adjective: chubby|potelé|potelée|potelés|potelées||||||
 adj-poétique|Adjective: poetic|poétique|poétique|poétiques|poétiques||||||
+adj-pratique|Adjective: practical|pratique|pratique|pratiques|pratiques||||||
+adj-protecteur|Adjective: protective|protecteur|protectrice|protecteurs|protectrices||||||
 adj-respectueux|Adjective: respectful|respectueux|respectueuse|respectueux|respectueuses||||||
+adj-sain|Adjective: healthy|sain|saine|sains|saines||||||
 adj-théorique|Adjective: theoretical|théorique|théorique|théoriques|théoriques||||||
 adj-égal|Adjective: equal|égal|égale|égaux|égales||||||
 adv-concrètement|Adverb: concretely, solidly|||||concrètement|||||
 adv-davantage|Adverb: more|||||davantage|||||
+adv-en permanence|Adverb: constantly/all the time|||||en permanence|||||
 adv-par la suite|Adverb: Subsequently, afterwards, later|||||par la suite|||||
+adv-progressivement|Adverb: progressively|||||progressivement|||||
 adv-réellement|Adverb: really, genuinely, in fact|||||réellement|||||
 adv-vivement|Adverb: forcefully, vigorously|||||vivement|||||
 misc-c'est plus facile à dire que faire|Easier said than done|||||c'est plus facile à dire que faire|||||
@@ -37,26 +43,39 @@ noun-France profonde|Noun: (lit.) Deep France. Meaning very conservative country
 noun-Islande|Noun: Iceland||Islande||||||||
 noun-ONG|Noun: NGO. Non government organisation||l'Organisation non-gouvernementale||||||||
 noun-achat|Noun: buy, purchase|l'achat||les achats|||||||
+noun-alimentation|Noun: food||l'alimentation||les alimentations||||||
 noun-astuce|Noun: trick, tip||l'astuce||les astuces||||||
+noun-auditeur|Noun: auditor, listener|l'auditeur|l'auditrice|les auditeurs|||||||
 noun-autorité|Noun: authority||l'autorité||les autorités||||||
 noun-aïeux|Noun: ancestors, old people (plural only)|||les aïeux|||||||
 noun-beauf|Noun: bogan|le beauf||les beaufs|||||||
 noun-beauté|Noun: beauty||la beauté||les beautés||||||
+noun-cambriolage|Noun: burglary|le cambriolage||les cambriolages|||||||
 noun-catastrophe|Noun: catastrophe||la catastrophe||les catastrophes||||||
+noun-catégorie|Noun: category||la catégorie||les catégories||||||
+noun-chauffage|Noun: heating|le chauffage||les chauffages|||||||
 noun-citoyenneté|Noun: citizenship||la citoyenneté||les citoyennetés||||||
 noun-comportement|Noun: behaviour, demeanour|le comportement||les comportements|||||||
 noun-concours|Noun: competition, contest|le concours||les concours|||||||
+noun-consommation|Noun: consumption||la consommation||les consommations||||||
 noun-constat|Noun: observation, statement|le constat||les constats|||||||
 noun-conséquence|Noun: consequence||la conséquence||les conséquences||||||
 noun-contenu|Noun: content|le contenu||les contenus|||||||
 noun-critique|Noun: criticism, review. Adjective: critical||la critique||les critiques||||||
+noun-création|Noun: creation||la création||les créations||||||
 noun-diplomatie|Noun: diplomacy||la diplomatie||les diplomaties||||||
 noun-don|Noun: gift, donation|le don||les dons|||||||
+noun-défi|Noun: challenge|le défi||les défis|||||||
+noun-dépendance|Noun: dependence/reliance/dependency||la dépendance||les dépendances||||||
 noun-encart|Noun: Piece of publicity|l'encart||les encarts|||||||
 noun-engagement|Noun: commitment, engagement|l'engagement||les engagements|||||||
 noun-exigence|Noun: demand||l'exigence||les exigence||||||
+noun-facture|Noun: bill||la facture||les factures||||||
+noun-fermeture|Noun: closing||la fermeture||les fermetures||||||
 noun-fondation|Noun: foundation||la fondation||les fondations||||||
 noun-formation|Noun: education, formation||la formation||les formations||||||
+noun-forme|Noun: form||la forme||les formes||||||
+noun-fuite|Noun: escape||la fuite||les fuites||||||
 noun-geste|Noun: gesture|le geste||les gestes|||||||
 noun-gestion|Noun: administration, management||la gestion||les gestions||||||
 noun-gouvernement|Noun: government|le gouvernement||les gouvernements|||||||
@@ -65,34 +84,50 @@ noun-hors-piste|Noun: off-piste|l'hors-piste||les hors-pistes|||||||
 noun-héritage|Noun: heritage, inheritance, legacy|l'héritage||les héritages|||||||
 noun-impair|Noun: blunder, mistake (also adj.) (maths) odd|l'impair||les impairs|||||||
 noun-importance|Noun: importance, significance||l'importance||les importances||||||
+noun-incendie|Noun: fire|l'incendie||les incendies|||||||
 noun-infographie|Noun: diagram, computer graphics||l'infographie||les infographies||||||
 noun-initiative|Noun: initiative||l'initiative||les initiatives||||||
+noun-internaute|Noun: internet user|l'internaute|l'internaute|les internautes|les internatues||||||
 noun-intervenant|Noun: speaker, stakeholder, consultant|l'intervenant|l'intervenante|les intervenants|les intervenantes||||||
 noun-intérêt|Noun: interest|l'intérêt||les intérêts|||||||
 noun-kéké|Noun: show off|le kéké||les kékés|||||||
 noun-littérature|Noun: literature||la littérature||les littératures||||||
 noun-lutte|Noun: struggle, fight, battle||la lutte||les luttes||||||
 noun-maintien|Noun: upkeep, maintaining, behaviour|le maintien||les maintiens|||||||
+noun-manège|Noun: amusement park ride|le manège||les manèges|||||||
 noun-masse|Noun: a large amount of something (a mass), a majority (of people), mass (physics), a paste, dough||la masse||les masses||||||
 noun-militaire|Noun: military (also adj.)|le militaire||les militaires|||||||
 noun-ministère|Noun: ministry|le ministère||les ministères|||||||
 noun-mise en place|Noun: installation. Literally put in place||la mise en place||les mises en place||||||
+noun-mot-clé|Noun: keyword|le mot-clé||les mots-clés|||||||
+noun-mélodie|Noun: melody||la mélodie||les mélodies||||||
 noun-mémoire (f)|Noun: memory (compare to masculine)||la mémoire||les mémoires||||||
 noun-mémoire (m)|Noun: memo, memoir, dissertation (compare to feminine)|le mémoire||les mémoires|||||||
 noun-nouvelle|Noun: Piece of news. Novella/short story.||la nouvelle||les nouvelles||||||
+noun-occasion|Noun: occasion||l'occasion||les occasions||||||
+noun-onde|Noun: (technical) wave||l'onde||les ondes||||||
 noun-organisateur|Noun: organiser, host|l'organisateur|l'organisatrice|les organisateurs|les organisatrices||||||
 noun-organisation|Noun: organisation||l'organisation||les organisations||||||
 noun-outil|Noun: tool|l'outil||les outils|||||||
+noun-ouverture|Noun: opening||l'ouverture||les ouvertures||||||
 noun-pair|Noun: peer (also adj.) (maths) even|le pair||les pairs|||||||
+noun-pari|Noun: bet|le pari||les paris|||||||
 noun-partenariat|Noun: partnership|le partenariat||les partenariats|||||||
 noun-passage|Noun: passage of text|le passage||les passages|||||||
+noun-permanence|Noun: permanence||la permanence||les permanences||||||
 noun-personnel|Noun: staff, personnel|le personnel||les personnels|||||||
+noun-planète|Noun: planet||la planète||les planètes||||||
+noun-pointe|Noun: point||la pointe||les pointes||||||
 noun-polyglotte|Noun: a polyglot (also adj.)|le polyglotte|la polyglotte|les polyglottes|les polyglottes||||||
+noun-pratique|Noun: practice||la pratique||les pratique||||||
 noun-programme|Noun: program|le programme||les programmes|||||||
+noun-protecteur|Noun: protector|le protecteur|la protectrice|les protecteurs|||||||
 noun-protocole|Noun: protocol|le protocole||les protocoles|||||||
 noun-préoccupation|Noun: worry, (plural) cares, concern||la préoccupation||les préoccupations||||||
+noun-putaclic|Noun: (also adj.) clickbait|le putaclic||les putaclics|||||||
 noun-racisme|Noun: racism|le racisme|||||||||
 noun-recueil|Noun: collection|le recueil||les recueils|||||||
+noun-responsabilité|Noun: responsibility||la responsabilité||les responsabilitiés||||||
 noun-revue|Noun: magazine, journal||la revue||les revues||||||
 noun-roue de secours|Noun: spare wheel||la roue de secours||les roues de secours||||||
 noun-rédacteur en chef|Noun: editor in chief|le rédacteur en chef|la rédactrice en chef|les rédacteurs en chef|les rédactrices en chef||||||
@@ -101,19 +136,32 @@ noun-résultat|Noun: outcome, result|le résultat||les résultats|||||||
 noun-silhouette|Noun: silhouette||la silhouette||les silhouettes||||||
 noun-solidarité|Noun: solidarity||la solidarité||les solidarités||||||
 noun-statut|Noun: status, statute|le statut||les statuts|||||||
+noun-suspect|Noun: suspect|le suspect|la suspecte|les suspects|||||||
 noun-taxe|Noun: tax||la taxe||les taxes||||||
+noun-thème|Noun: theme|le thème||les thèmes|||||||
+noun-usager|Noun: user|l'usager|l'usagère|les usagers|||||||
+noun-vente|Noun: sale||la vente||les ventes||||||
 noun-verdure|Noun: greenness (like grassy areas)||la verdure||les verdures||||||
+noun-vitrine|Noun: shop window||la vitrine||les vitrines||||||
+noun-voisinage|Noun: neighbourhood|le voisinage||les voisinage|||||||
 noun-volontaire|Noun: volunteer (or voluntary) (also adj.)|le volontaire|la volontaire|les volontaires|les volontiares||||||
 noun-volontariat|Noun: volunteering (act of volunteering)|le volontariat||les volontariats|||||||
 noun-écriture|Noun: writing, handwriting||l'écriture||les écritures||||||
+noun-électricité|Noun: electricity||l'électricité||les électricités||||||
+noun-énergie|Noun: energy||l'énergie||les énergies||||||
+verb-adhérer|Verb: to adhere to||||||adhérer|adhéré|adhérant||
+verb-adopter|Verb: to adopt||||||adopter|adopté|adoptant||
 verb-affecter|Verb: To affect, influence||||||affecter|affecté|affectant||
 verb-alterner|Verb: To alternate||||||alterner|alterné|alternant||
 verb-appartenir|Verb: To belong to, to concern||||||appartenir|appartenu|appartenant||
 verb-approuver|Verb: to approve of||||||approuver|approuvé|approuvant||
 verb-attirer|Verb: to attract||||||attirer|attiré|attirant||
+verb-baisser|Verb: to lower, to go down||||||baisser|baissé|baissant||
 verb-bourrer|Verb: (trans.) To stuff (incl with food/drink). (reflex.) To get drunk||||||bourrer|bourré|bourrant||
+verb-cambrioler|Verb: to burgle||||||cambrioler|cambriolé|cambriolant||
 verb-charger|Verb: To load, charge. (Reflexive) To take care of||||||charger|chargé|chargeant||
 verb-consigner|Verb: To consign, to record, (school) to give detention||||||consigner|consigné|consignant||
+verb-consommer|Verb: to consume||||||consommer|consommé|consommant||
 verb-constater|Verb: To note, notice, certify||||||constater|constaté|constatant||
 verb-contacter|Verb: to contact||||||contacter|conctacté|contactant||
 verb-correspondre|Verb: to correspond (+ à), to write to||||||correspondre|correspondu|correspondant||
@@ -127,12 +175,18 @@ verb-dérouler|Verb: to unroll. (reflexive) to unravel, unfold||||||dérouler|d�
 verb-déterminer|Verb: to determine, establish||||||déterminer|déterminé|déterminant||
 verb-engager|Verb: To pledge, hire, involve, encourage, enlist, enter into||||||engager|engagé|engageant||
 verb-financer|Verb: to fund, finance||||||financer|financé|finançant||
+verb-gaspiller|Verb: to waste||||||gaspiller|gaspillé|gaspillant||
+verb-illustrer|Verb: to illustrate||||||illustrer|illustré|illustrant||
 verb-imposer|Verb: To impose. (Reflexive) To triumph, to be required||||||imposer|imposé|imposant||
 verb-intervenir|Verb: to intervene, to take part||||||intervenir|intervenu|intervenant||
 verb-inventer|Verb: to invent||||||inventer|inventé|inventant||
 verb-investir|Verb: to invest||||||investir|investi|investissant||
+verb-laisser|Verb: to leave, to allow, (reflex.) to allow oneself||||||laisser|laissé|laissant||
 verb-limiter|Verb: to limit||||||limiter|limité|limitant||
 verb-lutter|Verb: to struggle, to fight||||||lutter|lutté|luttant||
+verb-marquer|Verb: to mark||||||marquer|marqué|marquant||
+verb-maîtriser|Verb: to master, to overcome||||||maîtriser|maîtrisé|maîtrisant||
+verb-mener|Verb: to lead||||||mener|mené|menant||
 verb-mémoriser|Verb: To memorise||||||mémoriser|mémorisé|mémorisant||
 verb-obéir|Verb: to obey||||||obéir|obéi|obéissant||
 verb-oser|Verb: To dare||||||oser|osé|osant||
@@ -141,8 +195,12 @@ verb-rapproacher|Verb: To reapproach, come/bring closer. (reflexive + de) to get
 verb-recueillir|Verb: to collect, gather, obtain. (reflexive) To reflect, meditate||||||recueillir|recueilli|recueillant||
 verb-rouler|Verb: to roll, revolve||||||rouler|roulé|roulant||
 verb-réaliser|Verb: To direct, fulfill, perform, make, realise. Reflexive: to become real||||||réaliser|réalisé|réalisant||
+verb-réfugier|Verb: (reflex.) to take refuge||||||réfugier|réfugié|réfugiant||
 verb-signifier|Verb: to signify, mean||||||signifier|signifié|signifiant||
 verb-transcrire|Verb: To transcribe||||||transcrire|transcrit|transcrivant||
 verb-tromper|Verb: (transitive) To deceive, trick (incl cheating on a partner). (reflexive) To make a mistake, be wrong.||||||tromper|trompé|trompant||
 verb-valoriser|Verb: to add/place value||||||valoriser|valorisé|valorisant||
+verb-échapper|Verb: to escape||||||échapper|échappé|échappant||
+verb-éclairer|Verb: to lighten up/to brighten||||||éclairer|éclairé|éclairant||
 verb-éduquer|Verb: to educate||||||éduquer|éduqué|éduquant||
+verb-équilibrer|Verb: to balance||||||équilibrer|équilibré|équilibrant||
