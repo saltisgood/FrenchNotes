@@ -2,25 +2,43 @@
 ## Adjectives
 | Word | Masculine Singular | Feminine Singular | Masculine Plural | Feminine Plural | Basic meanings of word | Example sentences | Wiktionary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| acceptable | acceptable | acceptable | acceptables | acceptables | acceptable |  | [Link](<https://en.wiktionary.org/wiki/acceptable#French>) |
 | aérien | aérien | aérienne | aériens | aériennes | related to air, aerial |  | [Link](<https://en.wiktionary.org/wiki/aérien#French>) |
 | alimentaire | alimentaire | alimentaire | alimentaires | alimentaires | food |  | [Link](<https://en.wiktionary.org/wiki/alimentaire#French>) |
+| analytique | analytique | analytique | analytiques | analytiques | analytic/analytical |  | [Link](<https://en.wiktionary.org/wiki/analytique#French>) |
 | autoritaire | autoritaire | autoritaire | autoritaires | autoritaires | authoritarian |  | [Link](<https://en.wiktionary.org/wiki/autoritaire#French>) |
+| changeant | changeant | changeante | changeants | changeantes | changeable |  | [Link](<https://en.wiktionary.org/wiki/changeant#French>) |
 | civique | civique | civique | civiques | civiques | civic |  | [Link](<https://en.wiktionary.org/wiki/civique#French>) |
 | concret | concret | concrète | concrets | concrètes | concrete, real |  | [Link](<https://en.wiktionary.org/wiki/concret#French>) |
 | conscient | conscient | consciente | conscients | conscientes | alert, conscious, aware of consequences |  | [Link](<https://en.wiktionary.org/wiki/conscient#French>) |
+| convaincant | convaincant | convaincante | convaincants | convaincantes | convincing, persuasive |  | [Link](<https://en.wiktionary.org/wiki/convaincant#French>) |
+| croyant | croyant | croyante | croyants | croyantes | believer |  | [Link](<https://en.wiktionary.org/wiki/croyant#French>) |
+| décisif | décisif | décisive | décisifs | décisives | decisive |  | [Link](<https://en.wiktionary.org/wiki/décisif#French>) |
+| descriptif | descriptif | descriptive | descriptifs | descriptives | descriptives |  | [Link](<https://en.wiktionary.org/wiki/descriptif#French>) |
+| direct | direct | directe | directs | directes | direct |  | [Link](<https://en.wiktionary.org/wiki/direct#French>) |
+| discutable | discutable | discutable | discutables | discutables | debatable, questionable |  | [Link](<https://en.wiktionary.org/wiki/discutable#French>) |
 | égal | égal | égale | égaux | égales | equal |  | [Link](<https://en.wiktionary.org/wiki/égal#French>) |
+| électoral | électoral | électorale | électoraux | électorales | electoral |  | [Link](<https://en.wiktionary.org/wiki/électoral#French>) |
+| explicatif | explicatif | explicative | explicatifs | explicatives | explanatory |  | [Link](<https://en.wiktionary.org/wiki/explicatif#French>) |
+| gagnant | gagnant | gagnante | gagnants | gagnantes | winning, victorious |  | [Link](<https://en.wiktionary.org/wiki/gagnant#French>) |
 | gouvernemental | gouvernemental | gouvernementale | gouvernementaux | gouvernementales | governmental |  | [Link](<https://en.wiktionary.org/wiki/gouvernemental#French>) |
 | hivernal | hivernal | hivernale | hivernaux | hivernales | winter, wintery |  | [Link](<https://en.wiktionary.org/wiki/hivernal#French>) |
 | théorique | théorique | théorique | théoriques | théoriques | theoretical |  | [Link](<https://en.wiktionary.org/wiki/théorique#French>) |
+| imaginatif | imaginatif | imaginative | imaginatifs | imaginatives | imaginative |  | [Link](<https://en.wiktionary.org/wiki/imaginatif#French>) |
 | intime | intime | intime | intimes | intimes | intimate |  | [Link](<https://en.wiktionary.org/wiki/intime#French>) |
+| joueur | joueur | joueuse | joeueurs | joueuses | playful |  | [Link](<https://en.wiktionary.org/wiki/joueur#French>) |
+| lisible | lisible | lisible | lisibles | lisibles | legible/readable |  | [Link](<https://en.wiktionary.org/wiki/lisible#French>) |
+| mangeable | mangeable | mangeable | mangeables | mangeables | edible |  | [Link](<https://en.wiktionary.org/wiki/mangeable#French>) |
 | moralisateur | moralisateur | moralisatrice | moralisateurs | moralisatrices | moralising, sanctimonious |  | [Link](<https://en.wiktionary.org/wiki/moralisateur#French>) |
 | pareil | pareil | pareille | pareils | pareilles | like, alike, same (also adverb) |  | [Link](<https://en.wiktionary.org/wiki/pareil#French>) |
+| pensif | pensif | pensive | pensifs | pensives | pensive/thoughtful |  | [Link](<https://en.wiktionary.org/wiki/pensif#French>) |
 | poétique | poétique | poétique | poétiques | poétiques | poetic |  | [Link](<https://en.wiktionary.org/wiki/poétique#French>) |
 | potelé | potelé | potelée | potelés | potelées | chubby |  | [Link](<https://en.wiktionary.org/wiki/potelé#French>) |
 | pratique | pratique | pratique | pratiques | pratiques | practical |  | [Link](<https://en.wiktionary.org/wiki/pratique#French>) |
 | protecteur | protecteur | protectrice | protecteurs | protectrices | protective |  | [Link](<https://en.wiktionary.org/wiki/protecteur#French>) |
 | respectueux | respectueux | respectueuse | respectueux | respectueuses | respectful |  | [Link](<https://en.wiktionary.org/wiki/respectueux#French>) |
 | sain | sain | saine | sains | saines | healthy |  | [Link](<https://en.wiktionary.org/wiki/sain#French>) |
+| travailleur | travailleur | travailleuse | travailleurs | travailleuses | hard working |  | [Link](<https://en.wiktionary.org/wiki/travailleur#French>) |
 ## Adverbs
 | Word | Adverb | Basic meanings of word | Example sentences | Wiktionary |
 | --- | --- | --- | --- | --- |
@@ -48,11 +66,18 @@
 ## Nouns
 | Word | Masculine Singular | Feminine Singular | Masculine Plural | Feminine Plural | Basic meanings of word | Example sentences | Wiktionary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| acceptation |  | l'acceptation |  | les acceptations | acceptance, approval |  | [Link](<https://en.wiktionary.org/wiki/acceptation#French>) |
+| accusation |  | l'accusation |  | les accusations | accusation |  | [Link](<https://en.wiktionary.org/wiki/accusation#French>) |
 | achat | l'achat |  | les achats |  | buy, purchase |  | [Link](<https://en.wiktionary.org/wiki/achat#French>) |
 | alimentation |  | l'alimentation |  | les alimentations | food |  | [Link](<https://en.wiktionary.org/wiki/alimentation#French>) |
 | aïeux |  |  | les aïeux |  | ancestors, old people (plural only) |  | [Link](<https://en.wiktionary.org/wiki/aïeux#French>) |
+| ajout | l'ajout |  | les ajouts |  | addition |  | [Link](<https://en.wiktionary.org/wiki/ajout#French>) |
+| analyse |  | l'analyse |  | les analyses | analysis |  | [Link](<https://en.wiktionary.org/wiki/analyse#French>) |
+| apprentissage | l'apprentissage |  | les apprentissages |  | learning, apprenticeship |  | [Link](<https://en.wiktionary.org/wiki/apprentissage#French>) |
 | astuce |  | l'astuce |  | les astuces | trick, tip |  | [Link](<https://en.wiktionary.org/wiki/astuce#French>) |
+| attente |  | l'attente |  | les attentes | wait |  | [Link](<https://en.wiktionary.org/wiki/attente#French>) |
 | auditeur | l'auditeur | l'auditrice | les auditeurs |  | auditor, listener |  | [Link](<https://en.wiktionary.org/wiki/auditeur#French>) |
+| augmentation |  | l'augmentation |  | les augmentations | increase/raise, pay raise |  | [Link](<https://en.wiktionary.org/wiki/augmentation#French>) |
 | autorité |  | l'autorité |  | les autorités | authority |  | [Link](<https://en.wiktionary.org/wiki/autorité#French>) |
 | beauf | le beauf |  | les beaufs |  | bogan |  | [Link](<https://en.wiktionary.org/wiki/beauf#French>) |
 | beauté |  | la beauté |  | les beautés | beauty |  | [Link](<https://en.wiktionary.org/wiki/beauté#French>) |
@@ -67,18 +92,27 @@
 | consommation |  | la consommation |  | les consommations | consumption |  | [Link](<https://en.wiktionary.org/wiki/consommation#French>) |
 | constat | le constat |  | les constats |  | observation, statement |  | [Link](<https://en.wiktionary.org/wiki/constat#French>) |
 | contenu | le contenu |  | les contenus |  | content |  | [Link](<https://en.wiktionary.org/wiki/contenu#French>) |
+| continuation |  | la continuation |  | les continuations | continuation |  | [Link](<https://en.wiktionary.org/wiki/continuation#French>) |
+| conviction |  | la conviction |  | les convictions | conviction |  | [Link](<https://en.wiktionary.org/wiki/conviction#French>) |
 | création |  | la création |  | les créations | creation |  | [Link](<https://en.wiktionary.org/wiki/création#French>) |
 | critique |  | la critique |  | les critiques | criticism, review. Adjective: critical |  | [Link](<https://en.wiktionary.org/wiki/critique#French>) |
+| croyance |  | la croyance |  | les croyances | belief |  | [Link](<https://en.wiktionary.org/wiki/croyance#French>) |
 | défi | le défi |  | les défis |  | challenge |  | [Link](<https://en.wiktionary.org/wiki/défi#French>) |
 | dépendance |  | la dépendance |  | les dépendances | dependence/reliance/dependency |  | [Link](<https://en.wiktionary.org/wiki/dépendance#French>) |
+| développement | le développement |  | les développements |  | development |  | [Link](<https://en.wiktionary.org/wiki/développement#French>) |
 | diplomatie |  | la diplomatie |  | les diplomaties | diplomacy |  | [Link](<https://en.wiktionary.org/wiki/diplomatie#French>) |
+| discours | discours |  | les discours |  | (uncountable and countable) speech |  | [Link](<https://en.wiktionary.org/wiki/discours#French>) |
 | don | le don |  | les dons |  | gift, donation |  | [Link](<https://en.wiktionary.org/wiki/don#French>) |
 | écriture |  | l'écriture |  | les écritures | writing, handwriting |  | [Link](<https://en.wiktionary.org/wiki/écriture#French>) |
+| élection |  | l'élection |  | les élections | election |  | [Link](<https://en.wiktionary.org/wiki/élection#French>) |
 | électricité |  | l'électricité |  | les électricités | electricity |  | [Link](<https://en.wiktionary.org/wiki/électricité#French>) |
 | encart | l'encart |  | les encarts |  | Piece of publicity |  | [Link](<https://en.wiktionary.org/wiki/encart#French>) |
 | énergie |  | l'énergie |  | les énergies | energy |  | [Link](<https://en.wiktionary.org/wiki/énergie#French>) |
 | engagement | l'engagement |  | les engagements |  | commitment, engagement |  | [Link](<https://en.wiktionary.org/wiki/engagement#French>) |
+| entente |  | l'entente |  | les ententes | agreement, interpretation |  | [Link](<https://en.wiktionary.org/wiki/entente#French>) |
+| espérance |  | l'espérance |  | les espérances | hope (more spiritual than espoir) |  | [Link](<https://en.wiktionary.org/wiki/espérance#French>) |
 | exigence |  | l'exigence |  | les exigence | demand |  | [Link](<https://en.wiktionary.org/wiki/exigence#French>) |
+| explication |  | l'explication |  | les explications | explanation |  | [Link](<https://en.wiktionary.org/wiki/explication#French>) |
 | facture |  | la facture |  | les factures | bill |  | [Link](<https://en.wiktionary.org/wiki/facture#French>) |
 | fermeture |  | la fermeture |  | les fermetures | closing |  | [Link](<https://en.wiktionary.org/wiki/fermeture#French>) |
 | fondation |  | la fondation |  | les fondations | foundation |  | [Link](<https://en.wiktionary.org/wiki/fondation#French>) |
@@ -88,6 +122,7 @@
 | fuite |  | la fuite |  | les fuites | escape |  | [Link](<https://en.wiktionary.org/wiki/fuite#French>) |
 | infographie |  | l'infographie |  | les infographies | diagram, computer graphics |  | [Link](<https://en.wiktionary.org/wiki/infographie#French>) |
 | initiative |  | l'initiative |  | les initiatives | initiative |  | [Link](<https://en.wiktionary.org/wiki/initiative#French>) |
+| gain | le gain |  | les gains |  | gain |  | [Link](<https://en.wiktionary.org/wiki/gain#French>) |
 | géomètre | le géomètre | la géomètre | les géomètres | les géomètres | surveyor |  | [Link](<https://en.wiktionary.org/wiki/géomètre#French>) |
 | geste | le geste |  | les gestes |  | gesture |  | [Link](<https://en.wiktionary.org/wiki/geste#French>) |
 | gestion |  | la gestion |  | les gestions | administration, management |  | [Link](<https://en.wiktionary.org/wiki/gestion#French>) |
@@ -97,6 +132,7 @@
 | impair | l'impair |  | les impairs |  | blunder, mistake (also adj.) (maths) odd |  | [Link](<https://en.wiktionary.org/wiki/impair#French>) |
 | importance |  | l'importance |  | les importances | importance, significance |  | [Link](<https://en.wiktionary.org/wiki/importance#French>) |
 | incendie | l'incendie |  | les incendies |  | fire |  | [Link](<https://en.wiktionary.org/wiki/incendie#French>) |
+| interdiction |  | l'interdiction |  | les interdictions | ban |  | [Link](<https://en.wiktionary.org/wiki/interdiction#French>) |
 | intérêt | l'intérêt |  | les intérêts |  | interest |  | [Link](<https://en.wiktionary.org/wiki/intérêt#French>) |
 | internaute | l'internaute | l'internaute | les internautes | les internatues | internet user |  | [Link](<https://en.wiktionary.org/wiki/internaute#French>) |
 | intervenant | l'intervenant | l'intervenante | les intervenants | les intervenantes | speaker, stakeholder, consultant |  | [Link](<https://en.wiktionary.org/wiki/intervenant#French>) |
@@ -126,6 +162,7 @@
 | pari | le pari |  | les paris |  | bet |  | [Link](<https://en.wiktionary.org/wiki/pari#French>) |
 | partenariat | le partenariat |  | les partenariats |  | partnership |  | [Link](<https://en.wiktionary.org/wiki/partenariat#French>) |
 | passage | le passage |  | les passages |  | passage of text |  | [Link](<https://en.wiktionary.org/wiki/passage#French>) |
+| pensée |  | la pensée |  | les pensées | thought |  | [Link](<https://en.wiktionary.org/wiki/pensée#French>) |
 | permanence |  | la permanence |  | les permanences | permanence |  | [Link](<https://en.wiktionary.org/wiki/permanence#French>) |
 | personnel | le personnel |  | les personnels |  | staff, personnel |  | [Link](<https://en.wiktionary.org/wiki/personnel#French>) |
 | planète |  | la planète |  | les planètes | planet |  | [Link](<https://en.wiktionary.org/wiki/planète#French>) |
@@ -133,6 +170,7 @@
 | polyglotte | le polyglotte | la polyglotte | les polyglottes | les polyglottes | a polyglot (also adj.) |  | [Link](<https://en.wiktionary.org/wiki/polyglotte#French>) |
 | pratique |  | la pratique |  | les pratique | practice |  | [Link](<https://en.wiktionary.org/wiki/pratique#French>) |
 | préoccupation |  | la préoccupation |  | les préoccupations | worry, (plural) cares, concern |  | [Link](<https://en.wiktionary.org/wiki/préoccupation#French>) |
+| prise |  | la prise |  | les prises | hold, (film) a take, (electrical) socket |  | [Link](<https://en.wiktionary.org/wiki/prise#French>) |
 | programme | le programme |  | les programmes |  | program |  | [Link](<https://en.wiktionary.org/wiki/programme#French>) |
 | protecteur | le protecteur | la protectrice | les protecteurs |  | protector |  | [Link](<https://en.wiktionary.org/wiki/protecteur#French>) |
 | protocole | le protocole |  | les protocoles |  | protocol |  | [Link](<https://en.wiktionary.org/wiki/protocole#French>) |
@@ -161,10 +199,12 @@
 ## Verbs
 | Word | Infinitive | Past Participle | Present Participle | Basic meanings of word | Example sentences | Wiktionary |
 | --- | --- | --- | --- | --- | --- | --- |
+| accuser | accuser | accusé | accusant | to accuse |  | [Link](<https://en.wiktionary.org/wiki/accuser#French>) |
 | adopter | adopter | adopté | adoptant | to adopt |  | [Link](<https://en.wiktionary.org/wiki/adopter#French>) |
 | adhérer | adhérer | adhéré | adhérant | to adhere to |  | [Link](<https://en.wiktionary.org/wiki/adhérer#French>) |
 | affecter | affecter | affecté | affectant | To affect, influence |  | [Link](<https://en.wiktionary.org/wiki/affecter#French>) |
 | alterner | alterner | alterné | alternant | To alternate |  | [Link](<https://en.wiktionary.org/wiki/alterner#French>) |
+| analyser | analyser | analysé | analysant | to analyse |  | [Link](<https://en.wiktionary.org/wiki/analyser#French>) |
 | appartenir | appartenir | appartenu | appartenant | To belong to, to concern |  | [Link](<https://en.wiktionary.org/wiki/appartenir#French>) |
 | approuver | approuver | approuvé | approuvant | to approve of |  | [Link](<https://en.wiktionary.org/wiki/approuver#French>) |
 | attirer | attirer | attiré | attirant | to attract |  | [Link](<https://en.wiktionary.org/wiki/attirer#French>) |
@@ -188,11 +228,13 @@
 | échapper | échapper | échappé | échappant | to escape |  | [Link](<https://en.wiktionary.org/wiki/échapper#French>) |
 | éclairer | éclairer | éclairé | éclairant | to lighten up/to brighten |  | [Link](<https://en.wiktionary.org/wiki/éclairer#French>) |
 | éduquer | éduquer | éduqué | éduquant | to educate |  | [Link](<https://en.wiktionary.org/wiki/éduquer#French>) |
+| élire | élire | élu | élisant | to elect |  | [Link](<https://en.wiktionary.org/wiki/élire#French>) |
 | engager | engager | engagé | engageant | To pledge, hire, involve, encourage, enlist, enter into |  | [Link](<https://en.wiktionary.org/wiki/engager#French>) |
 | équilibrer | équilibrer | équilibré | équilibrant | to balance |  | [Link](<https://en.wiktionary.org/wiki/équilibrer#French>) |
 | financer | financer | financé | finançant | to fund, finance |  | [Link](<https://en.wiktionary.org/wiki/financer#French>) |
 | gaspiller | gaspiller | gaspillé | gaspillant | to waste |  | [Link](<https://en.wiktionary.org/wiki/gaspiller#French>) |
 | illustrer | illustrer | illustré | illustrant | to illustrate |  | [Link](<https://en.wiktionary.org/wiki/illustrer#French>) |
+| interdire | interdire | interdit | interdisant | to forbid, to ban |  | [Link](<https://en.wiktionary.org/wiki/interdire#French>) |
 | intervenir | intervenir | intervenu | intervenant | to intervene, to take part |  | [Link](<https://en.wiktionary.org/wiki/intervenir#French>) |
 | inventer | inventer | inventé | inventant | to invent |  | [Link](<https://en.wiktionary.org/wiki/inventer#French>) |
 | investir | investir | investi | investissant | to invest |  | [Link](<https://en.wiktionary.org/wiki/investir#French>) |
