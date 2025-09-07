@@ -70,8 +70,8 @@ class NounVocab(VocabType):
     mas_plu: str | None
     fem_plu: str | None
     meanings: str
-    examples: str | None
-    wiktionary: str | None
+    examples: str | None = None
+    wiktionary: str | None = None
 
     def to_dict(self, include_type: bool):
         return {
@@ -97,8 +97,8 @@ class AdjectiveVocab(VocabType):
     mas_plu: str | None
     fem_plu: str | None
     meanings: str
-    examples: str | None
-    wiktionary: str | None
+    examples: str | None = None
+    wiktionary: str | None = None
 
     def to_dict(self, include_type: bool):
         return {
@@ -121,8 +121,8 @@ class VerbVocab(VocabType):
     past_part: str
     present_part: str
     meanings: str
-    examples: str | None
-    wiktionary: str | None
+    examples: str | None = None
+    wiktionary: str | None = None
 
     def to_dict(self, include_type: bool):
         return {
@@ -143,8 +143,8 @@ class AdverbVocab(VocabType):
 
     word: str
     meanings: str
-    examples: str | None
-    wiktionary: str | None
+    examples: str | None = None
+    wiktionary: str | None = None
 
     def to_dict(self, include_type: bool):
         return {
@@ -163,8 +163,8 @@ class MiscVocab(VocabType):
 
     word: str
     meanings: str
-    examples: str | None
-    wiktionary: str | None
+    examples: str | None = None
+    wiktionary: str | None = None
 
     def to_dict(self, include_type: bool):
         return {
@@ -407,7 +407,7 @@ class MarkdownGenerator(Generator):
         for line in parsed_lines:
             values = line.to_dict(include_type=False)
             values["Wiktionary"] = f"[Link](<{VocabType.format_wiki_link(values['Word'], values['Wiktionary'])}>)"
-            formatted_lines.append("| " + " | ".join([values[f] for f in fields]) + " |")
+            formatted_lines.append("| " + " | ".join([values[f] or "" for f in fields]) + " |")
         
         return formatted_lines
     

@@ -1,0 +1,4 @@
+#separator:Pipe
+#columns:Title|Content
+#notetype:French Grammar
+#deck:French Courses::B1.4::Grammar

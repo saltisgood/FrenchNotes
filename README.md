@@ -53,6 +53,7 @@ To generate the compiled files:
 
 ## TODO
 
-- Remove the `Noun:`, `Adjective:`, etc prefixes and just generate them dynamically
 - Add colour styling in the markdown generation for vocab
 - Add a noun endings deck
+- Add a subjunctive deck
+- Add an irregular verbs deck

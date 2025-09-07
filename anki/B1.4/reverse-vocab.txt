@@ -1,0 +1,41 @@
+#separator:Pipe
+#columns:Key|Basic meanings of word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Example sentences|Wiktionary
+#notetype:English to French
+#deck:French Courses::B1.4::English to French Vocab
+adj-conjugal|Adjective: conjugal (relating to marriage)|conjugal|conjugale|conjugaux|conjugales||||||
+adj-mensuel|Adjective: monthly|mensuel|mensuelle|mensuels|mensuelles||||||
+adj-phénoménal|Adjective: phenomenal|phénoménal|phénoménale|phénoménaux|phénoménales||||||
+adj-spotané|Adjective: spontaneous|spontané|spontanée|spontanés|spontanées||||||
+adj-tentant|Adjective: tempting|tentant|tentante|tentants|tenantes||||||
+adj-téméraire|Adjective: rash/reckless|téméraire|téméraire|téméraires|téméraires||||||
+misc-L'herbe est toujours plus verte ailleurs|The grass is always greener on the other side|||||L'herbe est toujours plus verte ailleurs|||||
+misc-auprès de|Preposition: near to|||||auprès de|||||
+noun-Pays-Bas|Noun: Netherlands|||les Pays-Bas|||||||
+noun-abécédaire|Noun: an alphabet primer|l'abécédaire||les abécédaires|||||||
+noun-baroudeur|Noun: backpacker|le baroudeur|la baroudeuse|les baroudeurs|les baroudeuses||||||
+noun-classement|Noun: ranking, classification|le classement||les classements|||||||
+noun-coût|Noun: cost/price|le coût||les coûts|||||||
+noun-crise|Noun: crisis||la crise||les crises||||||
+noun-critère|Noun: criterion|le critère||les critères|||||||
+noun-dirigeant|Noun: leader|le dirigeant||les dirigeants|||||||
+noun-expatrié|Noun: expat|l'expatrié|l'expatriée|les expatriés|||||||
+noun-hiérarchie|Noun: hierarchy||l'hiérarchie||les hiérarchies||||||
+noun-impôt|Noun: tax|l'impôt||les impôts|||||||
+noun-mise en garde|Noun: warning/caution|la mise en garde||les mises en garde|||||||
+noun-montant|Noun: a monetary amount|le montant||les montants|||||||
+noun-palmarès|Noun: prize list/list of winners|le palmarès||les palmarès|||||||
+noun-quête|Noun: quest/search||la quête||les quêtes||||||
+noun-rêveur|Noun: dreamer|le rêveur|la rêveuse|les rêveurs|||||||
+noun-taux|Noun: rate/level|le taux||les taux|||||||
+noun-vie nocturne|Noun: night life||la vie nocturne||||||||
+noun-échec|Noun: failure, (chess) check|l'échec||les échecs|||||||
+verb-baser|Verb: to base (have as a foundation or start)||||||baser|basé|basant||
+verb-briller|Verb: to shine||||||briller|brillé|brillant||
+verb-claquer|Verb: to clap/click/snap, to slam (a door)||||||claquer|claqué|claquant||
+verb-classer|Verb: to classify, to rank||||||classer|classé|classant||
+verb-dominer|Verb: to dominate||||||dominer|dominé|dominant||
+verb-hisser|Verb: to raise, (reflexive) to improve a rank||||||hisser|hissé|hissant||
+verb-méfier|Verb: (reflexive) to mistrust/ be wary of||||||méfier|méfié|méfiant||
+verb-placer|Verb: to place something in a location, (reflexive) to place in a competition||||||placer|placé|plaçant||
+verb-stagner|Verb: to stagnate||||||stagner|stagné|stagnant||
+verb-établir|Verb: to establish||||||établir|établi|établissant||
