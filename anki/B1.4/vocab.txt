@@ -2,40 +2,76 @@
 #columns:Key|Word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Basic meanings of word|Example sentences|Wiktionary
 #notetype:French to English Noun
 #deck:French Courses::B1.4::Vocab
+adj-commun|commun|commun|commune|communs|communes|||||Adjective: common (shared), communal||
 adj-conjugal|conjugal|conjugal|conjugale|conjugaux|conjugales|||||Adjective: conjugal (relating to marriage)||
 adj-mensuel|mensuel|mensuel|mensuelle|mensuels|mensuelles|||||Adjective: monthly||
+adj-motivé|motivé|motivé|motivée|motivés|motivées|||||Adjective: motivated/enthusiastic||
+adj-ménager|ménager|ménager|ménagère|ménagers|ménagères|||||Adjective: household||
 adj-phénoménal|phénoménal|phénoménal|phénoménale|phénoménaux|phénoménales|||||Adjective: phenomenal||
+adj-privé|privé|privé|privée|privés|privées|||||Adjective: private||
+adj-récent|récent|récent|récente|récents|récentes|||||Adjective: recent||
 adj-spotané|spotané|spontané|spontanée|spontanés|spontanées|||||Adjective: spontaneous||
 adj-tentant|tentant|tentant|tentante|tentants|tenantes|||||Adjective: tempting||
 adj-téméraire|téméraire|téméraire|téméraire|téméraires|téméraires|||||Adjective: rash/reckless||
+adv-à proximité|à proximité|||||à proximité||||Adverb: nearby||
 misc-L'herbe est toujours plus verte ailleurs|L'herbe est toujours plus verte ailleurs|||||L'herbe est toujours plus verte ailleurs||||The grass is always greener on the other side||
 misc-auprès de|auprès de|||||auprès de||||Preposition: near to||
 noun-Pays-Bas|Pays-Bas|||les Pays-Bas||||||Noun: Netherlands||
 noun-abécédaire|abécédaire|l'abécédaire||les abécédaires||||||Noun: an alphabet primer||
+noun-arrière|arrière|l'arrière||les arrières||||||Noun: back/rear||
+noun-balcon|balcon|le balcon||les balcons||||||Noun: balcony||
 noun-baroudeur|baroudeur|le baroudeur|la baroudeuse|les baroudeurs|les baroudeuses|||||Noun: backpacker||
+noun-cheminée|cheminée||la cheminée||les cheminées|||||Noun: chimney||
 noun-classement|classement|le classement||les classements||||||Noun: ranking, classification||
 noun-coût|coût|le coût||les coûts||||||Noun: cost/price||
 noun-crise|crise||la crise||les crises|||||Noun: crisis||
 noun-critère|critère|le critère||les critères||||||Noun: criterion||
+noun-cuisson|cuisson||la cuisson||les cuissons|||||Noun: cooking||
 noun-dirigeant|dirigeant|le dirigeant||les dirigeants||||||Noun: leader||
+noun-domicile|domicile|le domicile||les domiciles||||||Noun: domicile||
+noun-dépanneur|dépanneur|le dépanneur|la dépanneuse|les dépanneurs||||||Noun: repairman||
 noun-expatrié|expatrié|l'expatrié|l'expatriée|les expatriés||||||Noun: expat||
+noun-fusible|fusible|le fusible||les fusibles||||||Noun: fuse||
+noun-garde-robe|garde-robe||la garde-robe||les garde-robes|||||Noun: wardrobe||
 noun-hiérarchie|hiérarchie||l'hiérarchie||les hiérarchies|||||Noun: hierarchy||
+noun-homologue|homologue|l'homologue|l'homologue|les homologues|les homologues|||||Noun: counterpart||
+noun-hâte|hâte||l'hâte||les hâtes|||||Noun: haste/impatience||
+noun-identifiant|identifiant|l'identifiant||les identifiants||||||Noun: login, identifier||
 noun-impôt|impôt|l'impôt||les impôts||||||Noun: tax||
+noun-lave-linge|lave-linge|le lave-linge||les lave-linges||||||Noun: washing machine||
+noun-lave-vaisselle|lave-vaisselle|le lave-vaisselle||les lave-vaisselles||||||Noun: dishwasher||
 noun-mise en garde|mise en garde|la mise en garde||les mises en garde||||||Noun: warning/caution||
 noun-montant|montant|le montant||les montants||||||Noun: a monetary amount||
+noun-ordure|ordure||l'ordure||les ordures|||||Noun: garbage/rubbish||
 noun-palmarès|palmarès|le palmarès||les palmarès||||||Noun: prize list/list of winners||
+noun-pavillon|pavillon|le pavillon||les pavillons||||||Noun: pavilion, house||
+noun-plaque|plaque||la plaque||les plaques|||||Noun: plate, slab||
 noun-quête|quête||la quête||les quêtes|||||Noun: quest/search||
+noun-ramassage|ramassage|le ramassage||les ramassages||||||Noun: the act of picking up/collection||
 noun-rêveur|rêveur|le rêveur|la rêveuse|les rêveurs||||||Noun: dreamer||
+noun-stationnement|stationnement|le stationnement||les stationnements||||||Noun: car park, parking space||
+noun-superficie|superficie||la superficie||les superficies|||||Noun: surface||
+noun-supérette|supérette||la supérette||les supérettes|||||Noun: minimarket, grocery store||
+noun-sèche-linge|sèche-linge|le sèche-linge||les sèche-linges||||||Noun: dryer||
 noun-taux|taux|le taux||les taux||||||Noun: rate/level||
+noun-terrasse|terrasse||la terrasse||les terrasses|||||Noun: terrace||
+noun-tri|tri|le tri||les tris||||||Noun: selection||
 noun-vie nocturne|vie nocturne||la vie nocturne|||||||Noun: night life||
+noun-vision|vision||la vision||les visions|||||Noun: vision/sight||
+noun-véhicule|véhicule|le véhicule||les véhicules||||||Noun: vehicle||
+noun-échange|échange|l'échange||les échanges||||||Noun: exchange||
 noun-échec|échec|l'échec||les échecs||||||Noun: failure, (chess) check||
+verb-aménager|aménager||||||aménager|aménagé|aménageant|Verb: to fit out||
 verb-baser|baser||||||baser|basé|basant|Verb: to base (have as a foundation or start)||
 verb-briller|briller||||||briller|brillé|brillant|Verb: to shine||
 verb-claquer|claquer||||||claquer|claqué|claquant|Verb: to clap/click/snap, to slam (a door)||
 verb-classer|classer||||||classer|classé|classant|Verb: to classify, to rank||
+verb-convenir|convenir||||||convenir|convenu|convenant|Verb: to agree (+ de), to be convenient for (+ à)||
 verb-dominer|dominer||||||dominer|dominé|dominant|Verb: to dominate||
+verb-envisager|envisager||||||envisager|envisagé|envisageant|Verb: to envisage||
 verb-hisser|hisser||||||hisser|hissé|hissant|Verb: to raise, (reflexive) to improve a rank||
 verb-méfier|méfier||||||méfier|méfié|méfiant|Verb: (reflexive) to mistrust/ be wary of||
 verb-placer|placer||||||placer|placé|plaçant|Verb: to place something in a location, (reflexive) to place in a competition||
 verb-stagner|stagner||||||stagner|stagné|stagnant|Verb: to stagnate||
+verb-échanger|échanger||||||échanger|échangé|échangeant|Verb: to exchange/swap||
 verb-établir|établir||||||établir|établi|établissant|Verb: to establish||
