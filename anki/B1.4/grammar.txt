@@ -2,3 +2,4 @@
 #columns:Title|Content
 #notetype:French Grammar
 #deck:French Courses::B1.4::Grammar
+Intention|<p>The following phrases + de + infinitif</p><ul><li>envisager</li><li>avoir l'intention</li><li>avoir envie</li></ul>
