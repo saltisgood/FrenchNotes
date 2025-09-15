@@ -1,0 +1,39 @@
+#separator:Pipe
+#columns:Ending|AnswerMasculine|AnswerFeminine|Examples|Exceptions
+#notetype:Noun Endings
+#deck:French Courses::Misc::Noun Endings
+-age|Y||le garage|la page, la plage, la cage, la nage, la rage
+-ail|Y||le travail|
+-al|Y||le journal|
+-ant|Y||le restaurant|
+-aire|Y||le dictionnaire|l'affaire, la grammaire, la paire
+-eau|Y||le tableau|l'eau, la peau
+-amme|Y||le programme|la flamme, la gamme
+-et|Y||le cabinet|la forêt
+-ier|Y||le papier|
+-isme|Y||le communisme|
+-ment|Y||le gouvernement|
+-oir|Y||le miroir|
+-ain|Y||le frain, le copain|
+-eu|Y||l'aveu, le neveu|
+-ège|Y||le siège, la manège|
+-at|Y||le chat, le plat|
+-ade||Y|la parade, la sérénade|le stade
+-aille||Y|la bataille|
+-able||Y|la table|le câble, le cartable, le diable, le portable, le sable
+-ision||Y|la télévision|
+-ition||Y|la conversation|
+-aine||Y|la douzaine|le domaine
+-eine||Y|la peine|le capitaine
+-ée||Y|une allée|le lycée, le musée
+-esse||Y|la promesse|
+-ette||Y|la cigarette|
+-té||Y|la liberté|
+-ice||Y|la justice|l'exercice, le sacrifice, le service
+-tude||Y|la solitude|
+-oire||Y|la solitude|
+-çon||Y|la leçon|le garçon, le glaçon, le soupçon, le maçon
+-eur||Y|l'odeur, la sueur|le bonheur, le tailleur, le malheur
+-ance||Y|la connaissance|
+-ence||Y|la science|le silence
+-ie||Y|la partie, la vie|l'incendie, le parapluie

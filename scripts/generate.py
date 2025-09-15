@@ -1,4 +1,5 @@
 from argparse import ArgumentParser
+from collections import OrderedDict
 from copy import copy
 from dataclasses import dataclass, fields
 from enum import StrEnum
@@ -14,6 +15,7 @@ class FileType(StrEnum):
     Vocab = "Vocab"
     AdjectivePreposition = "AdjectivePreposition"
     VerbPreposition = "VerbPreposition"
+    NounEndings = "NounEndings"
 
 
 class ParsedFileType:
@@ -30,8 +32,14 @@ class ParsedFileType:
                 return False
         return True
     
-    def to_dict(self) -> dict[str, str | None]:
+    def to_dict(self) -> OrderedDict[str, str | None]:
         ...
+    
+    def to_anki_dict(self):
+        return self.to_dict()
+    
+    def to_md_dict(self):
+        return self.to_dict()
 
     @classmethod
     def parse(clazz, csv_text: str):
@@ -54,6 +62,12 @@ class VocabType(ParsedFileType):
 
     def to_dict(self, include_type: bool) -> dict[str, str | None]:
         ...
+    
+    def to_anki_dict(self, include_type: bool):
+        return self.to_dict(include_type)
+    
+    def to_md_dict(self, include_type: bool):
+        return self.to_dict(include_type)
 
     @staticmethod
     def format_wiki_link(word: str, wiktionary: str | None):
@@ -189,13 +203,13 @@ class AdjectivePreposition(ParsedFileType):
     example: str
 
     def to_dict(self):
-        return {
-            "Key": f"{self.adjective}-{self.complement}",
-            "Adjective": self.adjective,
-            "Complement": self.complement,
-            "Preposition": self.preposition,
-            "Example": self.example,
-        }
+        return OrderedDict([
+            ("Key", f"{self.adjective}-{self.complement}"),
+            ("Adjective", self.adjective),
+            ("Complement", self.complement),
+            ("Preposition", self.preposition),
+            ("Example", self.example),
+        ])
 
 
 @dataclass(frozen=True)
@@ -211,13 +225,42 @@ class VerbPreposition(ParsedFileType):
     avec_usage: str | None
 
     def to_dict(self):
-        return {
-            "Verb": self.verb,
-            "Prolative Usage": self.prolative_usage,
-            "A Usage": self.a_usage,
-            "De Usage": self.de_usage,
-            "Avec Usage": self.avec_usage,
-        }
+        return OrderedDict([
+            ("Verb", self.verb),
+            ("Prolative Usage", self.prolative_usage),
+            ("A Usage", self.a_usage),
+            ("De Usage", self.de_usage),
+            ("Avec Usage", self.avec_usage),
+        ])
+
+
+@dataclass(frozen=True)
+class NounEndings(ParsedFileType):
+    FIELDS = ["Ending", "AnswerMasculine", "AnswerFeminine", "Examples", "Exceptions"]
+    NOTE_TYPE = "Noun Endings"
+    DECK_NAME = "Noun Endings"
+
+    ending: str
+    gender: str
+    examples: str
+    exceptions: str | None = None
+
+    def to_dict(self):
+        return OrderedDict([
+            ("Ending", self.ending),
+            ("AnswerMasculine", "Y" if self.gender == "m" else ""),
+            ("AnswerFeminine", "Y" if self.gender == "f" else ""),
+            ("Examples", self.examples),
+            ("Exceptions", self.exceptions),
+        ])
+
+    def to_md_dict(self):
+        return OrderedDict([
+            ("Ending", self.ending),
+            ("Gender", "Masculine" if self.gender == "m" else "Feminine"),
+            ("Examples", self.examples),
+            ("Exceptions", self.exceptions),
+        ])
 
 
 class Generator(Protocol):
@@ -381,6 +424,8 @@ class AnkiGenerator(Generator):
             self.generate_parsed_file(deck_folder, dest_deck_dir / "adjective-preposition.txt", AdjectivePreposition, files)
         elif type == FileType.VerbPreposition:
             self.generate_parsed_file(deck_folder, dest_deck_dir / "verb-preposition.txt", VerbPreposition, files)
+        elif type == FileType.NounEndings:
+            self.generate_parsed_file(deck_folder, dest_deck_dir / "noun-endings.txt", NounEndings, files)
         else:
             raise NotImplementedError(f"File type {type} is not supported for Anki generation.")
 
@@ -430,15 +475,18 @@ class MarkdownGenerator(Generator):
         formatted_lines.append(f"# {typ.DECK_NAME}")
         formatted_lines.append("")
 
-        fields = copy(typ.FIELDS)
+        if (not parsed_lines):
+            return "\n".join(formatted_lines)
+        
+        fields = list(parsed_lines[0].to_md_dict().keys())
         if "Key" in fields:
             del fields[fields.index("Key")]
 
         formatted_lines.append("| " + " | ".join(fields) + " |")
         formatted_lines.append("| " + " | ".join(["---"] * len(fields)) + " |")
         for line in parsed_lines:
-            values = line.to_dict()
-            formatted_lines.append("| " + " | ".join([values.get(f, "") for f in fields]) + " |")
+            values = line.to_md_dict()
+            formatted_lines.append("| " + " | ".join([values.get(f, "") or "" for f in fields]) + " |")
         return "\n".join(formatted_lines)
     
     def generate_parsed_file(self, dest_file: Path, typ: T, files: list[tuple[str, str]]):
@@ -459,6 +507,8 @@ class MarkdownGenerator(Generator):
             self.generate_parsed_file(dest_deck_dir / "adjective-preposition.md", AdjectivePreposition, files)
         elif type == FileType.VerbPreposition:
             self.generate_parsed_file(dest_deck_dir / "verb-preposition.md", VerbPreposition, files)
+        elif type == FileType.NounEndings:
+            self.generate_parsed_file(dest_deck_dir / "noun-endings.md", NounEndings, files)
         else:
             print(f"File type {type} is not supported for Markdown generation.")
 
