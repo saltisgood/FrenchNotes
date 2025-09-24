@@ -3,6 +3,8 @@
 | Word | Masculine Singular | Feminine Singular | Masculine Plural | Feminine Plural | Basic meanings of word | Example sentences | Wiktionary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | absolu | absolu | absolue | absolus | absolues | absolute |  | [Link](<https://en.wiktionary.org/wiki/absolu#French>) |
+| bordé | bordé | bordée | bordés | bordées | bordered |  | [Link](<https://en.wiktionary.org/wiki/bordé#French>) |
+| caritatif | caritatif | caritative | caritatifs | caritatives | charitable/charity |  | [Link](<https://en.wiktionary.org/wiki/caritatif#French>) |
 | commun | commun | commune | communs | communes | common (shared), communal |  | [Link](<https://en.wiktionary.org/wiki/commun#French>) |
 | conjugal | conjugal | conjugale | conjugaux | conjugales | conjugal (relating to marriage) |  | [Link](<https://en.wiktionary.org/wiki/conjugal#French>) |
 | lumineux | lumineux | lumineuse | lumineux | lumineuses | bright/luminous |  | [Link](<https://en.wiktionary.org/wiki/lumineux#French>) |
@@ -14,6 +16,8 @@
 | privé | privé | privée | privés | privées | private |  | [Link](<https://en.wiktionary.org/wiki/privé#French>) |
 | récent | récent | récente | récents | récentes | recent |  | [Link](<https://en.wiktionary.org/wiki/récent#French>) |
 | solidaire | solidaire | solidaire | solidaires | solidaires | showing solidarity (with) |  | [Link](<https://en.wiktionary.org/wiki/solidaire#French>) |
+| soyeux | soyeux | soyeuse | soyeux | soyeuses | silky |  | [Link](<https://en.wiktionary.org/wiki/soyeux#French>) |
+| spacieux | spacieux | spacieuse | spacieux | spacieuses | spacious |  | [Link](<https://en.wiktionary.org/wiki/spacieux#French>) |
 | spotané | spontané | spontanée | spontanés | spontanées | spontaneous |  | [Link](<https://en.wiktionary.org/wiki/spotané#French>) |
 | téméraire | téméraire | téméraire | téméraires | téméraires | rash/reckless |  | [Link](<https://en.wiktionary.org/wiki/téméraire#French>) |
 | tentant | tentant | tentante | tentants | tenantes | tempting |  | [Link](<https://en.wiktionary.org/wiki/tentant#French>) |
@@ -30,10 +34,12 @@
 | à travers | à travers | Preposition: through, across, throughout |  | [Link](<https://en.wiktionary.org/wiki/à travers#French>) |
 | auprès de | auprès de | Preposition: near to |  | [Link](<https://en.wiktionary.org/wiki/auprès de#French>) |
 | L'herbe est toujours plus verte ailleurs | L'herbe est toujours plus verte ailleurs | The grass is always greener on the other side |  | [Link](<https://en.wiktionary.org/wiki/L'herbe est toujours plus verte ailleurs#French>) |
+| ne ... que | ne ... que | Not anything but... / only |  | [Link](<https://en.wiktionary.org/wiki/ne ... que#French>) |
 ## Nouns
 | Word | Masculine Singular | Feminine Singular | Masculine Plural | Feminine Plural | Basic meanings of word | Example sentences | Wiktionary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | abécédaire | l'abécédaire |  | les abécédaires |  | an alphabet primer |  | [Link](<https://en.wiktionary.org/wiki/abécédaire#French>) |
+| actif | l'actif |  | les actifs |  | asset |  | [Link](<https://en.wiktionary.org/wiki/actif#French>) |
 | âme |  | l'âme |  | les âmes | soul |  | [Link](<https://en.wiktionary.org/wiki/âme#French>) |
 | arrière | l'arrière |  | les arrières |  | back/rear |  | [Link](<https://en.wiktionary.org/wiki/arrière#French>) |
 | baignoire |  | la baignoire |  | les baignoires | bathtub |  | [Link](<https://en.wiktionary.org/wiki/baignoire#French>) |
@@ -42,10 +48,14 @@
 | banlieue |  | la banlieue |  | les banlieues | suburb |  | [Link](<https://en.wiktionary.org/wiki/banlieue#French>) |
 | baroudeur | le baroudeur | la baroudeuse | les baroudeurs | les baroudeuses | backpacker |  | [Link](<https://en.wiktionary.org/wiki/baroudeur#French>) |
 | bourse |  | la bourse |  | les bourses | financial grant, stock exchange |  | [Link](<https://en.wiktionary.org/wiki/bourse#French>) |
+| cabane |  | la cabane |  | les cabanes | cabin/hut/shack/shed |  | [Link](<https://en.wiktionary.org/wiki/cabane#French>) |
 | cafard | le cafard |  | les cafards |  | hypocrite, (animal) cockroach |  | [Link](<https://en.wiktionary.org/wiki/cafard#French>) |
+| carnet | le carnet |  | les carnets |  | booklet/notebook |  | [Link](<https://en.wiktionary.org/wiki/carnet#French>) |
+| casque | le casque |  | les casques |  | helmet, hard hat, headphones |  | [Link](<https://en.wiktionary.org/wiki/casque#French>) |
 | cave |  | la cave |  | les caves | cellar/basement/wine cellar |  | [Link](<https://en.wiktionary.org/wiki/cave#French>) |
 | cheminée |  | la cheminée |  | les cheminées | chimney |  | [Link](<https://en.wiktionary.org/wiki/cheminée#French>) |
 | chichi | le chichi |  | les chichis |  | a fuss, something showy |  | [Link](<https://en.wiktionary.org/wiki/chichi#French>) |
+| chirurgie |  | la chirurgie |  | les chirurgies | surgery |  | [Link](<https://en.wiktionary.org/wiki/chirurgie#French>) |
 | classement | le classement |  | les classements |  | ranking, classification |  | [Link](<https://en.wiktionary.org/wiki/classement#French>) |
 | commerce | le commerce |  | les commerces |  | commerce/trade |  | [Link](<https://en.wiktionary.org/wiki/commerce#French>) |
 | coût | le coût |  | les coûts |  | cost/price |  | [Link](<https://en.wiktionary.org/wiki/coût#French>) |
@@ -54,43 +64,52 @@
 | cuisson |  | la cuisson |  | les cuissons | cooking |  | [Link](<https://en.wiktionary.org/wiki/cuisson#French>) |
 | dépanneur | le dépanneur | la dépanneuse | les dépanneurs |  | repairman |  | [Link](<https://en.wiktionary.org/wiki/dépanneur#French>) |
 | déplacement | le déplacement |  | les déplacements |  | trip/journey, move/movement |  | [Link](<https://en.wiktionary.org/wiki/déplacement#French>) |
+| dette |  | la dette |  | les dettes | debt |  | [Link](<https://en.wiktionary.org/wiki/dette#French>) |
 | dirigeant | le dirigeant |  | les dirigeants |  | leader |  | [Link](<https://en.wiktionary.org/wiki/dirigeant#French>) |
 | domicile | le domicile |  | les domiciles |  | domicile |  | [Link](<https://en.wiktionary.org/wiki/domicile#French>) |
 | échange | l'échange |  | les échanges |  | exchange |  | [Link](<https://en.wiktionary.org/wiki/échange#French>) |
 | échec | l'échec |  | les échecs |  | failure, (chess) check |  | [Link](<https://en.wiktionary.org/wiki/échec#French>) |
+| entrepôt | l'entrepôt |  | les entrepôts |  | warehouse |  | [Link](<https://en.wiktionary.org/wiki/entrepôt#French>) |
 | expatrié | l'expatrié | l'expatriée | les expatriés |  | expat |  | [Link](<https://en.wiktionary.org/wiki/expatrié#French>) |
 | façade |  | la façade |  | les façades | façade |  | [Link](<https://en.wiktionary.org/wiki/façade#French>) |
 | facilité |  | la facilité |  | les facilités | ease |  | [Link](<https://en.wiktionary.org/wiki/facilité#French>) |
+| fil | le fil |  | les fils |  | wire/thread/yarn, grain (of wood), edge (of blade) |  | [Link](<https://en.wiktionary.org/wiki/fil#French>) |
 | fresque |  | la fresque |  | les fresques | fresco |  | [Link](<https://en.wiktionary.org/wiki/fresque#French>) |
 | fusible | le fusible |  | les fusibles |  | fuse |  | [Link](<https://en.wiktionary.org/wiki/fusible#French>) |
 | garde-robe |  | la garde-robe |  | les garde-robes | wardrobe |  | [Link](<https://en.wiktionary.org/wiki/garde-robe#French>) |
 | hâte |  | l'hâte |  | les hâtes | haste/impatience |  | [Link](<https://en.wiktionary.org/wiki/hâte#French>) |
 | hiérarchie |  | l'hiérarchie |  | les hiérarchies | hierarchy |  | [Link](<https://en.wiktionary.org/wiki/hiérarchie#French>) |
 | homologue | l'homologue | l'homologue | les homologues | les homologues | counterpart |  | [Link](<https://en.wiktionary.org/wiki/homologue#French>) |
+| hypothèse |  | l'hypothèse |  | les hypothèses | hypothesis |  | [Link](<https://en.wiktionary.org/wiki/hypothèse#French>) |
 | identifiant | l'identifiant |  | les identifiants |  | login, identifier |  | [Link](<https://en.wiktionary.org/wiki/identifiant#French>) |
 | impôt | l'impôt |  | les impôts |  | tax |  | [Link](<https://en.wiktionary.org/wiki/impôt#French>) |
+| indépendance |  | l'indépendance |  | les indépendances | independence |  | [Link](<https://en.wiktionary.org/wiki/indépendance#French>) |
 | innovation |  | l'innovation |  | les innovations | innovation |  | [Link](<https://en.wiktionary.org/wiki/innovation#French>) |
+| intimité |  | l'intimité |  | les intimités | intimacy, privacy |  | [Link](<https://en.wiktionary.org/wiki/intimité#French>) |
 | kiosque | le kiosque |  | les kiosques |  | kiosk |  | [Link](<https://en.wiktionary.org/wiki/kiosque#French>) |
 | lave-linge | le lave-linge |  | les lave-linges |  | washing machine |  | [Link](<https://en.wiktionary.org/wiki/lave-linge#French>) |
 | lave-vaisselle | le lave-vaisselle |  | les lave-vaisselles |  | dishwasher |  | [Link](<https://en.wiktionary.org/wiki/lave-vaisselle#French>) |
 | locataire | le locataire | la locataire | les locataires |  | renter/tenant |  | [Link](<https://en.wiktionary.org/wiki/locataire#French>) |
 | loggia |  | la loggia |  | les loggias | a covered exterior corridor |  | [Link](<https://en.wiktionary.org/wiki/loggia#French>) |
-| mise en garde | la mise en garde |  | les mises en garde |  | warning/caution |  | [Link](<https://en.wiktionary.org/wiki/mise en garde#French>) |
+| mise en garde |  | la mise en garde |  | les mises en garde | warning/caution |  | [Link](<https://en.wiktionary.org/wiki/mise en garde#French>) |
 | montant | le montant |  | les montants |  | a monetary amount |  | [Link](<https://en.wiktionary.org/wiki/montant#French>) |
 | moquette |  | la moquette |  | les moquettes | fitted carpet |  | [Link](<https://en.wiktionary.org/wiki/moquette#French>) |
 | ordure |  | l'ordure |  | les ordures | garbage/rubbish |  | [Link](<https://en.wiktionary.org/wiki/ordure#French>) |
 | palmarès | le palmarès |  | les palmarès |  | prize list/list of winners |  | [Link](<https://en.wiktionary.org/wiki/palmarès#French>) |
 | parquet | le parquet |  | les parquets |  | wooden floor made of tiles or veneers in a geometric pattern |  | [Link](<https://en.wiktionary.org/wiki/parquet#French>) |
 | pas | le pas |  | les pas |  | step |  | [Link](<https://en.wiktionary.org/wiki/pas#French>) |
+| paupière |  | la paupière |  | les paupières | eyelid |  | [Link](<https://en.wiktionary.org/wiki/paupière#French>) |
 | pavillon | le pavillon |  | les pavillons |  | pavilion, house |  | [Link](<https://en.wiktionary.org/wiki/pavillon#French>) |
 | Pays-Bas |  |  | les Pays-Bas |  | Netherlands |  | [Link](<https://en.wiktionary.org/wiki/Pays-Bas#French>) |
 | périphérie |  | la périphérie |  | les périphéries | perimeter, outskirts |  | [Link](<https://en.wiktionary.org/wiki/périphérie#French>) |
+| périphérique | le périphérique |  | les périphériques |  | peripheral, ring road |  | [Link](<https://en.wiktionary.org/wiki/périphérique#French>) |
 | plaisancier | le plaisancier | la plaisancière | les plaisanciers |  | (nautical) boater |  | [Link](<https://en.wiktionary.org/wiki/plaisancier#French>) |
 | plaque |  | la plaque |  | les plaques | plate, slab |  | [Link](<https://en.wiktionary.org/wiki/plaque#French>) |
 | politesse |  | la politesse |  | les politesses | politness/courtesy |  | [Link](<https://en.wiktionary.org/wiki/politesse#French>) |
 | port | le port |  | les ports |  | port/harbour |  | [Link](<https://en.wiktionary.org/wiki/port#French>) |
 | potentiel | le potentiel |  | les potentiels |  | (also adj) potential |  | [Link](<https://en.wiktionary.org/wiki/potentiel#French>) |
 | propriétaire | le propriétaire | la propriétaire | les propriétaires |  | owner |  | [Link](<https://en.wiktionary.org/wiki/propriétaire#French>) |
+| puits | le puits |  | les puits |  | well/shaft |  | [Link](<https://en.wiktionary.org/wiki/puits#French>) |
 | quête |  | la quête |  | les quêtes | quest/search |  | [Link](<https://en.wiktionary.org/wiki/quête#French>) |
 | ramassage | le ramassage |  | les ramassages |  | the act of picking up/collection |  | [Link](<https://en.wiktionary.org/wiki/ramassage#French>) |
 | regard | le regard |  | les regards |  | look/glance, (uncountable) sight |  | [Link](<https://en.wiktionary.org/wiki/regard#French>) |
@@ -107,6 +126,7 @@
 | véhicule | le véhicule |  | les véhicules |  | vehicle |  | [Link](<https://en.wiktionary.org/wiki/véhicule#French>) |
 | vie nocturne |  | la vie nocturne |  |  | night life |  | [Link](<https://en.wiktionary.org/wiki/vie nocturne#French>) |
 | vision |  | la vision |  | les visions | vision/sight |  | [Link](<https://en.wiktionary.org/wiki/vision#French>) |
+| vitre |  | la vitre |  | les vitres | pane of glass, window |  | [Link](<https://en.wiktionary.org/wiki/vitre#French>) |
 | volet | le volet |  | les volets |  | window shutter |  | [Link](<https://en.wiktionary.org/wiki/volet#French>) |
 ## Verbs
 | Word | Infinitive | Past Participle | Present Participle | Basic meanings of word | Example sentences | Wiktionary |
@@ -115,26 +135,38 @@
 | apercevoir | apercevoir | aperçu | apercevant | (transitive) to see/catch sight of, (reflexive) to realise/to become aware of |  | [Link](<https://en.wiktionary.org/wiki/apercevoir#French>) |
 | assurer | assurer | assuré | assurant | to make sure, to take care of |  | [Link](<https://en.wiktionary.org/wiki/assurer#French>) |
 | attacher | attacher | attaché | attachant | to attach |  | [Link](<https://en.wiktionary.org/wiki/attacher#French>) |
+| atteindre | atteindre | atteint | atteignant | to attain, accomplish, achieve |  | [Link](<https://en.wiktionary.org/wiki/atteindre#French>) |
 | baser | baser | basé | basant | to base (have as a foundation or start) |  | [Link](<https://en.wiktionary.org/wiki/baser#French>) |
 | briller | briller | brillé | brillant | to shine |  | [Link](<https://en.wiktionary.org/wiki/briller#French>) |
+| caresser | caresser | caressé | caressant | to stroke/caress |  | [Link](<https://en.wiktionary.org/wiki/caresser#French>) |
 | claquer | claquer | claqué | claquant | to clap/click/snap, to slam (a door) |  | [Link](<https://en.wiktionary.org/wiki/claquer#French>) |
 | classer | classer | classé | classant | to classify, to rank |  | [Link](<https://en.wiktionary.org/wiki/classer#French>) |
 | consacrer | consacrer | consacré | consacrant | to dedicate/devote, to consecrate |  | [Link](<https://en.wiktionary.org/wiki/consacrer#French>) |
 | convenir | convenir | convenu | convenant | to agree (+ de), to be convenient for (+ à) |  | [Link](<https://en.wiktionary.org/wiki/convenir#French>) |
+| déchiffrer | déchiffrer | déchiffré | déchiffrant | to decipher |  | [Link](<https://en.wiktionary.org/wiki/déchiffrer#French>) |
 | dominer | dominer | dominé | dominant | to dominate |  | [Link](<https://en.wiktionary.org/wiki/dominer#French>) |
 | échanger | échanger | échangé | échangeant | to exchange/swap |  | [Link](<https://en.wiktionary.org/wiki/échanger#French>) |
+| émigrer | émigrer | émigré | émigrant | to emigrate |  | [Link](<https://en.wiktionary.org/wiki/émigrer#French>) |
+| endormir | endormir | endormi | endormant | to put to sleep, (reflexive) to fall asleep |  | [Link](<https://en.wiktionary.org/wiki/endormir#French>) |
 | entourer | entourer | entouré | entourant | to surround |  | [Link](<https://en.wiktionary.org/wiki/entourer#French>) |
 | envisager | envisager | envisagé | envisageant | to envisage |  | [Link](<https://en.wiktionary.org/wiki/envisager#French>) |
+| épouser | épouser | épousé | épousant | to marry, (reflexive) to get married |  | [Link](<https://en.wiktionary.org/wiki/épouser#French>) |
 | établir | établir | établi | établissant | to establish |  | [Link](<https://en.wiktionary.org/wiki/établir#French>) |
 | faciliter | faciliter | facilité | facilitant | to facilitate |  | [Link](<https://en.wiktionary.org/wiki/faciliter#French>) |
+| guider | guider | guidé | guidant | to guide |  | [Link](<https://en.wiktionary.org/wiki/guider#French>) |
 | hésiter | hésiter | hésité | hésitant | to hesitate |  | [Link](<https://en.wiktionary.org/wiki/hésiter#French>) |
 | hisser | hisser | hissé | hissant | to raise, (reflexive) to improve a rank |  | [Link](<https://en.wiktionary.org/wiki/hisser#French>) |
+| infiltrer | infiltrer | infiltré | infiltrant | (reflexive) to infiltrate |  | [Link](<https://en.wiktionary.org/wiki/infiltrer#French>) |
 | justifier | justifier | justifié | justifiant | to justify |  | [Link](<https://en.wiktionary.org/wiki/justifier#French>) |
 | méfier | méfier | méfié | méfiant | (reflexive) to mistrust/ be wary of |  | [Link](<https://en.wiktionary.org/wiki/méfier#French>) |
-| mériter | mériter | mérité | méritant | to deserive/merit |  | [Link](<https://en.wiktionary.org/wiki/mériter#French>) |
+| mériter | mériter | mérité | méritant | to deserve/merit |  | [Link](<https://en.wiktionary.org/wiki/mériter#French>) |
 | papoter | papoter | papoté | papotant | to chat |  | [Link](<https://en.wiktionary.org/wiki/papoter#French>) |
 | peiner | peiner | peiné | peinant | to struggle, to cause pain |  | [Link](<https://en.wiktionary.org/wiki/peiner#French>) |
+| pénétrer | pénétrer | pénétré | pénétrant | to penetrate, to enter |  | [Link](<https://en.wiktionary.org/wiki/pénétrer#French>) |
+| percer | percer | percé | perçant | to pierce |  | [Link](<https://en.wiktionary.org/wiki/percer#French>) |
 | placer | placer | placé | plaçant | to place something in a location, (reflexive) to place in a competition |  | [Link](<https://en.wiktionary.org/wiki/placer#French>) |
 | rassurer | rassurer | rassuré | rassurant | to reassure, to calm down |  | [Link](<https://en.wiktionary.org/wiki/rassurer#French>) |
 | rénover | rénover | rénové | rénovant | to renovate/renew/revitalise |  | [Link](<https://en.wiktionary.org/wiki/rénover#French>) |
+| rouvrir | rouvrir | rouvert | rouvrant | to reopen |  | [Link](<https://en.wiktionary.org/wiki/rouvrir#French>) |
+| séjourner | séjourner | séjourné | séjournant | to stay, to sojourn |  | [Link](<https://en.wiktionary.org/wiki/séjourner#French>) |
 | stagner | stagner | stagné | stagnant | to stagnate |  | [Link](<https://en.wiktionary.org/wiki/stagner#French>) |

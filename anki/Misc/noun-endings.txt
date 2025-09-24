@@ -14,9 +14,9 @@
 -isme|Y||le communisme|
 -ment|Y||le gouvernement|
 -oir|Y||le miroir|
--ain|Y||le frain, le copain|
+-ain|Y||le frain, le copain|la main
 -eu|Y||l'aveu, le neveu|
--ège|Y||le siège, la manège|
+-ège|Y||le siège, le manège|
 -at|Y||le chat, le plat|
 -ade||Y|la parade, la sérénade|le stade
 -aille||Y|la bataille|
@@ -31,7 +31,7 @@
 -té||Y|la liberté|
 -ice||Y|la justice|l'exercice, le sacrifice, le service
 -tude||Y|la solitude|
--oire||Y|la solitude|
+-oire||Y|la gloire, la poire|le pourboire, le laboratoire, l'interrogatoire, le répertoire
 -çon||Y|la leçon|le garçon, le glaçon, le soupçon, le maçon
 -eur||Y|l'odeur, la sueur|le bonheur, le tailleur, le malheur
 -ance||Y|la connaissance|

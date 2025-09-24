@@ -14,9 +14,9 @@
 | -isme | Masculine | le communisme |  |
 | -ment | Masculine | le gouvernement |  |
 | -oir | Masculine | le miroir |  |
-| -ain | Masculine | le frain, le copain |  |
+| -ain | Masculine | le frain, le copain | la main |
 | -eu | Masculine | l'aveu, le neveu |  |
-| -ège | Masculine | le siège, la manège |  |
+| -ège | Masculine | le siège, le manège |  |
 | -at | Masculine | le chat, le plat |  |
 | -ade | Feminine | la parade, la sérénade | le stade |
 | -aille | Feminine | la bataille |  |
@@ -31,7 +31,7 @@
 | -té | Feminine | la liberté |  |
 | -ice | Feminine | la justice | l'exercice, le sacrifice, le service |
 | -tude | Feminine | la solitude |  |
-| -oire | Feminine | la solitude |  |
+| -oire | Feminine | la gloire, la poire | le pourboire, le laboratoire, l'interrogatoire, le répertoire |
 | -çon | Feminine | la leçon | le garçon, le glaçon, le soupçon, le maçon |
 | -eur | Feminine | l'odeur, la sueur | le bonheur, le tailleur, le malheur |
 | -ance | Feminine | la connaissance |  |

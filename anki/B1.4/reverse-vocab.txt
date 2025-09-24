@@ -3,6 +3,8 @@
 #notetype:English to French
 #deck:French Courses::B1.4::English to French Vocab
 adj-absolu|Adjective: absolute|absolu|absolue|absolus|absolues||||||
+adj-bordé|Adjective: bordered|bordé|bordée|bordés|bordées||||||
+adj-caritatif|Adjective: charitable/charity|caritatif|caritative|caritatifs|caritatives||||||
 adj-commun|Adjective: common (shared), communal|commun|commune|communs|communes||||||
 adj-conjugal|Adjective: conjugal (relating to marriage)|conjugal|conjugale|conjugaux|conjugales||||||
 adj-lumineux|Adjective: bright/luminous|lumineux|lumineuse|lumineux|lumineuses||||||
@@ -14,6 +16,8 @@ adj-phénoménal|Adjective: phenomenal|phénoménal|phénoménale|phénoménaux|
 adj-privé|Adjective: private|privé|privée|privés|privées||||||
 adj-récent|Adjective: recent|récent|récente|récents|récentes||||||
 adj-solidaire|Adjective: showing solidarity (with)|solidaire|solidaire|solidaires|solidaires||||||
+adj-soyeux|Adjective: silky|soyeux|soyeuse|soyeux|soyeuses||||||
+adj-spacieux|Adjective: spacious|spacieux|spacieuse|spacieux|spacieuses||||||
 adj-spotané|Adjective: spontaneous|spontané|spontanée|spontanés|spontanées||||||
 adj-tentant|Adjective: tempting|tentant|tentante|tentants|tenantes||||||
 adj-téméraire|Adjective: rash/reckless|téméraire|téméraire|téméraires|téméraires||||||
@@ -23,9 +27,11 @@ adv-à proximité|Adverb: nearby|||||à proximité|||||
 adv-économiquement|Adverb: economically|||||économiquement|||||
 misc-L'herbe est toujours plus verte ailleurs|The grass is always greener on the other side|||||L'herbe est toujours plus verte ailleurs|||||
 misc-auprès de|Preposition: near to|||||auprès de|||||
+misc-ne ... que|Not anything but... / only|||||ne ... que|||||
 misc-à travers|Preposition: through, across, throughout|||||à travers|||||
 noun-Pays-Bas|Noun: Netherlands|||les Pays-Bas|||||||
 noun-abécédaire|Noun: an alphabet primer|l'abécédaire||les abécédaires|||||||
+noun-actif|Noun: asset|l'actif||les actifs|||||||
 noun-arrière|Noun: back/rear|l'arrière||les arrières|||||||
 noun-baignoire|Noun: bathtub||la baignoire||les baignoires||||||
 noun-balcon|Noun: balcony|le balcon||les balcons|||||||
@@ -33,44 +39,55 @@ noun-bambin|Noun: toddler|le bambin|la bambine|les bambins|||||||
 noun-banlieue|Noun: suburb||la banlieue||les banlieues||||||
 noun-baroudeur|Noun: backpacker|le baroudeur|la baroudeuse|les baroudeurs|les baroudeuses||||||
 noun-bourse|Noun: financial grant, stock exchange||la bourse||les bourses||||||
+noun-cabane|Noun: cabin/hut/shack/shed||la cabane||les cabanes||||||
 noun-cafard|Noun: hypocrite, (animal) cockroach|le cafard||les cafards|||||||
+noun-carnet|Noun: booklet/notebook|le carnet||les carnets|||||||
+noun-casque|Noun: helmet, hard hat, headphones|le casque||les casques|||||||
 noun-cave|Noun: cellar/basement/wine cellar||la cave||les caves||||||
 noun-cheminée|Noun: chimney||la cheminée||les cheminées||||||
 noun-chichi|Noun: a fuss, something showy|le chichi||les chichis|||||||
+noun-chirurgie|Noun: surgery||la chirurgie||les chirurgies||||||
 noun-classement|Noun: ranking, classification|le classement||les classements|||||||
 noun-commerce|Noun: commerce/trade|le commerce||les commerces|||||||
 noun-coût|Noun: cost/price|le coût||les coûts|||||||
 noun-crise|Noun: crisis||la crise||les crises||||||
 noun-critère|Noun: criterion|le critère||les critères|||||||
 noun-cuisson|Noun: cooking||la cuisson||les cuissons||||||
+noun-dette|Noun: debt||la dette||les dettes||||||
 noun-dirigeant|Noun: leader|le dirigeant||les dirigeants|||||||
 noun-domicile|Noun: domicile|le domicile||les domiciles|||||||
 noun-dépanneur|Noun: repairman|le dépanneur|la dépanneuse|les dépanneurs|||||||
 noun-déplacement|Noun: trip/journey, move/movement|le déplacement||les déplacements|||||||
+noun-entrepôt|Noun: warehouse|l'entrepôt||les entrepôts|||||||
 noun-expatrié|Noun: expat|l'expatrié|l'expatriée|les expatriés|||||||
 noun-facilité|Noun: ease||la facilité||les facilités||||||
 noun-façade|Noun: façade||la façade||les façades||||||
+noun-fil|Noun: wire/thread/yarn, grain (of wood), edge (of blade)|le fil||les fils|||||||
 noun-fresque|Noun: fresco||la fresque||les fresques||||||
 noun-fusible|Noun: fuse|le fusible||les fusibles|||||||
 noun-garde-robe|Noun: wardrobe||la garde-robe||les garde-robes||||||
 noun-hiérarchie|Noun: hierarchy||l'hiérarchie||les hiérarchies||||||
 noun-homologue|Noun: counterpart|l'homologue|l'homologue|les homologues|les homologues||||||
+noun-hypothèse|Noun: hypothesis||l'hypothèse||les hypothèses||||||
 noun-hâte|Noun: haste/impatience||l'hâte||les hâtes||||||
 noun-identifiant|Noun: login, identifier|l'identifiant||les identifiants|||||||
 noun-impôt|Noun: tax|l'impôt||les impôts|||||||
+noun-indépendance|Noun: independence||l'indépendance||les indépendances||||||
 noun-innovation|Noun: innovation||l'innovation||les innovations||||||
+noun-intimité|Noun: intimacy, privacy||l'intimité||les intimités||||||
 noun-kiosque|Noun: kiosk|le kiosque||les kiosques|||||||
 noun-lave-linge|Noun: washing machine|le lave-linge||les lave-linges|||||||
 noun-lave-vaisselle|Noun: dishwasher|le lave-vaisselle||les lave-vaisselles|||||||
 noun-locataire|Noun: renter/tenant|le locataire|la locataire|les locataires|||||||
 noun-loggia|Noun: a covered exterior corridor||la loggia||les loggias||||||
-noun-mise en garde|Noun: warning/caution|la mise en garde||les mises en garde|||||||
+noun-mise en garde|Noun: warning/caution||la mise en garde||les mises en garde||||||
 noun-montant|Noun: a monetary amount|le montant||les montants|||||||
 noun-moquette|Noun: fitted carpet||la moquette||les moquettes||||||
 noun-ordure|Noun: garbage/rubbish||l'ordure||les ordures||||||
 noun-palmarès|Noun: prize list/list of winners|le palmarès||les palmarès|||||||
 noun-parquet|Noun: wooden floor made of tiles or veneers in a geometric pattern|le parquet||les parquets|||||||
 noun-pas|Noun: step|le pas||les pas|||||||
+noun-paupière|Noun: eyelid||la paupière||les paupières||||||
 noun-pavillon|Noun: pavilion, house|le pavillon||les pavillons|||||||
 noun-plaisancier|Noun: (nautical) boater|le plaisancier|la plaisancière|les plaisanciers|||||||
 noun-plaque|Noun: plate, slab||la plaque||les plaques||||||
@@ -78,7 +95,9 @@ noun-politesse|Noun: politness/courtesy||la politesse||les politesses||||||
 noun-port|Noun: port/harbour|le port||les ports|||||||
 noun-potentiel|Noun: (also adj) potential|le potentiel||les potentiels|||||||
 noun-propriétaire|Noun: owner|le propriétaire|la propriétaire|les propriétaires|||||||
+noun-puits|Noun: well/shaft|le puits||les puits|||||||
 noun-périphérie|Noun: perimeter, outskirts||la périphérie||les périphéries||||||
+noun-périphérique|Noun: peripheral, ring road|le périphérique||les périphériques|||||||
 noun-quête|Noun: quest/search||la quête||les quêtes||||||
 noun-ramassage|Noun: the act of picking up/collection|le ramassage||les ramassages|||||||
 noun-regard|Noun: look/glance, (uncountable) sight|le regard||les regards|||||||
@@ -94,6 +113,7 @@ noun-terrasse|Noun: terrace||la terrasse||les terrasses||||||
 noun-tri|Noun: selection|le tri||les tris|||||||
 noun-vie nocturne|Noun: night life||la vie nocturne||||||||
 noun-vision|Noun: vision/sight||la vision||les visions||||||
+noun-vitre|Noun: pane of glass, window||la vitre||les vitres||||||
 noun-volet|Noun: window shutter|le volet||les volets|||||||
 noun-véhicule|Noun: vehicle|le véhicule||les véhicules|||||||
 noun-âme|Noun: soul||l'âme||les âmes||||||
@@ -103,26 +123,38 @@ verb-aménager|Verb: to fit out||||||aménager|aménagé|aménageant||
 verb-apercevoir|Verb: (transitive) to see/catch sight of, (reflexive) to realise/to become aware of||||||apercevoir|aperçu|apercevant||
 verb-assurer|Verb: to make sure, to take care of||||||assurer|assuré|assurant||
 verb-attacher|Verb: to attach||||||attacher|attaché|attachant||
+verb-atteindre|Verb: to attain, accomplish, achieve||||||atteindre|atteint|atteignant||
 verb-baser|Verb: to base (have as a foundation or start)||||||baser|basé|basant||
 verb-briller|Verb: to shine||||||briller|brillé|brillant||
+verb-caresser|Verb: to stroke/caress||||||caresser|caressé|caressant||
 verb-claquer|Verb: to clap/click/snap, to slam (a door)||||||claquer|claqué|claquant||
 verb-classer|Verb: to classify, to rank||||||classer|classé|classant||
 verb-consacrer|Verb: to dedicate/devote, to consecrate||||||consacrer|consacré|consacrant||
 verb-convenir|Verb: to agree (+ de), to be convenient for (+ à)||||||convenir|convenu|convenant||
 verb-dominer|Verb: to dominate||||||dominer|dominé|dominant||
+verb-déchiffrer|Verb: to decipher||||||déchiffrer|déchiffré|déchiffrant||
+verb-endormir|Verb: to put to sleep, (reflexive) to fall asleep||||||endormir|endormi|endormant||
 verb-entourer|Verb: to surround||||||entourer|entouré|entourant||
 verb-envisager|Verb: to envisage||||||envisager|envisagé|envisageant||
 verb-faciliter|Verb: to facilitate||||||faciliter|facilité|facilitant||
+verb-guider|Verb: to guide||||||guider|guidé|guidant||
 verb-hisser|Verb: to raise, (reflexive) to improve a rank||||||hisser|hissé|hissant||
 verb-hésiter|Verb: to hesitate||||||hésiter|hésité|hésitant||
+verb-infiltrer|Verb: (reflexive) to infiltrate||||||infiltrer|infiltré|infiltrant||
 verb-justifier|Verb: to justify||||||justifier|justifié|justifiant||
 verb-méfier|Verb: (reflexive) to mistrust/ be wary of||||||méfier|méfié|méfiant||
-verb-mériter|Verb: to deserive/merit||||||mériter|mérité|méritant||
+verb-mériter|Verb: to deserve/merit||||||mériter|mérité|méritant||
 verb-papoter|Verb: to chat||||||papoter|papoté|papotant||
 verb-peiner|Verb: to struggle, to cause pain||||||peiner|peiné|peinant||
+verb-percer|Verb: to pierce||||||percer|percé|perçant||
 verb-placer|Verb: to place something in a location, (reflexive) to place in a competition||||||placer|placé|plaçant||
+verb-pénétrer|Verb: to penetrate, to enter||||||pénétrer|pénétré|pénétrant||
 verb-rassurer|Verb: to reassure, to calm down||||||rassurer|rassuré|rassurant||
+verb-rouvrir|Verb: to reopen||||||rouvrir|rouvert|rouvrant||
 verb-rénover|Verb: to renovate/renew/revitalise||||||rénover|rénové|rénovant||
 verb-stagner|Verb: to stagnate||||||stagner|stagné|stagnant||
+verb-séjourner|Verb: to stay, to sojourn||||||séjourner|séjourné|séjournant||
 verb-échanger|Verb: to exchange/swap||||||échanger|échangé|échangeant||
+verb-émigrer|Verb: to emigrate||||||émigrer|émigré|émigrant||
+verb-épouser|Verb: to marry, (reflexive) to get married||||||épouser|épousé|épousant||
 verb-établir|Verb: to establish||||||établir|établi|établissant||
