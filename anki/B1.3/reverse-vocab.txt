@@ -186,7 +186,7 @@ noun-putaclic|Noun: (also adj.) clickbait|le putaclic||les putaclics|||||||
 noun-racisme|Noun: racism|le racisme|||||||||
 noun-rappeur|Noun: rapper|le rappeur|la rappeuse|les rappeurs|les rappeuses||||||
 noun-recueil|Noun: collection|le recueil||les recueils|||||||
-noun-responsabilité|Noun: responsibility||la responsabilité||les responsabilitiés||||||
+noun-responsabilité|Noun: responsibility||la responsabilité||les responsabilités||||||
 noun-revue|Noun: magazine, journal||la revue||les revues||||||
 noun-roue de secours|Noun: spare wheel||la roue de secours||les roues de secours||||||
 noun-réchauffement climatique|Noun: global warming|le réchauffement climatique|||||||||
@@ -265,7 +265,7 @@ verb-mémoriser|Verb: To memorise||||||mémoriser|mémorisé|mémorisant||
 verb-obéir|Verb: to obey||||||obéir|obéi|obéissant||
 verb-oser|Verb: To dare||||||oser|osé|osant||
 verb-procurer|Verb: to get/obtain||||||procurer|procuré|procurant||
-verb-rapproacher|Verb: To reapproach, come/bring closer. (reflexive + de) to get closer (to)||||||rapproacher|rapproaché|rapproachant||
+verb-rapprocher|Verb: To reapproach, come/bring closer. (reflexive + de) to get closer (to)||||||rapprocher|rapproché|rapprochant||
 verb-recueillir|Verb: to collect, gather, obtain. (reflexive) To reflect, meditate||||||recueillir|recueilli|recueillant||
 verb-remporter|Verb: to take away (again)||||||remporter|remporté|remportant||
 verb-rouler|Verb: to roll, revolve||||||rouler|roulé|roulant||

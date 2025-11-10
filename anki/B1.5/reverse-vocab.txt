@@ -1,0 +1,36 @@
+#separator:Pipe
+#columns:Key|Basic meanings of word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Example sentences|Wiktionary
+#notetype:English to French
+#deck:French Courses::B1.5::English to French Vocab
+adj-approprié|Adjective: appropriate|approprié|appropriée|appropriés|appropriées||||||
+adj-cohérent|Adjective: coherent|cohérent|cohérente|cohérents|cohérentes||||||
+adj-contemporain|Adjective: Contemporary, of the current era|contemporain|contemporaine|contemporains|contemporaines||||||
+misc-en extérieur|outside|||||en extérieur|||||
+misc-en groupe|Do something in a group|||||en groupe|||||
+misc-en équipe|Do something as a team|||||en équipe|||||
+misc-un terrain d'entente|Common ground/ understanding|||||un terrain d'entente|||||
+misc-à deux|2 people do something|||||à deux|||||
+misc-à plusiers|Multiple people do something|||||à plusiers|||||
+noun-ambiance|Noun: ambiance||l'ambiance||les ambiances||||||
+noun-ange|Noun: angel|l'ange||les anges|||||||
+noun-budget|Noun: budget|le budget||les budgets|||||||
+noun-canaille|Noun: scoundrel/ dishonest person||la canaille||les canailles||||||
+noun-centre d'intérêt|Noun: area of interest, hobby|le centre d'intérêt||les centres d'intérêts|||||||
+noun-diable|Noun: devil|le diable||les diables|||||||
+noun-décor|Noun: decor|le décor||les décors|||||||
+noun-originalité|Noun: originality|l'originalité||les originalités|||||||
+noun-paradis|Noun: paradise, heaven|le paradis|||||||||
+noun-quiz|Noun: quiz|le quiz|||||||||
+noun-rabais|Noun: discount|le rabais|||||||||
+noun-réduction|Noun: reduction/ discount||la réduction||les réductions||||||
+noun-tarif|Noun: price (usually of a service)|le tarif||les tarifs|||||||
+verb-chiner|Verb: to look around for||||||chiner|chiné|chinant||
+verb-conter|Verb: to recount (tell a story)||||||conter|conté|contant||
+verb-divertir|Verb: to amuse/ entertain, to distract||||||divertir|diverti|divertissant||
+verb-définir|Verb: to define||||||définir|défini|définissant||
+verb-intituler|Verb: to title||||||intituler|intitulé|intitulant||
+verb-monopoliser|Verb: to monpolise||||||monopoliser|monopolisé|monopolisant||
+verb-planifier|Verb: to plan||||||planifier|planifié|planifiant||
+verb-réunir|Verb: to collect, to bring together, (reflexive) to meet/ come together||||||réunir|réuni|réunissant||
+verb-surprendre|Verb: to surprise||||||surprendre|surpris|surprenant||
+verb-valoir|Verb: to be worth, to earn||||||valoir|valu|valant||

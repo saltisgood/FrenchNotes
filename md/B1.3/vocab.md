@@ -203,7 +203,7 @@
 | recueil | le recueil |  | les recueils |  | collection |  | [Link](<https://en.wiktionary.org/wiki/recueil#French>) |
 | rédacteur | le rédacteur | la rédactrice | les rédacteurs | les rédactrices | editor, author of a book or publication |  | [Link](<https://en.wiktionary.org/wiki/rédacteur#French>) |
 | rédacteur en chef | le rédacteur en chef | la rédactrice en chef | les rédacteurs en chef | les rédactrices en chef | editor in chief |  | [Link](<https://en.wiktionary.org/wiki/rédacteur en chef#French>) |
-| responsabilité |  | la responsabilité |  | les responsabilitiés | responsibility |  | [Link](<https://en.wiktionary.org/wiki/responsabilité#French>) |
+| responsabilité |  | la responsabilité |  | les responsabilités | responsibility |  | [Link](<https://en.wiktionary.org/wiki/responsabilité#French>) |
 | résultat | le résultat |  | les résultats |  | outcome, result |  | [Link](<https://en.wiktionary.org/wiki/résultat#French>) |
 | réveil | le réveil |  | les réveils |  | waking up, alarm clock |  | [Link](<https://en.wiktionary.org/wiki/réveil#French>) |
 | revue |  | la revue |  | les revues | magazine, journal |  | [Link](<https://en.wiktionary.org/wiki/revue#French>) |
@@ -285,7 +285,7 @@
 | obéir | obéir | obéi | obéissant | to obey |  | [Link](<https://en.wiktionary.org/wiki/obéir#French>) |
 | oser | oser | osé | osant | To dare |  | [Link](<https://en.wiktionary.org/wiki/oser#French>) |
 | procurer | procurer | procuré | procurant | to get/obtain |  | [Link](<https://en.wiktionary.org/wiki/procurer#French>) |
-| rapproacher | rapproacher | rapproaché | rapproachant | To reapproach, come/bring closer. (reflexive + de) to get closer (to) |  | [Link](<https://en.wiktionary.org/wiki/rapproacher#French>) |
+| rapprocher | rapprocher | rapproché | rapprochant | To reapproach, come/bring closer. (reflexive + de) to get closer (to) |  | [Link](<https://en.wiktionary.org/wiki/rapprocher#French>) |
 | réaliser | réaliser | réalisé | réalisant | To direct, fulfill, perform, make, realise. Reflexive: to become real |  | [Link](<https://en.wiktionary.org/wiki/réaliser#French>) |
 | recueillir | recueillir | recueilli | recueillant | to collect, gather, obtain. (reflexive) To reflect, meditate |  | [Link](<https://en.wiktionary.org/wiki/recueillir#French>) |
 | réfugier | réfugier | réfugié | réfugiant | (reflex.) to take refuge |  | [Link](<https://en.wiktionary.org/wiki/réfugier#French>) |

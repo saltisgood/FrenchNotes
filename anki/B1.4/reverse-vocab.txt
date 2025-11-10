@@ -40,7 +40,7 @@ misc-L'herbe est toujours plus verte ailleurs|The grass is always greener on the
 misc-auprès de|Preposition: near to|||||auprès de|||||
 misc-avoir la tête qui tourne|To be dizzy / light headed|||||avoir la tête qui tourne|||||
 misc-en pleine nuit|In the middle of the night|||||en pleine nuit|||||
-misc-l'^age mur|Middle aged|||||l'^age mur|||||
+misc-l'âge mûr|Middle aged|||||l'âge mûr|||||
 misc-les premiers secours|first aid|||||les premiers secours|||||
 misc-ne ... que|Not anything but... / only|||||ne ... que|||||
 misc-reprendre le flambeau|Pass the torch (continue the tradition)|||||reprendre le flambeau|||||
@@ -176,7 +176,7 @@ noun-échec|Noun: failure, (chess) check|l'échec||les échecs|||||||
 noun-émerveillement|Noun: wonder|l'émerveillement||les émerveillements|||||||
 noun-étal|Noun: market stall|l'étal||les étals / étaux|||||||
 verb-affilier|Verb: to affiliate||||||affilier|affilié|affiliant||
-verb-agacer|Verb: to annoy/ tease||||||agacer|agacé|agaçant||
+verb-agacer|Verb: to irritate||||||agacer|agacé|agaçant||
 verb-aménager|Verb: to fit out||||||aménager|aménagé|aménageant||
 verb-apercevoir|Verb: (transitive) to see/catch sight of, (reflexive) to realise/to become aware of||||||apercevoir|aperçu|apercevant||
 verb-assurer|Verb: to make sure, to take care of||||||assurer|assuré|assurant||

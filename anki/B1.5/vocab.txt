@@ -1,0 +1,36 @@
+#separator:Pipe
+#columns:Key|Word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Basic meanings of word|Example sentences|Wiktionary
+#notetype:French to English Noun
+#deck:French Courses::B1.5::Vocab
+adj-approprié|approprié|approprié|appropriée|appropriés|appropriées|||||Adjective: appropriate||
+adj-cohérent|cohérent|cohérent|cohérente|cohérents|cohérentes|||||Adjective: coherent||
+adj-contemporain|contemporain|contemporain|contemporaine|contemporains|contemporaines|||||Adjective: Contemporary, of the current era||
+misc-en extérieur|en extérieur|||||en extérieur||||outside||
+misc-en groupe|en groupe|||||en groupe||||Do something in a group||
+misc-en équipe|en équipe|||||en équipe||||Do something as a team||
+misc-un terrain d'entente|un terrain d'entente|||||un terrain d'entente||||Common ground/ understanding||
+misc-à deux|à deux|||||à deux||||2 people do something||
+misc-à plusiers|à plusiers|||||à plusiers||||Multiple people do something||
+noun-ambiance|ambiance||l'ambiance||les ambiances|||||Noun: ambiance||
+noun-ange|ange|l'ange||les anges||||||Noun: angel||
+noun-budget|budget|le budget||les budgets||||||Noun: budget||
+noun-canaille|canaille||la canaille||les canailles|||||Noun: scoundrel/ dishonest person||
+noun-centre d'intérêt|centre d'intérêt|le centre d'intérêt||les centres d'intérêts||||||Noun: area of interest, hobby||
+noun-diable|diable|le diable||les diables||||||Noun: devil||
+noun-décor|décor|le décor||les décors||||||Noun: decor||
+noun-originalité|originalité|l'originalité||les originalités||||||Noun: originality||
+noun-paradis|paradis|le paradis||||||||Noun: paradise, heaven||
+noun-quiz|quiz|le quiz||||||||Noun: quiz||
+noun-rabais|rabais|le rabais||||||||Noun: discount||
+noun-réduction|réduction||la réduction||les réductions|||||Noun: reduction/ discount||
+noun-tarif|tarif|le tarif||les tarifs||||||Noun: price (usually of a service)||
+verb-chiner|chiner||||||chiner|chiné|chinant|Verb: to look around for||
+verb-conter|conter||||||conter|conté|contant|Verb: to recount (tell a story)||
+verb-divertir|divertir||||||divertir|diverti|divertissant|Verb: to amuse/ entertain, to distract||
+verb-définir|définir||||||définir|défini|définissant|Verb: to define||
+verb-intituler|intituler||||||intituler|intitulé|intitulant|Verb: to title||
+verb-monopoliser|monopoliser||||||monopoliser|monopolisé|monopolisant|Verb: to monpolise||
+verb-planifier|planifier||||||planifier|planifié|planifiant|Verb: to plan||
+verb-réunir|réunir||||||réunir|réuni|réunissant|Verb: to collect, to bring together, (reflexive) to meet/ come together||
+verb-surprendre|surprendre||||||surprendre|surpris|surprenant|Verb: to surprise||
+verb-valoir|valoir||||||valoir|valu|valant|Verb: to be worth, to earn||

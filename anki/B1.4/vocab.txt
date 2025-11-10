@@ -40,7 +40,7 @@ misc-L'herbe est toujours plus verte ailleurs|L'herbe est toujours plus verte ai
 misc-auprès de|auprès de|||||auprès de||||Preposition: near to||
 misc-avoir la tête qui tourne|avoir la tête qui tourne|||||avoir la tête qui tourne||||To be dizzy / light headed||
 misc-en pleine nuit|en pleine nuit|||||en pleine nuit||||In the middle of the night||
-misc-l'^age mur|l'^age mur|||||l'^age mur||||Middle aged||
+misc-l'âge mûr|l'âge mûr|||||l'âge mûr||||Middle aged||
 misc-les premiers secours|les premiers secours|||||les premiers secours||||first aid||
 misc-ne ... que|ne ... que|||||ne ... que||||Not anything but... / only||
 misc-reprendre le flambeau|reprendre le flambeau|||||reprendre le flambeau||||Pass the torch (continue the tradition)||
@@ -176,7 +176,7 @@ noun-échec|échec|l'échec||les échecs||||||Noun: failure, (chess) check||
 noun-émerveillement|émerveillement|l'émerveillement||les émerveillements||||||Noun: wonder||
 noun-étal|étal|l'étal||les étals / étaux||||||Noun: market stall||
 verb-affilier|affilier||||||affilier|affilié|affiliant|Verb: to affiliate||
-verb-agacer|agacer||||||agacer|agacé|agaçant|Verb: to annoy/ tease||
+verb-agacer|agacer||||||agacer|agacé|agaçant|Verb: to irritate||
 verb-aménager|aménager||||||aménager|aménagé|aménageant|Verb: to fit out||
 verb-apercevoir|apercevoir||||||apercevoir|aperçu|apercevant|Verb: (transitive) to see/catch sight of, (reflexive) to realise/to become aware of||
 verb-assurer|assurer||||||assurer|assuré|assurant|Verb: to make sure, to take care of||

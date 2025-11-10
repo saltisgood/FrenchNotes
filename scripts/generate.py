@@ -44,7 +44,11 @@ class ParsedFileType:
     @classmethod
     def parse(clazz, csv_text: str):
         # CSV reader doesn't work well for some reason
-        vals = list(clazz(*row.split(';')) for row in csv_text.splitlines()[1:])
+        row = ""
+        try:
+            vals = list(clazz(*row.split(';')) for row in csv_text.splitlines()[1:])
+        except TypeError as e:
+            raise RuntimeError(f"Error parsing CSV for {clazz}: {e} (line={row})") from e
         vals = [val for val in vals if not val.is_empty]
         return vals
 

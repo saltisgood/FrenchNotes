@@ -47,7 +47,7 @@
 | avoir la tête qui tourne | avoir la tête qui tourne | To be dizzy / light headed |  | [Link](<https://en.wiktionary.org/wiki/avoir la tête qui tourne#French>) |
 | ça me prend la tête | ça me prend la tête | It does my head in |  | [Link](<https://en.wiktionary.org/wiki/ça me prend la tête#French>) |
 | en pleine nuit | en pleine nuit | In the middle of the night |  | [Link](<https://en.wiktionary.org/wiki/en pleine nuit#French>) |
-| l'^age mur | l'^age mur | Middle aged |  | [Link](<https://en.wiktionary.org/wiki/l'^age mur#French>) |
+| l'âge mûr | l'âge mûr | Middle aged |  | [Link](<https://en.wiktionary.org/wiki/l'âge mûr#French>) |
 | L'herbe est toujours plus verte ailleurs | L'herbe est toujours plus verte ailleurs | The grass is always greener on the other side |  | [Link](<https://en.wiktionary.org/wiki/L'herbe est toujours plus verte ailleurs#French>) |
 | ne ... que | ne ... que | Not anything but... / only |  | [Link](<https://en.wiktionary.org/wiki/ne ... que#French>) |
 | les premiers secours | les premiers secours | first aid |  | [Link](<https://en.wiktionary.org/wiki/les premiers secours#French>) |
@@ -188,7 +188,7 @@
 | Word | Infinitive | Past Participle | Present Participle | Basic meanings of word | Example sentences | Wiktionary |
 | --- | --- | --- | --- | --- | --- | --- |
 | affilier | affilier | affilié | affiliant | to affiliate |  | [Link](<https://en.wiktionary.org/wiki/affilier#French>) |
-| agacer | agacer | agacé | agaçant | to annoy/ tease |  | [Link](<https://en.wiktionary.org/wiki/agacer#French>) |
+| agacer | agacer | agacé | agaçant | to irritate |  | [Link](<https://en.wiktionary.org/wiki/agacer#French>) |
 | aménager | aménager | aménagé | aménageant | to fit out |  | [Link](<https://en.wiktionary.org/wiki/aménager#French>) |
 | apercevoir | apercevoir | aperçu | apercevant | (transitive) to see/catch sight of, (reflexive) to realise/to become aware of |  | [Link](<https://en.wiktionary.org/wiki/apercevoir#French>) |
 | assurer | assurer | assuré | assurant | to make sure, to take care of |  | [Link](<https://en.wiktionary.org/wiki/assurer#French>) |
