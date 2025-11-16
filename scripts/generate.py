@@ -16,6 +16,7 @@ class FileType(StrEnum):
     AdjectivePreposition = "AdjectivePreposition"
     VerbPreposition = "VerbPreposition"
     NounEndings = "NounEndings"
+    VerbConjugations = "VerbConjugations"
 
 
 class ParsedFileType:
@@ -267,6 +268,59 @@ class NounEndings(ParsedFileType):
         ])
 
 
+@dataclass(frozen=True)
+class VerbConjugations(ParsedFileType):
+    FIELDS = ["Key", "Group", "Verb", "Conjugation", "Je", "Tu", "Il", "Nous", "Vous", "Ils", "Participle", "Notes", "Wiktionary"]
+    NOTE_TYPE = "Verb Conjugations"
+    DECK_NAME = "Verb Conjugations"
+
+    group: str
+    verb: str
+    conjugation: str
+    je: str | None = None
+    tu: str | None = None
+    il: str | None = None
+    nous: str | None = None
+    vous: str | None = None
+    ils: str | None = None
+    participle: str | None = None
+    notes: str | None = None
+    wiktionary: str | None = None
+
+    def to_dict(self):
+        return OrderedDict([
+            ("Key", f"{self.verb}-{self.conjugation}"),
+            ("Group", self.group),
+            ("Verb", self.verb),
+            ("Conjugation", self.conjugation),
+            ("Je", self.je),
+            ("Tu", self.tu),
+            ("Il", self.il),
+            ("Nous", self.nous),
+            ("Vous", self.vous),
+            ("Ils", self.ils),
+            {"Participle", self.participle},
+            ("Notes", self.notes),
+            ("Wiktionary", self.wiktionary),
+        ])
+    
+    def to_md_dict(self):
+        return OrderedDict([
+            ("Group", self.group),
+            ("Verb", self.verb),
+            ("Conjugation", self.conjugation),
+            ("Je", self.je),
+            ("Tu", self.tu),
+            ("Il", self.il),
+            ("Nous", self.nous),
+            ("Vous", self.vous),
+            ("Ils", self.ils),
+            ("Participle", self.participle),
+            ("Notes", self.notes),
+            ("Wiktionary", f"[Link](<{self.wiktionary}>)" if self.wiktionary else None),
+        ])
+
+
 class Generator(Protocol):
     def generate_files(self, src_dir: Path, dest_dir: Path):
         for d in src_dir.iterdir():
@@ -430,6 +484,8 @@ class AnkiGenerator(Generator):
             self.generate_parsed_file(deck_folder, dest_deck_dir / "verb-preposition.txt", VerbPreposition, files)
         elif type == FileType.NounEndings:
             self.generate_parsed_file(deck_folder, dest_deck_dir / "noun-endings.txt", NounEndings, files)
+        elif type == FileType.VerbConjugations:
+            self.generate_parsed_file(deck_folder, dest_deck_dir / "verb-conjugations.txt", VerbConjugations, files)
         else:
             raise NotImplementedError(f"File type {type} is not supported for Anki generation.")
 
@@ -513,6 +569,8 @@ class MarkdownGenerator(Generator):
             self.generate_parsed_file(dest_deck_dir / "verb-preposition.md", VerbPreposition, files)
         elif type == FileType.NounEndings:
             self.generate_parsed_file(dest_deck_dir / "noun-endings.md", NounEndings, files)
+        elif type == FileType.VerbConjugations:
+            self.generate_parsed_file(dest_deck_dir / "verb-conjugations.md", VerbConjugations, files)
         else:
             print(f"File type {type} is not supported for Markdown generation.")
 

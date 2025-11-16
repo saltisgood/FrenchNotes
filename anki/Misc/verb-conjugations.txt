@@ -1,0 +1,11 @@
+#separator:Pipe
+#columns:Key|Group|Verb|Conjugation|Je|Tu|Il|Nous|Vous|Ils|Participle|Notes|Wiktionary
+#notetype:Verb Conjugations
+#deck:French Courses::Misc::Verb Conjugations
+aimer-Indicatif présent|1st|aimer|Indicatif présent|aime|aimes|aime|aimons|aimez|aiment|||https://fr.wiktionary.org/wiki/Conjugaison:fran%C3%A7ais/Premier_groupe
+aimer-Indicatif imparfait|1st|aimer|Indicatif imparfait|aimais|aimais|aimait|aimions|aimiez|aimaient||Form the new radical by taking the Nous form of indicatif présent|https://fr.wiktionary.org/wiki/Conjugaison:fran%C3%A7ais/Premier_groupe
+finir-Indicatif présent|2nd|finir|Indicatif présent|finis|finis|finit|finissons|finissez|finissent|||https://fr.wiktionary.org/wiki/Conjugaison:fran%C3%A7ais/Deuxi%C3%A8me_groupe
+finir-Indicatif imparfait|2nd|finir|Indicatif imparfait|finissais|finissais|finissait|finissions|finissiez|finissaient||Form the new radical by taking the Nous form of indicatif présent|https://fr.wiktionary.org/wiki/Conjugaison:fran%C3%A7ais/Deuxi%C3%A8me_groupe
+aller-Indicatif présent|3rd|aller|Indicatif présent|vais|vas|va|allons|allez|vont|||https://fr.wiktionary.org/wiki/Conjugaison:fran%C3%A7ais/aller
+aller-Indicatif imparfait|3rd|aller|Indicatif imparfait|allais|allais|allait|allions|alliez|allaient|||https://fr.wiktionary.org/wiki/Conjugaison:fran%C3%A7ais/aller
+aller-Indicatif passé composé|3rd|aller|Indicatif passé composé|||||||(être) allé||https://fr.wiktionary.org/wiki/Conjugaison:fran%C3%A7ais/aller
