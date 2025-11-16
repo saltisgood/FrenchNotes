@@ -62,7 +62,7 @@ class VocabType(ParsedFileType):
     DECK_NAME = "Vocab"
     REVERSE_DECK_NAME = "English to French Vocab"
     FIELDS = ["Key", "Word", "Masculine Singular", "Feminine Singular", "Masculine Plural", "Feminine Plural", "Adverb", "Infinitive", "Past Participle", "Present Participle", "Basic meanings of word", "Example sentences", "Wiktionary"]
-    REVERSE_FIELDS = ["Key", "Basic meanings of word", "Masculine Singular", "Feminine Singular", "Masculine Plural", "Feminine Plural", "Adverb", "Infinitive", "Past Participle", "Present Participle", "Example sentences", "Wiktionary"]
+    REVERSE_FIELDS = ["Key", "Basic meanings of word", "Word", "Masculine Singular", "Feminine Singular", "Masculine Plural", "Feminine Plural", "Adverb", "Infinitive", "Past Participle", "Present Participle", "Example sentences", "Wiktionary"]
 
     def to_dict(self, include_type: bool) -> dict[str, str | None]:
         ...

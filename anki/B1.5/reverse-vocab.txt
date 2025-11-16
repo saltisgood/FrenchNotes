@@ -1,72 +1,72 @@
 #separator:Pipe
-#columns:Key|Basic meanings of word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Example sentences|Wiktionary
+#columns:Key|Basic meanings of word|Word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Example sentences|Wiktionary
 #notetype:English to French
 #deck:French Courses::B1.5::English to French Vocab
-adj-approprié|Adjective: appropriate|approprié|appropriée|appropriés|appropriées||||||
-adj-cohérent|Adjective: coherent|cohérent|cohérente|cohérents|cohérentes||||||
-adj-contemporain|Adjective: Contemporary, of the current era|contemporain|contemporaine|contemporains|contemporaines||||||
-adj-illimité|Adjective: limitless/ unlimited|illimité|illimitée|illimités|illimitées||||||
-adj-ludique|Adjective: playful/ relating to games|ludique||ludiques|||||||
-adj-serein|Adjective: serene/ calm|serein|sereine|sereins|sereines||||||
-adj-thématique|Adjective: relating to themes|thématique||thématiques|||||||
-misc-afin|so that/ in order to (followed by de or que)|||||afin|||||
-misc-en extérieur|outside|||||en extérieur|||||
-misc-en groupe|Do something in a group|||||en groupe|||||
-misc-en équipe|Do something as a team|||||en équipe|||||
-misc-faire part|to inform/ tell|||||faire part|||||
-misc-la formule d'appel|The 1st line in a letter addressing the audience|||||la formule d'appel|||||
-misc-un terrain d'entente|Common ground/ understanding|||||un terrain d'entente|||||
-misc-à deux|2 people do something|||||à deux|||||
-misc-à plusiers|Multiple people do something|||||à plusiers|||||
-noun-ambiance|Noun: ambiance||l'ambiance||les ambiances||||||
-noun-ange|Noun: angel|l'ange||les anges|||||||
-noun-budget|Noun: budget|le budget||les budgets|||||||
-noun-canaille|Noun: scoundrel/ dishonest person||la canaille||les canailles||||||
-noun-centre d'intérêt|Noun: area of interest, hobby|le centre d'intérêt||les centres d'intérêts|||||||
-noun-chasse au trésor|Noun: treasure hunt||la chasse au trésor||les chasses au trésor||||||
-noun-chasse|Noun: hunt||la chasse||les chasses||||||
-noun-collaborateur|Noun: collaborator (at work)|le collaborateur|la collaboratrice|les collaborateurs|||||||
-noun-conflit|Noun: conflict|le conflit||les conflits|||||||
-noun-crédit|Noun: credit|le crédit||les crédits|||||||
-noun-diable|Noun: devil|le diable||les diables|||||||
-noun-doudou|Noun: stuffed toy|le doudou||les doudous|||||||
-noun-décor|Noun: decor|le décor||les décors|||||||
-noun-itinéraire|Noun: itinerary|l'itinéraire||les itinéraires|||||||
-noun-mél|Noun: email|le mél||les méls|||||||
-noun-originalité|Noun: originality|l'originalité||les originalités|||||||
-noun-paradis|Noun: paradise, heaven|le paradis|||||||||
-noun-peluche|Noun: plush (toy)||la peluche||les peluches||||||
-noun-quiz|Noun: quiz|le quiz|||||||||
-noun-rabais|Noun: discount|le rabais|||||||||
-noun-rallye|Noun: Multi step race (like amazing race), offroad rally|le rallye||les rallyes|||||||
-noun-relation|Noun: relation, relationship||la relation||les relations||||||
-noun-réduction|Noun: reduction/ discount||la réduction||les réductions||||||
-noun-signature|Noun: signature||la signature||les signatures||||||
-noun-sport mécanique|Noun: motorsport|le sport mécanique||les sports mécaniques|||||||
-noun-séminaire|Noun: seminar|le séminaire||les séminaires|||||||
-noun-tarif|Noun: price (usually of a service)|le tarif||les tarifs|||||||
-noun-tenue|Noun: outfit||la tenue||les tenues||||||
-noun-trésor|Noun: treasure|le trésor||les trésors|||||||
-noun-énigme|Noun: enigma/ puzzle/ anything difficult to understand||l'énigme||les énigmes||||||
-verb-adapter|Verb: to adapt||||||adapter|adapté|adaptant||
-verb-avouer|Verb: to confess||||||avouer|avoué|avouant||
-verb-chiner|Verb: to look around for||||||chiner|chiné|chinant||
-verb-concerner|Verb: ||||||concerner|concerné|concernant||
-verb-conter|Verb: to recount (tell a story)||||||conter|conté|contant||
-verb-convier|Verb: to invite||||||convier|convié|conviant||
-verb-divertir|Verb: to amuse/ entertain, to distract||||||divertir|diverti|divertissant||
-verb-décontracter|Verb: to relax||||||décontracter|décontracté|décontractant||
-verb-définir|Verb: to define||||||définir|défini|définissant||
-verb-ennuyer|Verb: to bore, (reflexive) to be bored||||||ennuyer|ennuyé|ennuyant||
-verb-intituler|Verb: to title||||||intituler|intitulé|intitulant||
-verb-monopoliser|Verb: to monpolise||||||monopoliser|monopolisé|monopolisant||
-verb-permettre|Verb: to allow||||||permettre|permis|permettant||
-verb-planifier|Verb: to plan||||||planifier|planifié|planifiant||
-verb-privilégier|Verb: to favour||||||privilégier|privilégié|privilégiant||
-verb-rejeter|Verb: to reject/ throw back||||||rejeter|rejeté|rejetant||
-verb-risquer|Verb: to risk||||||risquer|risqué|risquant||
-verb-réunir|Verb: to collect, to bring together, (reflexive) to meet/ come together||||||réunir|réuni|réunissant||
-verb-surprendre|Verb: to surprise||||||surprendre|surpris|surprenant||
-verb-tenir|Verb: to hold||||||tenir|tenu|tenant||
-verb-valoir|Verb: to be worth, to earn||||||valoir|valu|valant||
-verb-viser|Verb: to aim/ target||||||viser|visé|visant||
+adj-approprié|Adjective: appropriate|approprié|approprié|appropriée|appropriés|appropriées||||||
+adj-cohérent|Adjective: coherent|cohérent|cohérent|cohérente|cohérents|cohérentes||||||
+adj-contemporain|Adjective: Contemporary, of the current era|contemporain|contemporain|contemporaine|contemporains|contemporaines||||||
+adj-illimité|Adjective: limitless/ unlimited|illimité|illimité|illimitée|illimités|illimitées||||||
+adj-ludique|Adjective: playful/ relating to games|ludique|ludique||ludiques|||||||
+adj-serein|Adjective: serene/ calm|serein|serein|sereine|sereins|sereines||||||
+adj-thématique|Adjective: relating to themes|thématique|thématique||thématiques|||||||
+misc-afin|so that/ in order to (followed by de or que)|afin|||||afin|||||
+misc-en extérieur|outside|en extérieur|||||en extérieur|||||
+misc-en groupe|Do something in a group|en groupe|||||en groupe|||||
+misc-en équipe|Do something as a team|en équipe|||||en équipe|||||
+misc-faire part|to inform/ tell|faire part|||||faire part|||||
+misc-la formule d'appel|The 1st line in a letter addressing the audience|la formule d'appel|||||la formule d'appel|||||
+misc-un terrain d'entente|Common ground/ understanding|un terrain d'entente|||||un terrain d'entente|||||
+misc-à deux|2 people do something|à deux|||||à deux|||||
+misc-à plusiers|Multiple people do something|à plusiers|||||à plusiers|||||
+noun-ambiance|Noun: ambiance|ambiance||l'ambiance||les ambiances||||||
+noun-ange|Noun: angel|ange|l'ange||les anges|||||||
+noun-budget|Noun: budget|budget|le budget||les budgets|||||||
+noun-canaille|Noun: scoundrel/ dishonest person|canaille||la canaille||les canailles||||||
+noun-centre d'intérêt|Noun: area of interest, hobby|centre d'intérêt|le centre d'intérêt||les centres d'intérêts|||||||
+noun-chasse au trésor|Noun: treasure hunt|chasse au trésor||la chasse au trésor||les chasses au trésor||||||
+noun-chasse|Noun: hunt|chasse||la chasse||les chasses||||||
+noun-collaborateur|Noun: collaborator (at work)|collaborateur|le collaborateur|la collaboratrice|les collaborateurs|||||||
+noun-conflit|Noun: conflict|conflit|le conflit||les conflits|||||||
+noun-crédit|Noun: credit|crédit|le crédit||les crédits|||||||
+noun-diable|Noun: devil|diable|le diable||les diables|||||||
+noun-doudou|Noun: stuffed toy|doudou|le doudou||les doudous|||||||
+noun-décor|Noun: decor|décor|le décor||les décors|||||||
+noun-itinéraire|Noun: itinerary|itinéraire|l'itinéraire||les itinéraires|||||||
+noun-mél|Noun: email|mél|le mél||les méls|||||||
+noun-originalité|Noun: originality|originalité|l'originalité||les originalités|||||||
+noun-paradis|Noun: paradise, heaven|paradis|le paradis|||||||||
+noun-peluche|Noun: plush (toy)|peluche||la peluche||les peluches||||||
+noun-quiz|Noun: quiz|quiz|le quiz|||||||||
+noun-rabais|Noun: discount|rabais|le rabais|||||||||
+noun-rallye|Noun: Multi step race (like amazing race), offroad rally|rallye|le rallye||les rallyes|||||||
+noun-relation|Noun: relation, relationship|relation||la relation||les relations||||||
+noun-réduction|Noun: reduction/ discount|réduction||la réduction||les réductions||||||
+noun-signature|Noun: signature|signature||la signature||les signatures||||||
+noun-sport mécanique|Noun: motorsport|sport mécanique|le sport mécanique||les sports mécaniques|||||||
+noun-séminaire|Noun: seminar|séminaire|le séminaire||les séminaires|||||||
+noun-tarif|Noun: price (usually of a service)|tarif|le tarif||les tarifs|||||||
+noun-tenue|Noun: outfit|tenue||la tenue||les tenues||||||
+noun-trésor|Noun: treasure|trésor|le trésor||les trésors|||||||
+noun-énigme|Noun: enigma/ puzzle/ anything difficult to understand|énigme||l'énigme||les énigmes||||||
+verb-adapter|Verb: to adapt|adapter||||||adapter|adapté|adaptant||
+verb-avouer|Verb: to confess|avouer||||||avouer|avoué|avouant||
+verb-chiner|Verb: to look around for|chiner||||||chiner|chiné|chinant||
+verb-concerner|Verb: |concerner||||||concerner|concerné|concernant||
+verb-conter|Verb: to recount (tell a story)|conter||||||conter|conté|contant||
+verb-convier|Verb: to invite|convier||||||convier|convié|conviant||
+verb-divertir|Verb: to amuse/ entertain, to distract|divertir||||||divertir|diverti|divertissant||
+verb-décontracter|Verb: to relax|décontracter||||||décontracter|décontracté|décontractant||
+verb-définir|Verb: to define|définir||||||définir|défini|définissant||
+verb-ennuyer|Verb: to bore, (reflexive) to be bored|ennuyer||||||ennuyer|ennuyé|ennuyant||
+verb-intituler|Verb: to title|intituler||||||intituler|intitulé|intitulant||
+verb-monopoliser|Verb: to monpolise|monopoliser||||||monopoliser|monopolisé|monopolisant||
+verb-permettre|Verb: to allow|permettre||||||permettre|permis|permettant||
+verb-planifier|Verb: to plan|planifier||||||planifier|planifié|planifiant||
+verb-privilégier|Verb: to favour|privilégier||||||privilégier|privilégié|privilégiant||
+verb-rejeter|Verb: to reject/ throw back|rejeter||||||rejeter|rejeté|rejetant||
+verb-risquer|Verb: to risk|risquer||||||risquer|risqué|risquant||
+verb-réunir|Verb: to collect, to bring together, (reflexive) to meet/ come together|réunir||||||réunir|réuni|réunissant||
+verb-surprendre|Verb: to surprise|surprendre||||||surprendre|surpris|surprenant||
+verb-tenir|Verb: to hold|tenir||||||tenir|tenu|tenant||
+verb-valoir|Verb: to be worth, to earn|valoir||||||valoir|valu|valant||
+verb-viser|Verb: to aim/ target|viser||||||viser|visé|visant||
