@@ -1,0 +1,5 @@
+#separator:Pipe
+#columns:Key|Word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Basic meanings of word|Example sentences|Wiktionary
+#notetype:French to English Noun
+#deck:French Courses::Clair Obscur::Vocab
+noun-dégât|dégât|le dégât||les dégâts||||||Noun: damage||
