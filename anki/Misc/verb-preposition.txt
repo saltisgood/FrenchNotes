@@ -8,6 +8,7 @@ convier||Convier des amis à une réception (Invite friends to a reception)||
 envisager|||J'envisage de partir (I envisage leaving)|
 essayer|||J'essaie de manger (I'm trying to eat)|
 faire part||Faire part à quelqu'un (Inform someone)|Faire part de quelque chose (Inform about something)|
+habituer||Il faut s'habituer à l'accent du sud (You must get used to the southern accent)||
 hésiter||Hésiter à partir (Hesitating to leave)||
 inviter||J'invite un ami à chanter (I'm inviting a friend to sing)||
 occuper|||Je m'occupe des réservations (I'm taking care of the reservations)|

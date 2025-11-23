@@ -3,52 +3,107 @@
 #notetype:English to French
 #deck:French Courses::B1.5::English to French Vocab
 adj-approprié|Adjective: appropriate|approprié|approprié|appropriée|appropriés|appropriées||||||
+adj-cadet|Adjective: younger sibling (2nd born)|cadet|cadet|cadette|cadets|cadettes||||||
 adj-cohérent|Adjective: coherent|cohérent|cohérent|cohérente|cohérents|cohérentes||||||
 adj-contemporain|Adjective: Contemporary, of the current era|contemporain|contemporain|contemporaine|contemporains|contemporaines||||||
 adj-illimité|Adjective: limitless/ unlimited|illimité|illimité|illimitée|illimités|illimitées||||||
+adj-ingrat|Adjective: ungrateful|ingrat|ingrat|ingrate|ingrats|ingrates||||||
 adj-ludique|Adjective: playful/ relating to games|ludique|ludique||ludiques|||||||
 adj-serein|Adjective: serene/ calm|serein|serein|sereine|sereins|sereines||||||
 adj-thématique|Adjective: relating to themes|thématique|thématique||thématiques|||||||
+adj-éloigné|Adjective: remote/ distant|éloigné|éloigné|éloignée|éloignés|éloignées||||||
+adj-étendu|Adjective: Extensive (wide), Extended (family)|étendu|étendu|étendue|étendus|étendues||||||
 misc-afin|so that/ in order to (followed by de or que)|afin|||||afin|||||
+misc-c'est le train train quotidien|It's daily life / business as usual|c'est le train train quotidien|||||c'est le train train quotidien|||||
+misc-coureur de jupons|Skirt chaser/ womaniser|coureur de jupons|||||coureur de jupons|||||
 misc-en extérieur|outside|en extérieur|||||en extérieur|||||
 misc-en groupe|Do something in a group|en groupe|||||en groupe|||||
 misc-en équipe|Do something as a team|en équipe|||||en équipe|||||
+misc-enterrement de vie de garçon (EVG)|Buck's party|enterrement de vie de garçon (EVG)|||||enterrement de vie de garçon (EVG)|||||
+misc-enterrement de vie de jeune fille (EVJF)|Hen's party|enterrement de vie de jeune fille (EVJF)|||||enterrement de vie de jeune fille (EVJF)|||||
 misc-faire part|to inform/ tell|faire part|||||faire part|||||
+misc-l'âge bête|adolescence|l'âge bête|||||l'âge bête|||||
+misc-l'âge ingrat|(lit.) ungrateful age/ adolescence|l'âge ingrat|||||l'âge ingrat|||||
 misc-la formule d'appel|The 1st line in a letter addressing the audience|la formule d'appel|||||la formule d'appel|||||
 misc-un terrain d'entente|Common ground/ understanding|un terrain d'entente|||||un terrain d'entente|||||
 misc-à deux|2 people do something|à deux|||||à deux|||||
 misc-à plusiers|Multiple people do something|à plusiers|||||à plusiers|||||
+noun-adolescence|Noun: adolescence|adolescence||l'adolescence||les adolescences||||||
 noun-ambiance|Noun: ambiance|ambiance||l'ambiance||les ambiances||||||
 noun-ange|Noun: angel|ange|l'ange||les anges|||||||
+noun-arrière-petit-fils|Noun: great grandchild|arrière-petit-fils|l'arrière-petit-fils|l'arrière-petite-fille|les arrière-petits-fils|||||||
+noun-artichaut|Noun: artichoke|artichaut|l'artichaut||les artichauts|||||||
+noun-aïeul|Noun: grandparent|aïeul|l'aïeul|l'aïeule|les aïeuls|||||||
+noun-baptême|Noun: baptism|baptême|le baptême||les baptêmes|||||||
+noun-benjamin|Noun: youngest child|benjamin|le banjamin|la benjamine|les benjamins|||||||
+noun-bouquet|Noun: bouquet|bouquet|le bouquet||les bouquets|||||||
+noun-bourreau|Noun: executioner|bourreau|le bourreau||les bourreaux|||||||
 noun-budget|Noun: budget|budget|le budget||les budgets|||||||
 noun-canaille|Noun: scoundrel/ dishonest person|canaille||la canaille||les canailles||||||
 noun-centre d'intérêt|Noun: area of interest, hobby|centre d'intérêt|le centre d'intérêt||les centres d'intérêts|||||||
 noun-chasse au trésor|Noun: treasure hunt|chasse au trésor||la chasse au trésor||les chasses au trésor||||||
 noun-chasse|Noun: hunt|chasse||la chasse||les chasses||||||
 noun-collaborateur|Noun: collaborator (at work)|collaborateur|le collaborateur|la collaboratrice|les collaborateurs|||||||
+noun-comité|Noun: committee|comité|le comité||les comités|||||||
 noun-conflit|Noun: conflict|conflit|le conflit||les conflits|||||||
+noun-couche|Noun: nappy|couche||la couche||les couches||||||
+noun-coureur|Noun: runner|coureur|le coureur|la coureuse|les coureurs|||||||
+noun-cousinade|Noun: family reunion|cousinade||la cousinade||les cousinades||||||
+noun-coutume|Noun: custom|coutume||la coutume||les coutumes||||||
+noun-croque-mitaine|Noun: boogeyman|croque-mitaine|le croque-mitaine||les croque-mitaines|||||||
 noun-crédit|Noun: credit|crédit|le crédit||les crédits|||||||
+noun-culte|Noun: religion (not derogatory)|culte|le culte||les cultes|||||||
+noun-cérémonie|Noun: ceremony|cérémonie||la cérémonie||les cérémonies||||||
+noun-descendant|Noun: descendant|descendant|le descendant|la descendante|les descendants|||||||
 noun-diable|Noun: devil|diable|le diable||les diables|||||||
 noun-doudou|Noun: stuffed toy|doudou|le doudou||les doudous|||||||
 noun-décor|Noun: decor|décor|le décor||les décors|||||||
+noun-enterrement|Noun: burial/ funeral|enterrement|l'enterrement||les enterrements|||||||
+noun-filleul|Noun: godchild|filleul|le filleul|la filleule|les filleuls|||||||
+noun-foule|Noun: crowd|foule||la foule||les foules||||||
+noun-funérailles|Noun: funeral|funérailles||||les funérailles||||||
+noun-gendre|Noun: son-in-law|gendre|le gendre||les gendres|||||||
+noun-gosse|Noun: (colloquial) kid|gosse|le gosse|la gosse|les gosses|||||||
+noun-individu|Noun: individual|individu|l'individu||les individus|||||||
 noun-itinéraire|Noun: itinerary|itinéraire|l'itinéraire||les itinéraires|||||||
+noun-jumeau|Noun: twin|jumeau|le jumeau|la jumelle|les jumeaux|||||||
+noun-marmot|Noun: (colloquial) kid|marmot|le marmot|la marmotte|les marmots|||||||
 noun-mél|Noun: email|mél|le mél||les méls|||||||
+noun-mémé|Noun: (child talk) grandma|mémé||la mémé||les mémés||||||
+noun-môme|Noun: (colloquial) kid|môme|le môme|la môme|les mômes|||||||
+noun-noce|Noun: wedding|noce||0||les noces||||||
+noun-nourrisson|Noun: infant|nourrisson|le nourrisson||les nourrissons|||||||
+noun-nouveau-né|Noun: newborn (also adj)|nouveau-né|le nouveau-né|la nouvelle-née|les nouveau-nés|les nouvelles-nées||||||
+noun-obsèques|Noun: funeral|obsèques||||les obsèques||||||
 noun-originalité|Noun: originality|originalité|l'originalité||les originalités|||||||
 noun-paradis|Noun: paradise, heaven|paradis|le paradis|||||||||
+noun-parrain|Noun: godparent|parrain|le parrain|la marraine|les parrains|les marraines||||||
 noun-peluche|Noun: plush (toy)|peluche||la peluche||les peluches||||||
+noun-puberté|Noun: puberty|puberté||la puberté||les pubertés||||||
+noun-pépé|Noun: (child talk) grandpa|pépé|le pépé||les pépés|||||||
 noun-quiz|Noun: quiz|quiz|le quiz|||||||||
 noun-rabais|Noun: discount|rabais|le rabais|||||||||
 noun-rallye|Noun: Multi step race (like amazing race), offroad rally|rallye|le rallye||les rallyes|||||||
+noun-rassemblement|Noun: assembly/ gathering|rassemblement|le rassemblement||les rassemblements|||||||
 noun-relation|Noun: relation, relationship|relation||la relation||les relations||||||
+noun-retrouvaille|Noun: (mostly plural) reunion|retrouvaille||la retrouvaille||les retrouvailles||||||
+noun-rituel|Noun: ritual|rituel|le rituel||les rituels|||||||
 noun-réduction|Noun: reduction/ discount|réduction||la réduction||les réductions||||||
+noun-réunion|Noun: meeting|réunion||la réunion||les réunions||||||
 noun-signature|Noun: signature|signature||la signature||les signatures||||||
 noun-sport mécanique|Noun: motorsport|sport mécanique|le sport mécanique||les sports mécaniques|||||||
 noun-séminaire|Noun: seminar|séminaire|le séminaire||les séminaires|||||||
 noun-tarif|Noun: price (usually of a service)|tarif|le tarif||les tarifs|||||||
 noun-tenue|Noun: outfit|tenue||la tenue||les tenues||||||
+noun-tonton|Noun: (child talk) uncle/ aunt|tonton|le tonton|la tata|les tontons|les tatas||||||
+noun-traine|Noun: train of a dress|traine||la traine||les traines||||||
 noun-trésor|Noun: treasure|trésor|le trésor||les trésors|||||||
+noun-veille|Noun: the day before/ eve|veille||la veille||les veilles||||||
+noun-vieillard|Noun: old person|vieillard|le vieillard|la vieillarde|les vieillards|||||||
 noun-énigme|Noun: enigma/ puzzle/ anything difficult to understand|énigme||l'énigme||les énigmes||||||
+noun-époux|Noun: spouse|époux|l'époux|l'épouse||||||||
 verb-adapter|Verb: to adapt|adapter||||||adapter|adapté|adaptant||
+verb-agrandir|Verb: to get bigger|agrandir||||||agrandir|agrandi|agrandissant||
 verb-avouer|Verb: to confess|avouer||||||avouer|avoué|avouant||
 verb-chiner|Verb: to look around for|chiner||||||chiner|chiné|chinant||
 verb-concerner|Verb: |concerner||||||concerner|concerné|concernant||
@@ -57,7 +112,10 @@ verb-convier|Verb: to invite|convier||||||convier|convié|conviant||
 verb-divertir|Verb: to amuse/ entertain, to distract|divertir||||||divertir|diverti|divertissant||
 verb-décontracter|Verb: to relax|décontracter||||||décontracter|décontracté|décontractant||
 verb-définir|Verb: to define|définir||||||définir|défini|définissant||
+verb-effrayer|Verb: to scare|effrayer||||||effrayer|effrayé|effrayant||
 verb-ennuyer|Verb: to bore, (reflexive) to be bored|ennuyer||||||ennuyer|ennuyé|ennuyant||
+verb-exagérer|Verb: to exaggerate|exagérer||||||exagérer|exagéré|exagérant||
+verb-habituer|Verb: to get someone in the habit of, (reflexive) to get used to|habituer||||||habituer|habitué|habituant||
 verb-intituler|Verb: to title|intituler||||||intituler|intitulé|intitulant||
 verb-monopoliser|Verb: to monpolise|monopoliser||||||monopoliser|monopolisé|monopolisant||
 verb-permettre|Verb: to allow|permettre||||||permettre|permis|permettant||
@@ -65,6 +123,7 @@ verb-planifier|Verb: to plan|planifier||||||planifier|planifié|planifiant||
 verb-privilégier|Verb: to favour|privilégier||||||privilégier|privilégié|privilégiant||
 verb-rejeter|Verb: to reject/ throw back|rejeter||||||rejeter|rejeté|rejetant||
 verb-risquer|Verb: to risk|risquer||||||risquer|risqué|risquant||
+verb-répandre|Verb: to spill, to spread|répandre||||||répandre|répandu|répandant||
 verb-réunir|Verb: to collect, to bring together, (reflexive) to meet/ come together|réunir||||||réunir|réuni|réunissant||
 verb-surprendre|Verb: to surprise|surprendre||||||surprendre|surpris|surprenant||
 verb-tenir|Verb: to hold|tenir||||||tenir|tenu|tenant||

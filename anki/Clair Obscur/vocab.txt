@@ -3,3 +3,4 @@
 #notetype:French to English Noun
 #deck:French Courses::Clair Obscur::Vocab
 noun-dégât|dégât|le dégât||les dégâts||||||Noun: damage||
+noun-rang|rang|le rang||les rangs||||||Noun: rank||
