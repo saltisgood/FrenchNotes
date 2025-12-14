@@ -2,17 +2,29 @@
 #columns:Key|Word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Basic meanings of word|Example sentences|Wiktionary
 #notetype:French to English Noun
 #deck:French Courses::B1.5::Vocab
+adj-abordable|abordable|abordable|abordable|abordables|abordables|||||Adjective: affordable||
 adj-approprié|approprié|approprié|appropriée|appropriés|appropriées|||||Adjective: appropriate||
 adj-cadet|cadet|cadet|cadette|cadets|cadettes|||||Adjective: younger sibling (2nd born)||
+adj-chronophage|chronophage|chronophage|chronophage|chronophages|chronophages|||||Adjective: time consuming||
 adj-cohérent|cohérent|cohérent|cohérente|cohérents|cohérentes|||||Adjective: coherent||
 adj-contemporain|contemporain|contemporain|contemporaine|contemporains|contemporaines|||||Adjective: Contemporary, of the current era||
+adj-extraconjugal|extraconjugal|extraconjugal|extraconjugale|extraconjugals|extraconjugales|||||Adjective: extramarital (e.g. an affair)||
 adj-illimité|illimité|illimité|illimitée|illimités|illimitées|||||Adjective: limitless/ unlimited||
+adj-infidèle|infidèle|infidèle|infidèle|infidèles|infidèles|||||Adjective: unfaithful||
 adj-ingrat|ingrat|ingrat|ingrate|ingrats|ingrates|||||Adjective: ungrateful||
 adj-ludique|ludique|ludique||ludiques||||||Adjective: playful/ relating to games||
+adj-occidental|occidental|occidental|occidentale|occidentaux|occidentales|||||Adjective: Western||
+adj-polémique|polémique|polémique|polémique|polémiques|polémiques|||||Adjective: controversial||
+adj-prenant|prenant|prenant|prenante|prenants|prenantes|||||Adjective: gripping/ captivating||
 adj-serein|serein|serein|sereine|sereins|sereines|||||Adjective: serene/ calm||
 adj-thématique|thématique|thématique||thématiques||||||Adjective: relating to themes||
 adj-éloigné|éloigné|éloigné|éloignée|éloignés|éloignées|||||Adjective: remote/ distant||
 adj-étendu|étendu|étendu|étendue|étendus|étendues|||||Adjective: Extensive (wide), Extended (family)||
+adv-constamment|constamment|||||constamment||||Adverb: constantly||
+adv-idem|idem|||||idem||||Adverb: Likewise/ the same||
+adv-inutilement|inutilement|||||inutilement||||Adverb: uselessly||
+adv-localement|localement|||||localement||||Adverb: locally||
+adv-toutefois|toutefois|||||toutefois||||Adverb: however/ nonetheless||
 misc-afin|afin|||||afin||||so that/ in order to (followed by de or que)||
 misc-c'est le train train quotidien|c'est le train train quotidien|||||c'est le train train quotidien||||It's daily life / business as usual||
 misc-coureur de jupons|coureur de jupons|||||coureur de jupons||||Skirt chaser/ womaniser||
@@ -25,31 +37,51 @@ misc-faire part|faire part|||||faire part||||to inform/ tell||
 misc-l'âge bête|l'âge bête|||||l'âge bête||||adolescence||
 misc-l'âge ingrat|l'âge ingrat|||||l'âge ingrat||||(lit.) ungrateful age/ adolescence||
 misc-la formule d'appel|la formule d'appel|||||la formule d'appel||||The 1st line in a letter addressing the audience||
+misc-le coup de foudre|le coup de foudre|||||le coup de foudre||||Kind of love at first sight||
+misc-le panneaux solaire|le panneaux solaire|||||le panneaux solaire||||solar panel||
+misc-les lunettes de vue|les lunettes de vue|||||les lunettes de vue||||prescription/ reading glasses||
+misc-malgré|malgré|||||malgré||||(preposition) despite||
+misc-nul / nulle|nul / nulle|||||nul / nulle||||(pronoun) no one/ nobody||
+misc-plein à craquer|plein à craquer|||||plein à craquer||||filled to the brim/ to bursting||
+misc-quant à|quant à|||||quant à||||Speaking of... To introduce a new topic||
 misc-un terrain d'entente|un terrain d'entente|||||un terrain d'entente||||Common ground/ understanding||
+misc-voisin de palier|voisin de palier|||||voisin de palier||||neighbour on the same floor||
 misc-à deux|à deux|||||à deux||||2 people do something||
 misc-à plusiers|à plusiers|||||à plusiers||||Multiple people do something||
+noun-Bisonours|Bisonours|le Bisounours||||||||Noun: Care Bear||
+noun-abri|abri|l'abri||les abris||||||Noun: shelter||
+noun-adhésion|adhésion||l'adhésion||les adhésions|||||Noun: adhesion||
 noun-adolescence|adolescence||l'adolescence||les adolescences|||||Noun: adolescence||
+noun-affinité|affinité||l'affinité||les affinités|||||Noun: affinity||
 noun-ambiance|ambiance||l'ambiance||les ambiances|||||Noun: ambiance||
 noun-ange|ange|l'ange||les anges||||||Noun: angel||
 noun-arrière-petit-fils|arrière-petit-fils|l'arrière-petit-fils|l'arrière-petite-fille|les arrière-petits-fils||||||Noun: great grandchild||
 noun-artichaut|artichaut|l'artichaut||les artichauts||||||Noun: artichoke||
+noun-assainissement|assainissement|l'assainissement||les assainissements||||||Noun: sanitation||
 noun-aïeul|aïeul|l'aïeul|l'aïeule|les aïeuls||||||Noun: grandparent||
 noun-baptême|baptême|le baptême||les baptêmes||||||Noun: baptism||
 noun-benjamin|benjamin|le banjamin|la benjamine|les benjamins||||||Noun: youngest child||
 noun-bouquet|bouquet|le bouquet||les bouquets||||||Noun: bouquet||
 noun-bourreau|bourreau|le bourreau||les bourreaux||||||Noun: executioner||
+noun-buanderie|buanderie||la buanderie||les buanderies|||||Noun: laundry||
 noun-budget|budget|le budget||les budgets||||||Noun: budget||
+noun-calembour|calembour|le calembour||les calembours||||||Noun: pun, word game||
 noun-canaille|canaille||la canaille||les canailles|||||Noun: scoundrel/ dishonest person||
+noun-casanier|casanier|le casanier|la casanière|les casaniers|les casanières|||||Noun: (also adj) homebody||
 noun-centre d'intérêt|centre d'intérêt|le centre d'intérêt||les centres d'intérêts||||||Noun: area of interest, hobby||
 noun-chasse au trésor|chasse au trésor||la chasse au trésor||les chasses au trésor|||||Noun: treasure hunt||
 noun-chasse|chasse||la chasse||les chasses|||||Noun: hunt||
+noun-chiffre|chiffre|le chiffre||les chiffres||||||Noun: a digit (number)||
 noun-collaborateur|collaborateur|le collaborateur|la collaboratrice|les collaborateurs||||||Noun: collaborator (at work)||
 noun-comité|comité|le comité||les comités||||||Noun: committee||
+noun-concubinage|concubinage|le concubinage||les concubinages||||||Noun: living together with a partner without being married||
 noun-conflit|conflit|le conflit||les conflits||||||Noun: conflict||
 noun-couche|couche||la couche||les couches|||||Noun: nappy||
 noun-coureur|coureur|le coureur|la coureuse|les coureurs||||||Noun: runner||
 noun-cousinade|cousinade||la cousinade||les cousinades|||||Noun: family reunion||
 noun-coutume|coutume||la coutume||les coutumes|||||Noun: custom||
+noun-croisement|croisement|le croisement||les croisements||||||Noun: crossing||
+noun-croissance|croissance||la croissance||les croissances|||||Noun: growth||
 noun-croque-mitaine|croque-mitaine|le croque-mitaine||les croque-mitaines||||||Noun: boogeyman||
 noun-crédit|crédit|le crédit||les crédits||||||Noun: credit||
 noun-culte|culte|le culte||les cultes||||||Noun: religion (not derogatory)||
@@ -59,6 +91,7 @@ noun-diable|diable|le diable||les diables||||||Noun: devil||
 noun-doudou|doudou|le doudou||les doudous||||||Noun: stuffed toy||
 noun-décor|décor|le décor||les décors||||||Noun: decor||
 noun-enterrement|enterrement|l'enterrement||les enterrements||||||Noun: burial/ funeral||
+noun-faiseur|faiseur|le faiseur|la faiseuse|les faiseurs||||||Noun: maker||
 noun-filleul|filleul|le filleul|la filleule|les filleuls||||||Noun: godchild||
 noun-foule|foule||la foule||les foules|||||Noun: crowd||
 noun-funérailles|funérailles||||les funérailles|||||Noun: funeral||
@@ -67,6 +100,8 @@ noun-gosse|gosse|le gosse|la gosse|les gosses||||||Noun: (colloquial) kid||
 noun-individu|individu|l'individu||les individus||||||Noun: individual||
 noun-itinéraire|itinéraire|l'itinéraire||les itinéraires||||||Noun: itinerary||
 noun-jumeau|jumeau|le jumeau|la jumelle|les jumeaux||||||Noun: twin||
+noun-lessive|lessive||la lessive||les lessives|||||Noun: laundry/ washing||
+noun-maniaque|maniaque|le maniaque|la maniaque|les maniaques||||||Noun: (also adj) maniac, obsessive person||
 noun-marmot|marmot|le marmot|la marmotte|les marmots||||||Noun: (colloquial) kid||
 noun-mél|mél|le mél||les méls||||||Noun: email||
 noun-mémé|mémé||la mémé||les mémés|||||Noun: (child talk) grandma||
@@ -76,11 +111,16 @@ noun-nourrisson|nourrisson|le nourrisson||les nourrissons||||||Noun: infant||
 noun-nouveau-né|nouveau-né|le nouveau-né|la nouvelle-née|les nouveau-nés|les nouvelles-nées|||||Noun: newborn (also adj)||
 noun-obsèques|obsèques||||les obsèques|||||Noun: funeral||
 noun-originalité|originalité|l'originalité||les originalités||||||Noun: originality||
+noun-palier|palier|le palier||les paliers||||||Noun: level, flat area, landing (stairs)||
 noun-paradis|paradis|le paradis||||||||Noun: paradise, heaven||
 noun-parrain|parrain|le parrain|la marraine|les parrains|les marraines|||||Noun: godparent||
+noun-pauvreté|pauvreté||la pauvreté||les pauvretés|||||Noun: poverty||
 noun-peluche|peluche||la peluche||les peluches|||||Noun: plush (toy)||
+noun-perte|perte||la perte||les pertes|||||Noun: loss||
+noun-plaisanterie|plaisanterie||la plaisanterie||les plaisanteries|||||Noun: joke, fun||
 noun-puberté|puberté||la puberté||les pubertés|||||Noun: puberty||
 noun-pépé|pépé|le pépé||les pépés||||||Noun: (child talk) grandpa||
+noun-péremption|péremption||la péremption||les péremptions|||||Noun: expiry||
 noun-quiz|quiz|le quiz||||||||Noun: quiz||
 noun-rabais|rabais|le rabais||||||||Noun: discount||
 noun-rallye|rallye|le rallye||les rallyes||||||Noun: Multi step race (like amazing race), offroad rally||
@@ -88,9 +128,12 @@ noun-rassemblement|rassemblement|le rassemblement||les rassemblements||||||Noun:
 noun-relation|relation||la relation||les relations|||||Noun: relation, relationship||
 noun-retrouvaille|retrouvaille||la retrouvaille||les retrouvailles|||||Noun: (mostly plural) reunion||
 noun-rituel|rituel|le rituel||les rituels||||||Noun: ritual||
+noun-rupture|rupture||la rupture||les ruptures|||||Noun: breakup||
 noun-réduction|réduction||la réduction||les réductions|||||Noun: reduction/ discount||
 noun-réunion|réunion||la réunion||les réunions|||||Noun: meeting||
+noun-secte|secte||la secte||les sectes|||||Noun: sect/ cult||
 noun-signature|signature||la signature||les signatures|||||Noun: signature||
+noun-soupir|soupir|le soupir||les soupirs||||||Noun: sigh||
 noun-sport mécanique|sport mécanique|le sport mécanique||les sports mécaniques||||||Noun: motorsport||
 noun-séminaire|séminaire|le séminaire||les séminaires||||||Noun: seminar||
 noun-tarif|tarif|le tarif||les tarifs||||||Noun: price (usually of a service)||
@@ -100,32 +143,56 @@ noun-traine|traine||la traine||les traines|||||Noun: train of a dress||
 noun-trésor|trésor|le trésor||les trésors||||||Noun: treasure||
 noun-veille|veille||la veille||les veilles|||||Noun: the day before/ eve||
 noun-vieillard|vieillard|le vieillard|la vieillarde|les vieillards||||||Noun: old person||
+noun-végétal|végétal|le végétal||les végétaux||||||Noun: (also adj) plant||
 noun-énigme|énigme||l'énigme||les énigmes|||||Noun: enigma/ puzzle/ anything difficult to understand||
+noun-éolienne|éolienne||l'éolienne||les éoliennes|||||Noun: wind turbine||
 noun-époux|époux|l'époux|l'épouse|||||||Noun: spouse||
+verb-aboutir|aboutir||||||aboutir|abouti|aboutissant|Verb: to touch by one end, to reach the end||
 verb-adapter|adapter||||||adapter|adapté|adaptant|Verb: to adapt||
 verb-agrandir|agrandir||||||agrandir|agrandi|agrandissant|Verb: to get bigger||
+verb-appauvrir|appauvrir||||||appauvrir|appauvri|appauvrissant|Verb: to impoverish||
 verb-avouer|avouer||||||avouer|avoué|avouant|Verb: to confess||
+verb-chamailler|chamailler||||||chamailler|chamaillé|chamaillant|Verb: (reflexive) to bicker||
 verb-chiner|chiner||||||chiner|chiné|chinant|Verb: to look around for||
 verb-concerner|concerner||||||concerner|concerné|concernant|Verb: ||
+verb-confier|confier||||||confier|confié|confiant|Verb: to confide||
 verb-conter|conter||||||conter|conté|contant|Verb: to recount (tell a story)||
 verb-convier|convier||||||convier|convié|conviant|Verb: to invite||
 verb-divertir|divertir||||||divertir|diverti|divertissant|Verb: to amuse/ entertain, to distract||
+verb-divorcer|divorcer||||||divorcer|divorcé|divorçant|Verb: to divorce, (reflexive) get divorced||
+verb-draguer|draguer||||||draguer|dragué|draguant|Verb: to flirt/ hit on somebody||
+verb-déclencher|déclencher||||||déclencher|déclenché|déclenchant|Verb: to trigger/ set off||
 verb-décontracter|décontracter||||||décontracter|décontracté|décontractant|Verb: to relax||
 verb-définir|définir||||||définir|défini|définissant|Verb: to define||
+verb-déranger|déranger||||||déranger|dérangé|dérangeant|Verb: to bother||
+verb-désigner|désigner||||||désigner|désigné|désignant|Verb: to designate||
+verb-détailler|détailler||||||détailler|détaillé|détaillant|Verb: to detail||
 verb-effrayer|effrayer||||||effrayer|effrayé|effrayant|Verb: to scare||
+verb-englober|englober||||||englober|englobé|englobant|Verb: to encompass||
 verb-ennuyer|ennuyer||||||ennuyer|ennuyé|ennuyant|Verb: to bore, (reflexive) to be bored||
+verb-enrichir|enrichir||||||enrichir|enrichi|enrichissant|Verb: to enrich||
 verb-exagérer|exagérer||||||exagérer|exagéré|exagérant|Verb: to exaggerate||
+verb-fâcher|fâcher||||||fâcher|fâché|fâchant|Verb: to annoy, (reflexive) to get angry/ fall out||
 verb-habituer|habituer||||||habituer|habitué|habituant|Verb: to get someone in the habit of, (reflexive) to get used to||
+verb-impliquer|impliquer||||||impliquer|impliqué|impliquant|Verb: to implicate||
 verb-intituler|intituler||||||intituler|intitulé|intitulant|Verb: to title||
+verb-lâcher|lâcher||||||lâcher|lâché|lâchant|Verb: to release/ let go, to say something||
 verb-monopoliser|monopoliser||||||monopoliser|monopolisé|monopolisant|Verb: to monpolise||
 verb-permettre|permettre||||||permettre|permis|permettant|Verb: to allow||
 verb-planifier|planifier||||||planifier|planifié|planifiant|Verb: to plan||
 verb-privilégier|privilégier||||||privilégier|privilégié|privilégiant|Verb: to favour||
 verb-rejeter|rejeter||||||rejeter|rejeté|rejetant|Verb: to reject/ throw back||
 verb-risquer|risquer||||||risquer|risqué|risquant|Verb: to risk||
+verb-rompre|rompre||||||rompre|rompu|rompant|Verb: to break up, (reflexive) to break/ snap||
+verb-râler|râler||||||râler|râlé|râlant|Verb: to moan/ complain||
+verb-réhabiliter|réhabiliter||||||réhabiliter|réhabilité|réhabilitant|Verb: to rehabilitate||
 verb-répandre|répandre||||||répandre|répandu|répandant|Verb: to spill, to spread||
 verb-réunir|réunir||||||réunir|réuni|réunissant|Verb: to collect, to bring together, (reflexive) to meet/ come together||
+verb-souffrir|souffrir||||||souffrir|souffert|souffrant|Verb: to suffer, endure||
 verb-surprendre|surprendre||||||surprendre|surpris|surprenant|Verb: to surprise||
+verb-susciter|susciter||||||susciter|suscité|suscitant|Verb: to stir up, evoke||
 verb-tenir|tenir||||||tenir|tenu|tenant|Verb: to hold||
 verb-valoir|valoir||||||valoir|valu|valant|Verb: to be worth, to earn||
 verb-viser|viser||||||viser|visé|visant|Verb: to aim/ target||
+verb-élever|élever||||||élever|élevé|élevant|Verb: to bring up, to raise||
+verb-émettre|émettre||||||émettre|émis|émettant|Verb: to emit||
