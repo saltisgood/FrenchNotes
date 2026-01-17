@@ -1,0 +1,18 @@
+#separator:Pipe
+#columns:Key|Basic meanings of word|Word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Example sentences|Wiktionary
+#notetype:English to French
+#deck:French Courses::Duolingo::English to French Vocab
+adj-chaotique|Adjective: chaotic|chaotique|chaotique||chaotiques|||||||
+adj-impressionné|Adjective: impressed|impressionné|impressionné|impressionnée|impressionnés|impressionnées||||||
+misc-avoir l'impression|have the feeling|avoir l'impression|||||avoir l'impression|||||
+misc-faire un tour|take a walk|faire un tour|||||faire un tour|||||
+misc-par hasard|at random/ by chance|par hasard|||||par hasard|||||
+noun-chaos|Noun: chaos|chaos|le chaos|||||||||
+noun-contraire|Noun: (also adj) opposite|contraire|le contraire||les contraires|||||||
+noun-douane|Noun: customs|douane||la douane||les douanes||||||
+noun-enthousiasme|Noun: enthusiasm|enthousiasme|l'enthousiasme||les enthousiasmes|||||||
+noun-gymnase|Noun: gymnasium|gymnase|le gymnase||les gymnases|||||||
+noun-hasard|Noun: chance, coincidence, hazard|hasard|le hasard||les hasards|||||||
+noun-impression|Noun: impression/ the overall feel|impression||l'impression||les impressions||||||
+verb-déclarer|Verb: to declare|déclarer||||||déclarer|déclaré|déclarant||
+verb-ruiner|Verb: to ruin|ruiner||||||ruiner|ruiné|ruinant||

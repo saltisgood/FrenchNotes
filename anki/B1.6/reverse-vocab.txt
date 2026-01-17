@@ -1,0 +1,30 @@
+#separator:Pipe
+#columns:Key|Basic meanings of word|Word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Example sentences|Wiktionary
+#notetype:English to French
+#deck:French Courses::B1.6::English to French Vocab
+adj-renommé|Adjective: renowned|renommé|renommé|renommée|renommés|renommées||||||
+adj-régulier|Adjective: regular|régulier|régulier|régulière|réguliers|régulières||||||
+adj-souple|Adjective: supple/ flexible|souple|souple||souples|||||||
+misc-avoir deux casquettes|Wear 2 hats|avoir deux casquettes|||||avoir deux casquettes|||||
+misc-classes préparatoires aux grandes écoles|(CPGE) 2 year prep class for entry into prestigious unis|classes préparatoires aux grandes écoles|||||classes préparatoires aux grandes écoles|||||
+noun-argument|Noun: argument|argument|l'argument||les arguments|||||||
+noun-assiduité|Noun: Attendance|assiduité||l'assiduité||les assiduités||||||
+noun-doctorat|Noun: doctorate|doctorat|le doctorat||les doctorats|||||||
+noun-efficacité|Noun: efficacy|efficacité||l'efficacité||||||||
+noun-façon|Noun: the way/ manner/ fashion|façon||la façon||les façons||||||
+noun-flexibilité|Noun: flexibility|flexibilité||la flexibilité||les flexibilités||||||
+noun-génie|Noun: genie, genius, engineering|génie|le génie||les génies|||||||
+noun-licence|Noun: licence, bachelor's degree|licence||la licence||les licences||||||
+noun-master|Noun: master's degree|master|le master||les masters|||||||
+noun-méthodologie|Noun: methodology|méthodologie|la méthodologie||les méthodologies|||||||
+noun-récupération|Noun: recovery, retrieval|récupération||la récupération||les récupérations||||||
+noun-secteur|Noun: sector|secteur|le secteur||les secteurs|||||||
+noun-souplesse|Noun: flexibility|souplesse||la souplesse||les souplesses||||||
+noun-thèse|Noun: thesis|thèse||la thèse||les thèses||||||
+noun-variété|Noun: variety|variété||la variété||les variétés||||||
+noun-équilibre|Noun: balance|équilibre|l'équilibre||les équilibres|||||||
+noun-équitation|Noun: Equestrianism/ act of horseriding|équitation||l'équitation||||||||
+verb-défassuer|Verb: (reflexive) (card games) to discard|défassuer||||||défassuer|défassué|défassuant||
+verb-piocher|Verb: (card games) to draw from the deck, to pick from a set of options|piocher||||||piocher|pioché|piochant||
+verb-rédiger|Verb: to write in a well defined manner|rédiger||||||rédiger|rédigé|rédigeant||
+verb-valider|Verb: to validate|valider||||||valider|validé|validant||

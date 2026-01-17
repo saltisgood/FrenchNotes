@@ -118,7 +118,7 @@
 | mél | le mél |  | les méls |  | email |  | [Link](<https://en.wiktionary.org/wiki/mél#French>) |
 | mémé |  | la mémé |  | les mémés | (child talk) grandma |  | [Link](<https://en.wiktionary.org/wiki/mémé#French>) |
 | môme | le môme | la môme | les mômes |  | (colloquial) kid |  | [Link](<https://en.wiktionary.org/wiki/môme#French>) |
-| noce |  | 0 |  | les noces | wedding |  | [Link](<https://en.wiktionary.org/wiki/noce#French>) |
+| noce |  |  |  | les noces | wedding |  | [Link](<https://en.wiktionary.org/wiki/noce#French>) |
 | nourrisson | le nourrisson |  | les nourrissons |  | infant |  | [Link](<https://en.wiktionary.org/wiki/nourrisson#French>) |
 | nouveau-né | le nouveau-né | la nouvelle-née | les nouveau-nés | les nouvelles-nées | newborn (also adj) |  | [Link](<https://en.wiktionary.org/wiki/nouveau-né#French>) |
 | obsèques |  |  |  | les obsèques | funeral |  | [Link](<https://en.wiktionary.org/wiki/obsèques#French>) |
@@ -166,7 +166,7 @@
 | avouer | avouer | avoué | avouant | to confess |  | [Link](<https://en.wiktionary.org/wiki/avouer#French>) |
 | chamailler | chamailler | chamaillé | chamaillant | (reflexive) to bicker |  | [Link](<https://en.wiktionary.org/wiki/chamailler#French>) |
 | chiner | chiner | chiné | chinant | to look around for |  | [Link](<https://en.wiktionary.org/wiki/chiner#French>) |
-| concerner | concerner | concerné | concernant |  |  | [Link](<https://en.wiktionary.org/wiki/concerner#French>) |
+| concerner | concerner | concerné | concernant | to be concerned with/ be associated with |  | [Link](<https://en.wiktionary.org/wiki/concerner#French>) |
 | confier | confier | confié | confiant | to confide |  | [Link](<https://en.wiktionary.org/wiki/confier#French>) |
 | conter | conter | conté | contant | to recount (tell a story) |  | [Link](<https://en.wiktionary.org/wiki/conter#French>) |
 | convier | convier | convié | conviant | to invite |  | [Link](<https://en.wiktionary.org/wiki/convier#French>) |

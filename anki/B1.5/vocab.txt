@@ -106,7 +106,7 @@ noun-marmot|marmot|le marmot|la marmotte|les marmots||||||Noun: (colloquial) kid
 noun-mél|mél|le mél||les méls||||||Noun: email||
 noun-mémé|mémé||la mémé||les mémés|||||Noun: (child talk) grandma||
 noun-môme|môme|le môme|la môme|les mômes||||||Noun: (colloquial) kid||
-noun-noce|noce||0||les noces|||||Noun: wedding||
+noun-noce|noce||||les noces|||||Noun: wedding||
 noun-nourrisson|nourrisson|le nourrisson||les nourrissons||||||Noun: infant||
 noun-nouveau-né|nouveau-né|le nouveau-né|la nouvelle-née|les nouveau-nés|les nouvelles-nées|||||Noun: newborn (also adj)||
 noun-obsèques|obsèques||||les obsèques|||||Noun: funeral||
@@ -154,7 +154,7 @@ verb-appauvrir|appauvrir||||||appauvrir|appauvri|appauvrissant|Verb: to impoveri
 verb-avouer|avouer||||||avouer|avoué|avouant|Verb: to confess||
 verb-chamailler|chamailler||||||chamailler|chamaillé|chamaillant|Verb: (reflexive) to bicker||
 verb-chiner|chiner||||||chiner|chiné|chinant|Verb: to look around for||
-verb-concerner|concerner||||||concerner|concerné|concernant|Verb: ||
+verb-concerner|concerner||||||concerner|concerné|concernant|Verb: to be concerned with/ be associated with||
 verb-confier|confier||||||confier|confié|confiant|Verb: to confide||
 verb-conter|conter||||||conter|conté|contant|Verb: to recount (tell a story)||
 verb-convier|convier||||||convier|convié|conviant|Verb: to invite||
