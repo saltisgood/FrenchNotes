@@ -2,29 +2,52 @@
 #columns:Key|Word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Basic meanings of word|Example sentences|Wiktionary
 #notetype:French to English Noun
 #deck:French Courses::B1.6::Vocab
+adj-pertinent|pertinent|pertinent|pertinente|pertinents|pertinentes|||||Adjective: pertinent||
 adj-renommé|renommé|renommé|renommée|renommés|renommées|||||Adjective: renowned||
 adj-régulier|régulier|régulier|régulière|réguliers|régulières|||||Adjective: regular||
+adj-sobre|sobre|sobre||sobres||||||Adjective: sober, modest||
+adj-sophistiqué|sophistiqué|sophistiqué|sophistiquée|sophistiqués|sophistiquées|||||Adjective: sophisticated||
 adj-souple|souple|souple||souples||||||Adjective: supple/ flexible||
 misc-avoir deux casquettes|avoir deux casquettes|||||avoir deux casquettes||||Wear 2 hats||
 misc-classes préparatoires aux grandes écoles|classes préparatoires aux grandes écoles|||||classes préparatoires aux grandes écoles||||(CPGE) 2 year prep class for entry into prestigious unis||
+misc-le cas de figure|le cas de figure|||||le cas de figure||||hypothesis||
+misc-mettre en valeur|mettre en valeur|||||mettre en valeur||||to highlight||
 noun-argument|argument|l'argument||les arguments||||||Noun: argument||
 noun-assiduité|assiduité||l'assiduité||les assiduités|||||Noun: Attendance||
+noun-chronologie|chronologie||la chronologie||les chronologies|||||Noun: chronology||
+noun-circonstance|circonstance||la circonstance||les circonstances|||||Noun: circumstance||
+noun-copie|copie||la copie||les copies|||||Noun: copy||
 noun-doctorat|doctorat|le doctorat||les doctorats||||||Noun: doctorate||
 noun-efficacité|efficacité||l'efficacité|||||||Noun: efficacy||
+noun-expéditeur|expéditeur|l'expéditeur|l'expéditrice|les expéditeurs||||||Noun: Sender||
 noun-façon|façon||la façon||les façons|||||Noun: the way/ manner/ fashion||
+noun-fil conducteur|fil conducteur|le fil conducteur||les fils conducteurs||||||Noun: power cable, (figurative) common thread||
 noun-flexibilité|flexibilité||la flexibilité||les flexibilités|||||Noun: flexibility||
+noun-force|force||la force||les forces|||||Noun: force, strength||
 noun-génie|génie|le génie||les génies||||||Noun: genie, genius, engineering||
 noun-licence|licence||la licence||les licences|||||Noun: licence, bachelor's degree||
 noun-master|master|le master||les masters||||||Noun: master's degree||
+noun-matière|matière||la matière||les matières|||||Noun: material, matter||
 noun-méthodologie|méthodologie|la méthodologie||les méthodologies||||||Noun: methodology||
 noun-récupération|récupération||la récupération||les récupérations|||||Noun: recovery, retrieval||
+noun-référence|référence||la référence||les références|||||Noun: reference||
 noun-secteur|secteur|le secteur||les secteurs||||||Noun: sector||
 noun-souplesse|souplesse||la souplesse||les souplesses|||||Noun: flexibility||
+noun-stratégie|stratégie||la stratégie||les stratégies|||||Noun: strategy||
 noun-thèse|thèse||la thèse||les thèses|||||Noun: thesis||
 noun-variété|variété||la variété||les variétés|||||Noun: variety||
 noun-équilibre|équilibre|l'équilibre||les équilibres||||||Noun: balance||
 noun-équitation|équitation||l'équitation|||||||Noun: Equestrianism/ act of horseriding||
 verb-défassuer|défassuer||||||défassuer|défassué|défassuant|Verb: (reflexive) (card games) to discard||
+verb-dégager|dégager||||||dégager|dégagé|dégageant|Verb: to free/ release, to bring out (an idea), (vulgar) go away!||
+verb-encadrer|encadrer||||||encadrer|encadré|encadrant|Verb: to surround/ outline, to frame||
+verb-former|former||||||former|formé|formant|Verb: (generic) to form, to shape, to train||
+verb-négocier|négocier||||||négocier|négocié|négociant|Verb: to negotiate||
+verb-piloter|piloter||||||piloter|piloté|pilotant|Verb: to pilot a vehicle, to direct/ guide people||
 verb-piocher|piocher||||||piocher|pioché|piochant|Verb: (card games) to draw from the deck, to pick from a set of options||
+verb-recruter|recruter||||||recruter|recruté|recrutant|Verb: to recruit||
+verb-relier|relier||||||relier|relié|reliant|Verb: to connect/ link/ relate to||
+verb-retracer|retracer||||||retracer|retracé|retraçant|Verb: to recount/ tell||
 verb-rédiger|rédiger||||||rédiger|rédigé|rédigeant|Verb: to write in a well defined manner||
 verb-valider|valider||||||valider|validé|validant|Verb: to validate||
+verb-élaborer|élaborer||||||élaborer|élaboré|élaborant|Verb: to put together/ make up/ draw up, to elaborate, to supervise||
