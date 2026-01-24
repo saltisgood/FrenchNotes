@@ -2,33 +2,57 @@
 #columns:Key|Basic meanings of word|Word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Example sentences|Wiktionary
 #notetype:English to French
 #deck:French Courses::B1.6::English to French Vocab
+adj-loufoque|Adjective: crazy|loufoque|loufoque||loufoques|||||||
 adj-pertinent|Adjective: pertinent|pertinent|pertinent|pertinente|pertinents|pertinentes||||||
+adj-polyvalent|Adjective: versatile, multipurpose|polyvalent|polyvalent|polyvalente|polyvalents|polyvalentes||||||
+adj-ponctuel|Adjective: punctual|ponctuel|ponctuel|ponctuelle|ponctuels|ponctuelles||||||
 adj-renommé|Adjective: renowned|renommé|renommé|renommée|renommés|renommées||||||
 adj-régulier|Adjective: regular|régulier|régulier|régulière|réguliers|régulières||||||
 adj-sobre|Adjective: sober, modest|sobre|sobre||sobres|||||||
 adj-sophistiqué|Adjective: sophisticated|sophistiqué|sophistiqué|sophistiquée|sophistiqués|sophistiquées||||||
 adj-souple|Adjective: supple/ flexible|souple|souple||souples|||||||
+misc-au point de + l'indicatif|so much so that ...|au point de + l'indicatif|||||au point de + l'indicatif|||||
 misc-avoir deux casquettes|Wear 2 hats|avoir deux casquettes|||||avoir deux casquettes|||||
 misc-classes préparatoires aux grandes écoles|(CPGE) 2 year prep class for entry into prestigious unis|classes préparatoires aux grandes écoles|||||classes préparatoires aux grandes écoles|||||
+misc-dans un premier temps|first of all|dans un premier temps|||||dans un premier temps|||||
+misc-de façon (à ce) que + subjonctif|in order to ...|de façon (à ce) que + subjonctif|||||de façon (à ce) que + subjonctif|||||
+misc-de manière (à ce) que + subjonctif|in order to ...|de manière (à ce) que + subjonctif|||||de manière (à ce) que + subjonctif|||||
+misc-de peur que + subjonctif|for fear that ...|de peur que + subjonctif|||||de peur que + subjonctif|||||
+misc-de sorte que + l'indicatif|so much so that ... (conséquence)|de sorte que + l'indicatif|||||de sorte que + l'indicatif|||||
+misc-de sorte que + le subjonctif|in order to ... (le but)|de sorte que + le subjonctif|||||de sorte que + le subjonctif|||||
+misc-du fait de + un nom|due to, because of|du fait de + un nom|||||du fait de + un nom|||||
+misc-en raison de + un nom|due to, because of|en raison de + un nom|||||en raison de + un nom|||||
+misc-en vue de + infinitif|in order to ...|en vue de + infinitif|||||en vue de + infinitif|||||
+misc-faute de + un nom|through lack of ...|faute de + un nom|||||faute de + un nom|||||
 misc-le cas de figure|hypothesis|le cas de figure|||||le cas de figure|||||
 misc-mettre en valeur|to highlight|mettre en valeur|||||mettre en valeur|||||
+misc-si bien que + l'indicatif|so much so that ...|si bien que + l'indicatif|||||si bien que + l'indicatif|||||
+misc-sous prétexte que + l'indicatif|on the pretext that, arguing that|sous prétexte que + l'indicatif|||||sous prétexte que + l'indicatif|||||
+misc-vu que + l'indicatif|given that, seeing that|vu que + l'indicatif|||||vu que + l'indicatif|||||
+misc-à tel point que + l'indicatif|so much so that ...|à tel point que + l'indicatif|||||à tel point que + l'indicatif|||||
+misc-étant donné que + l'indicatif|because, considering|étant donné que + l'indicatif|||||étant donné que + l'indicatif|||||
 noun-argument|Noun: argument|argument|l'argument||les arguments|||||||
 noun-assiduité|Noun: Attendance|assiduité||l'assiduité||les assiduités||||||
+noun-autonomie|Noun: autonomy|autonomie||l'autonomie||les autonomies||||||
+noun-cause|Noun: cause|cause||la cause||les causes||||||
 noun-chronologie|Noun: chronology|chronologie||la chronologie||les chronologies||||||
 noun-circonstance|Noun: circumstance|circonstance||la circonstance||les circonstances||||||
 noun-copie|Noun: copy|copie||la copie||les copies||||||
 noun-doctorat|Noun: doctorate|doctorat|le doctorat||les doctorats|||||||
 noun-efficacité|Noun: efficacy|efficacité||l'efficacité||||||||
+noun-enumération|Noun: enumeration|enumération||l'énumération||les énumérations||||||
 noun-expéditeur|Noun: Sender|expéditeur|l'expéditeur|l'expéditrice|les expéditeurs|||||||
 noun-façon|Noun: the way/ manner/ fashion|façon||la façon||les façons||||||
 noun-fil conducteur|Noun: power cable, (figurative) common thread|fil conducteur|le fil conducteur||les fils conducteurs|||||||
 noun-flexibilité|Noun: flexibility|flexibilité||la flexibilité||les flexibilités||||||
 noun-force|Noun: force, strength|force||la force||les forces||||||
 noun-génie|Noun: genie, genius, engineering|génie|le génie||les génies|||||||
+noun-laïcité|Noun: secularity, secularism|laïcité||la laïcité||les laïcités||||||
 noun-licence|Noun: licence, bachelor's degree|licence||la licence||les licences||||||
 noun-master|Noun: master's degree|master|le master||les masters|||||||
 noun-matière|Noun: material, matter|matière||la matière||les matières||||||
-noun-méthodologie|Noun: methodology|méthodologie|la méthodologie||les méthodologies|||||||
+noun-méthodologie|Noun: methodology|méthodologie|le méthodologie||les méthodologies|||||||
+noun-phoque|Noun: seal|phoque|le phoque||les phoques|||||||
 noun-récupération|Noun: recovery, retrieval|récupération||la récupération||les récupérations||||||
 noun-référence|Noun: reference|référence||la référence||les références||||||
 noun-secteur|Noun: sector|secteur|le secteur||les secteurs|||||||
