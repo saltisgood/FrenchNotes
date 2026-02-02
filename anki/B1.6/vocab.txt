@@ -3,69 +3,113 @@
 #notetype:French to English Noun
 #deck:French Courses::B1.6::Vocab
 adj-loufoque|loufoque|loufoque||loufoques||||||Adjective: crazy||
+adj-minutieux|minutieux|minutieux|minutieuse|minutieux|minutieuses|||||Adjective: thorough/ elaborate/ detailed||
+adj-passionnant|passionnant|passionnant|passionnante|passionnants|passionnantes|||||Adjective: evoking passion or enthusiasm||
 adj-pertinent|pertinent|pertinent|pertinente|pertinents|pertinentes|||||Adjective: pertinent||
 adj-polyvalent|polyvalent|polyvalent|polyvalente|polyvalents|polyvalentes|||||Adjective: versatile, multipurpose||
 adj-ponctuel|ponctuel|ponctuel|ponctuelle|ponctuels|ponctuelles|||||Adjective: punctual||
+adj-pénible|pénible|pénible||pénibles||||||Adjective: painful/ hard/ displeasing, annoying||
 adj-renommé|renommé|renommé|renommée|renommés|renommées|||||Adjective: renowned||
 adj-régulier|régulier|régulier|régulière|réguliers|régulières|||||Adjective: regular||
+adj-répétitif|répétitif|répétitif|répétitive|répétitifs|répétitives|||||Adjective: repetitive||
 adj-sobre|sobre|sobre||sobres||||||Adjective: sober, modest||
 adj-sophistiqué|sophistiqué|sophistiqué|sophistiquée|sophistiqués|sophistiquées|||||Adjective: sophisticated||
 adj-souple|souple|souple||souples||||||Adjective: supple/ flexible||
+adj-varié|varié|varié|variée|variés|variées|||||Adjective: varied||
+adj-vestimentaire|vestimentaire|vestimentaire||vestimentaires||||||Adjective: (adjective) clothing||
+adj-épanouissant|épanouissant|épanouissant|épanouissante|épanouissants|épanouissantes|||||Adjective: fulfilling||
 misc-au point de + l'indicatif|au point de + l'indicatif|||||au point de + l'indicatif||||so much so that ...||
 misc-avoir deux casquettes|avoir deux casquettes|||||avoir deux casquettes||||Wear 2 hats||
 misc-classes préparatoires aux grandes écoles|classes préparatoires aux grandes écoles|||||classes préparatoires aux grandes écoles||||(CPGE) 2 year prep class for entry into prestigious unis||
 misc-dans un premier temps|dans un premier temps|||||dans un premier temps||||first of all||
 misc-de façon (à ce) que + subjonctif|de façon (à ce) que + subjonctif|||||de façon (à ce) que + subjonctif||||in order to ...||
 misc-de manière (à ce) que + subjonctif|de manière (à ce) que + subjonctif|||||de manière (à ce) que + subjonctif||||in order to ...||
+misc-de même|de même|||||de même||||likewise||
 misc-de peur que + subjonctif|de peur que + subjonctif|||||de peur que + subjonctif||||for fear that ...||
 misc-de sorte que + l'indicatif|de sorte que + l'indicatif|||||de sorte que + l'indicatif||||so much so that ... (conséquence)||
 misc-de sorte que + le subjonctif|de sorte que + le subjonctif|||||de sorte que + le subjonctif||||in order to ... (le but)||
 misc-du fait de + un nom|du fait de + un nom|||||du fait de + un nom||||due to, because of||
 misc-en raison de + un nom|en raison de + un nom|||||en raison de + un nom||||due to, because of||
 misc-en vue de + infinitif|en vue de + infinitif|||||en vue de + infinitif||||in order to ...||
+misc-faire des heures supplémentaires|faire des heures supplémentaires|||||faire des heures supplémentaires||||over time||
 misc-faute de + un nom|faute de + un nom|||||faute de + un nom||||through lack of ...||
+misc-le SMIC (salaire minimum interprofessionel de croissance)|le SMIC (salaire minimum interprofessionel de croissance)|||||le SMIC (salaire minimum interprofessionel de croissance)||||minimum wage||
 misc-le cas de figure|le cas de figure|||||le cas de figure||||hypothesis||
 misc-mettre en valeur|mettre en valeur|||||mettre en valeur||||to highlight||
+misc-savoir-faire|savoir-faire|||||savoir-faire||||know how||
+misc-savoir-être|savoir-être|||||savoir-être||||soft skills, life management skills||
 misc-si bien que + l'indicatif|si bien que + l'indicatif|||||si bien que + l'indicatif||||so much so that ...||
 misc-sous prétexte que + l'indicatif|sous prétexte que + l'indicatif|||||sous prétexte que + l'indicatif||||on the pretext that, arguing that||
 misc-vu que + l'indicatif|vu que + l'indicatif|||||vu que + l'indicatif||||given that, seeing that||
 misc-à tel point que + l'indicatif|à tel point que + l'indicatif|||||à tel point que + l'indicatif||||so much so that ...||
 misc-étant donné que + l'indicatif|étant donné que + l'indicatif|||||étant donné que + l'indicatif||||because, considering||
+noun-acquisition|acquisition||l'acquisition||les acquisitions|||||Noun: acquisition||
 noun-argument|argument|l'argument||les arguments||||||Noun: argument||
 noun-assiduité|assiduité||l'assiduité||les assiduités|||||Noun: Attendance||
+noun-atout|atout|l'atout||les atouts||||||Noun: advantage/ asset||
 noun-autonomie|autonomie||l'autonomie||les autonomies|||||Noun: autonomy||
+noun-banqueroute|banqueroute||la banqueroute||les banqueroutes|||||Noun: bankruptcy||
+noun-bulletin de paie|bulletin de paie|le bulletin de paie||les bulletins de paie||||||Noun: payslip||
+noun-cadre|cadre|le cadre||les cadres||||||Noun: door/ picture frame, business executive||
 noun-cause|cause||la cause||les causes|||||Noun: cause||
+noun-chantier|chantier|le chantier||les chantiers||||||Noun: building site||
 noun-chronologie|chronologie||la chronologie||les chronologies|||||Noun: chronology||
 noun-circonstance|circonstance||la circonstance||les circonstances|||||Noun: circumstance||
+noun-congé|congé|le congé||les congés||||||Noun: leave (time off, absence from work)||
 noun-copie|copie||la copie||les copies|||||Noun: copy||
 noun-doctorat|doctorat|le doctorat||les doctorats||||||Noun: doctorate||
 noun-efficacité|efficacité||l'efficacité|||||||Noun: efficacy||
+noun-encouragement|encouragement|l'encouragement||les encouragements||||||Noun: encouragement||
 noun-enumération|enumération||l'énumération||les énumérations|||||Noun: enumeration||
+noun-estime de soi|estime de soi||l'estime de soi|||||||Noun: self-esteem||
+noun-estime|estime||l'estime|||||||Noun: esteem||
 noun-expéditeur|expéditeur|l'expéditeur|l'expéditrice|les expéditeurs||||||Noun: Sender||
+noun-faillite|faillite||la faillite||les faillites|||||Noun: bankruptcy||
 noun-façon|façon||la façon||les façons|||||Noun: the way/ manner/ fashion||
 noun-fil conducteur|fil conducteur|le fil conducteur||les fils conducteurs||||||Noun: power cable, (figurative) common thread||
 noun-flexibilité|flexibilité||la flexibilité||les flexibilités|||||Noun: flexibility||
+noun-fonctionnement|fonctionnement|le fonctionnement||les fonctionnements||||||Noun: working/ functioning||
 noun-force|force||la force||les forces|||||Noun: force, strength||
 noun-génie|génie|le génie||les génies||||||Noun: genie, genius, engineering||
+noun-harcèlement|harcèlement|le harcèlement||les harcèlements||||||Noun: harassment||
+noun-implication|implication||l'implication||les implications|||||Noun: involvement, implication||
+noun-incitation|incitation||l'incitation||les incitations|||||Noun: incitation||
 noun-laïcité|laïcité||la laïcité||les laïcités|||||Noun: secularity, secularism||
 noun-licence|licence||la licence||les licences|||||Noun: licence, bachelor's degree||
+noun-licenciement|licenciement|le licenciement||les licenciements||||||Noun: sacking/ redundancy||
 noun-master|master|le master||les masters||||||Noun: master's degree||
 noun-matière|matière||la matière||les matières|||||Noun: material, matter||
 noun-méthodologie|méthodologie|le méthodologie||les méthodologies||||||Noun: methodology||
+noun-passerelle|passerelle||la passerelle||les passerelles|||||Noun: footbridge, (education) bridging program||
 noun-phoque|phoque|le phoque||les phoques||||||Noun: seal||
+noun-pourboire|pourboire|le pourboire||les pourboires||||||Noun: tip||
+noun-prime|prime||la prime||les primes|||||Noun: reward/ prize/ bonus, premium (insurance)||
+noun-précarité|précarité||la précarité||les précarités|||||Noun: existence without financial security||
 noun-récupération|récupération||la récupération||les récupérations|||||Noun: recovery, retrieval||
 noun-référence|référence||la référence||les références|||||Noun: reference||
+noun-salarié|salarié|le salarié||les salariés||||||Noun: employee||
 noun-secteur|secteur|le secteur||les secteurs||||||Noun: sector||
 noun-souplesse|souplesse||la souplesse||les souplesses|||||Noun: flexibility||
 noun-stratégie|stratégie||la stratégie||les stratégies|||||Noun: strategy||
+noun-syndicaliste|syndicaliste|le syndicaliste||les syndicalistes||||||Noun: trade unionist||
 noun-thèse|thèse||la thèse||les thèses|||||Noun: thesis||
+noun-travail au noir|travail au noir|le travail au noir||les travaux au noir||||||Noun: undeclared work||
+noun-tuteur|tuteur|le tuteur|la tutrice|les tuteurs||||||Noun: tutor||
 noun-variété|variété||la variété||les variétés|||||Noun: variety||
 noun-équilibre|équilibre|l'équilibre||les équilibres||||||Noun: balance||
 noun-équitation|équitation||l'équitation|||||||Noun: Equestrianism/ act of horseriding||
+verb-acquérir|acquérir||||||acquérir|acquis|acquérant|Verb: to acquire, to purchase, (reflexive) to gain||
+verb-adresser|adresser||||||adresser|adressé|adressant|Verb: (reflexive + à) to address (someone)||
+verb-attester|attester||||||attester|attesté|attestant|Verb: to attest||
+verb-décrocher|décrocher||||||décrocher|décroché|décrochant|Verb: to unhook, to pick up/ get one's hands on||
 verb-défassuer|défassuer||||||défassuer|défassué|défassuant|Verb: (reflexive) (card games) to discard||
 verb-dégager|dégager||||||dégager|dégagé|dégageant|Verb: to free/ release, to bring out (an idea), (vulgar) go away!||
+verb-déléguer|déléguer||||||déléguer|délégué|déléguant|Verb: to delegate||
+verb-démissionner|démissionner||||||démissionner|démissionné|démissionant|Verb: to resign, dismiss||
 verb-encadrer|encadrer||||||encadrer|encadré|encadrant|Verb: to surround/ outline, to frame||
 verb-former|former||||||former|formé|formant|Verb: (generic) to form, to shape, to train||
+verb-fusionner|fusionner||||||fusionner|fusionné|fusionnant|Verb: to fuse/ meld||
+verb-informer|informer||||||informer|informé|informant|Verb: to inform||
 verb-négocier|négocier||||||négocier|négocié|négociant|Verb: to negotiate||
 verb-piloter|piloter||||||piloter|piloté|pilotant|Verb: to pilot a vehicle, to direct/ guide people||
 verb-piocher|piocher||||||piocher|pioché|piochant|Verb: (card games) to draw from the deck, to pick from a set of options||
