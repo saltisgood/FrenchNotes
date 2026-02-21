@@ -2,12 +2,16 @@
 #columns:Key|Basic meanings of word|Word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Example sentences|Wiktionary
 #notetype:English to French
 #deck:French Courses::B1.6::English to French Vocab
+adj-informationnel|Adjective: informational|informationnel|informationnel|informationnelle|informationnels|informationnelles||||||
 adj-loufoque|Adjective: crazy|loufoque|loufoque||loufoques|||||||
 adj-minutieux|Adjective: thorough/ elaborate/ detailed|minutieux|minutieux|minutieuse|minutieux|minutieuses||||||
+adj-objectif|Adjective: objective/ impartial|objectif|objectif|objective|objectifs|objectives||||||
+adj-paradoxal|Adjective: paradoxical|paradoxal|paradoxal|paradoxale|paradoxaux|paradoxales||||||
 adj-passionnant|Adjective: evoking passion or enthusiasm|passionnant|passionnant|passionnante|passionnants|passionnantes||||||
 adj-pertinent|Adjective: pertinent|pertinent|pertinent|pertinente|pertinents|pertinentes||||||
 adj-polyvalent|Adjective: versatile, multipurpose|polyvalent|polyvalent|polyvalente|polyvalents|polyvalentes||||||
 adj-ponctuel|Adjective: punctual|ponctuel|ponctuel|ponctuelle|ponctuels|ponctuelles||||||
+adj-prévisible|Adjective: predictable|prévisible|prévisible||prévisibles|||||||
 adj-pénible|Adjective: painful/ hard/ displeasing, annoying|pénible|pénible||pénibles|||||||
 adj-renommé|Adjective: renowned|renommé|renommé|renommée|renommés|renommées||||||
 adj-régulier|Adjective: regular|régulier|régulier|régulière|réguliers|régulières||||||
@@ -15,9 +19,11 @@ adj-répétitif|Adjective: repetitive|répétitif|répétitif|répétitive|rép�
 adj-sobre|Adjective: sober, modest|sobre|sobre||sobres|||||||
 adj-sophistiqué|Adjective: sophisticated|sophistiqué|sophistiqué|sophistiquée|sophistiqués|sophistiquées||||||
 adj-souple|Adjective: supple/ flexible|souple|souple||souples|||||||
+adj-subjectif|Adjective: subjective/ personal|subjectif|subjectif|subjective|subjectifs|subjectives||||||
 adj-varié|Adjective: varied|varié|varié|variée|variés|variées||||||
 adj-vestimentaire|Adjective: (adjective) clothing|vestimentaire|vestimentaire||vestimentaires|||||||
 adj-épanouissant|Adjective: fulfilling|épanouissant|épanouissant|épanouissante|épanouissants|épanouissantes||||||
+adv-auparavant|Adverb: beforehand/ previously|auparavant|||||auparavant|||||
 misc-au point de + l'indicatif|so much so that ...|au point de + l'indicatif|||||au point de + l'indicatif|||||
 misc-avoir deux casquettes|Wear 2 hats|avoir deux casquettes|||||avoir deux casquettes|||||
 misc-classes préparatoires aux grandes écoles|(CPGE) 2 year prep class for entry into prestigious unis|classes préparatoires aux grandes écoles|||||classes préparatoires aux grandes écoles|||||
@@ -35,6 +41,7 @@ misc-faire des heures supplémentaires|over time|faire des heures supplémentair
 misc-faute de + un nom|through lack of ...|faute de + un nom|||||faute de + un nom|||||
 misc-le SMIC (salaire minimum interprofessionel de croissance)|minimum wage|le SMIC (salaire minimum interprofessionel de croissance)|||||le SMIC (salaire minimum interprofessionel de croissance)|||||
 misc-le cas de figure|hypothesis|le cas de figure|||||le cas de figure|||||
+misc-le point de repère|point of reference|le point de repère|||||le point de repère|||||
 misc-mettre en valeur|to highlight|mettre en valeur|||||mettre en valeur|||||
 misc-savoir-faire|know how|savoir-faire|||||savoir-faire|||||
 misc-savoir-être|soft skills, life management skills|savoir-être|||||savoir-être|||||
@@ -43,21 +50,30 @@ misc-sous prétexte que + l'indicatif|on the pretext that, arguing that|sous pr�
 misc-vu que + l'indicatif|given that, seeing that|vu que + l'indicatif|||||vu que + l'indicatif|||||
 misc-à tel point que + l'indicatif|so much so that ...|à tel point que + l'indicatif|||||à tel point que + l'indicatif|||||
 misc-étant donné que + l'indicatif|because, considering|étant donné que + l'indicatif|||||étant donné que + l'indicatif|||||
+noun-Suède|Noun: Sweden|Suède||la Suède||||||||
+noun-Suédois|Noun: Swedish person|Suédois|le Suédois|la Suédoise||||||||
 noun-acquisition|Noun: acquisition|acquisition||l'acquisition||les acquisitions||||||
+noun-actualité|Noun: topic, (esp in plural) news/ current affairs|actualité||l'actualité||les actualités||||||
 noun-argument|Noun: argument|argument|l'argument||les arguments|||||||
 noun-assiduité|Noun: Attendance|assiduité||l'assiduité||les assiduités||||||
 noun-atout|Noun: advantage/ asset|atout|l'atout||les atouts|||||||
+noun-attrait|Noun: appeal/ attraction|attrait|l'attrait||les attraits|||||||
 noun-autonomie|Noun: autonomy|autonomie||l'autonomie||les autonomies||||||
 noun-banqueroute|Noun: bankruptcy|banqueroute||la banqueroute||les banqueroutes||||||
+noun-barrière|Noun: barrier/ fence|barrière||la barrière||les barrières||||||
 noun-bulletin de paie|Noun: payslip|bulletin de paie|le bulletin de paie||les bulletins de paie|||||||
+noun-caddie|Noun: shopping cart|caddie|le caddie||les caddies|||||||
 noun-cadre|Noun: door/ picture frame, business executive|cadre|le cadre||les cadres|||||||
+noun-caissier|Noun: cashier|caissier|le caissier|la caissière|les caissiers|les caissières||||||
 noun-cause|Noun: cause|cause||la cause||les causes||||||
 noun-chantier|Noun: building site|chantier|le chantier||les chantiers|||||||
 noun-chronologie|Noun: chronology|chronologie||la chronologie||les chronologies||||||
 noun-circonstance|Noun: circumstance|circonstance||la circonstance||les circonstances||||||
 noun-congé|Noun: leave (time off, absence from work)|congé|le congé||les congés|||||||
 noun-copie|Noun: copy|copie||la copie||les copies||||||
+noun-crainte|Noun: fear/ fright|crainte||la crainte||les craintes||||||
 noun-doctorat|Noun: doctorate|doctorat|le doctorat||les doctorats|||||||
+noun-défiance|Noun: mistrust|défiance||la défiance||les défiances||||||
 noun-efficacité|Noun: efficacy|efficacité||l'efficacité||||||||
 noun-encouragement|Noun: encouragement|encouragement|l'encouragement||les encouragements|||||||
 noun-enumération|Noun: enumeration|enumération||l'énumération||les énumérations||||||
@@ -70,10 +86,12 @@ noun-fil conducteur|Noun: power cable, (figurative) common thread|fil conducteur
 noun-flexibilité|Noun: flexibility|flexibilité||la flexibilité||les flexibilités||||||
 noun-fonctionnement|Noun: working/ functioning|fonctionnement|le fonctionnement||les fonctionnements|||||||
 noun-force|Noun: force, strength|force||la force||les forces||||||
+noun-fossé|Noun: ditch/ trench/ moat|fossé|le fossé||les fossés|||||||
 noun-génie|Noun: genie, genius, engineering|génie|le génie||les génies|||||||
 noun-harcèlement|Noun: harassment|harcèlement|le harcèlement||les harcèlements|||||||
 noun-implication|Noun: involvement, implication|implication||l'implication||les implications||||||
 noun-incitation|Noun: incitation|incitation||l'incitation||les incitations||||||
+noun-lassitude|Noun: lethargy/ fatigue|lassitude||la lassitude||les lassitudes||||||
 noun-laïcité|Noun: secularity, secularism|laïcité||la laïcité||les laïcités||||||
 noun-licence|Noun: licence, bachelor's degree|licence||la licence||les licences||||||
 noun-licenciement|Noun: sacking/ redundancy|licenciement|le licenciement||les licenciements|||||||
@@ -82,6 +100,7 @@ noun-matière|Noun: material, matter|matière||la matière||les matières||||||
 noun-méthodologie|Noun: methodology|méthodologie|le méthodologie||les méthodologies|||||||
 noun-passerelle|Noun: footbridge, (education) bridging program|passerelle||la passerelle||les passerelles||||||
 noun-phoque|Noun: seal|phoque|le phoque||les phoques|||||||
+noun-phénomène|Noun: phenomenon|phénomène|le phénomène||les phénomènes|||||||
 noun-pourboire|Noun: tip|pourboire|le pourboire||les pourboires|||||||
 noun-prime|Noun: reward/ prize/ bonus, premium (insurance)|prime||la prime||les primes||||||
 noun-précarité|Noun: existence without financial security|précarité||la précarité||les précarités||||||
@@ -96,17 +115,22 @@ noun-thèse|Noun: thesis|thèse||la thèse||les thèses||||||
 noun-travail au noir|Noun: undeclared work|travail au noir|le travail au noir||les travaux au noir|||||||
 noun-tuteur|Noun: tutor|tuteur|le tuteur|la tutrice|les tuteurs|||||||
 noun-variété|Noun: variety|variété||la variété||les variétés||||||
+noun-échappatoire|Noun: loophole/ escape route|échappatoire||l'échappatoire||les échappatoires||||||
 noun-équilibre|Noun: balance|équilibre|l'équilibre||les équilibres|||||||
 noun-équitation|Noun: Equestrianism/ act of horseriding|équitation||l'équitation||||||||
+noun-évitement|Noun: avoidance|évitement|l'évitement||les évitements|||||||
 verb-acquérir|Verb: to acquire, to purchase, (reflexive) to gain|acquérir||||||acquérir|acquis|acquérant||
 verb-adresser|Verb: (reflexive + à) to address (someone)|adresser||||||adresser|adressé|adressant||
 verb-attester|Verb: to attest|attester||||||attester|attesté|attestant||
+verb-discerner|Verb: to discern|discerner||||||discerner|discerné|discernant||
+verb-distinguer|Verb: to distinguish|distinguer||||||distinguer|distingué|distinguant||
 verb-décrocher|Verb: to unhook, to pick up/ get one's hands on|décrocher||||||décrocher|décroché|décrochant||
 verb-défassuer|Verb: (reflexive) (card games) to discard|défassuer||||||défassuer|défassué|défassuant||
 verb-dégager|Verb: to free/ release, to bring out (an idea), (vulgar) go away!|dégager||||||dégager|dégagé|dégageant||
 verb-déléguer|Verb: to delegate|déléguer||||||déléguer|délégué|déléguant||
 verb-démissionner|Verb: to resign, dismiss|démissionner||||||démissionner|démissionné|démissionant||
 verb-encadrer|Verb: to surround/ outline, to frame|encadrer||||||encadrer|encadré|encadrant||
+verb-filtrer|Verb: to filter|filtrer||||||filtrer|filtré|filtrant||
 verb-former|Verb: (generic) to form, to shape, to train|former||||||former|formé|formant||
 verb-fusionner|Verb: to fuse/ meld|fusionner||||||fusionner|fusionné|fusionnant||
 verb-informer|Verb: to inform|informer||||||informer|informé|informant||
@@ -117,5 +141,6 @@ verb-recruter|Verb: to recruit|recruter||||||recruter|recruté|recrutant||
 verb-relier|Verb: to connect/ link/ relate to|relier||||||relier|relié|reliant||
 verb-retracer|Verb: to recount/ tell|retracer||||||retracer|retracé|retraçant||
 verb-rédiger|Verb: to write in a well defined manner|rédiger||||||rédiger|rédigé|rédigeant||
+verb-soulever|Verb: to raise/ lift up, to rouse (interest)|soulever||||||soulever|soulevé|soulevant||
 verb-valider|Verb: to validate|valider||||||valider|validé|validant||
 verb-élaborer|Verb: to put together/ make up/ draw up, to elaborate, to supervise|élaborer||||||élaborer|élaboré|élaborant||
