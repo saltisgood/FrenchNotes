@@ -2,17 +2,49 @@
 #columns:Key|Basic meanings of word|Word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Example sentences|Wiktionary
 #notetype:English to French
 #deck:French Courses::Duolingo::English to French Vocab
+adj-ample|Adjective: ample/ plentiful, (clothes) loose|ample|ample||amples|||||||
+adj-argenté|Adjective: silvery|argenté|argenté|argentée|argentés|argentées||||||
 adj-chaotique|Adjective: chaotic|chaotique|chaotique||chaotiques|||||||
+adj-doré|Adjective: golden|doré|doré|dorée|dorés|dorées||||||
 adj-impressionné|Adjective: impressed|impressionné|impressionné|impressionnée|impressionnés|impressionnées||||||
+adj-mou|Adjective: soft/ squishy, comfortable|mou|mou|molle|mous|molles||||||
+adj-serré|Adjective: tight|serré|serré|serrée|serrés|serrées||||||
+adj-tendre|Adjective: tender|tendre|tendre||tendres|||||||
+misc-avoir du mal (à + verbe)|to have difficulty|avoir du mal (à + verbe)|||||avoir du mal (à + verbe)|||||
 misc-avoir l'impression|have the feeling|avoir l'impression|||||avoir l'impression|||||
 misc-faire un tour|take a walk|faire un tour|||||faire un tour|||||
+misc-froncer les sourcils|to furrow one's brow|froncer les sourcils|||||froncer les sourcils|||||
 misc-par hasard|at random/ by chance|par hasard|||||par hasard|||||
+misc-se connecter à internet|connect to the internet|se connecter à internet|||||se connecter à internet|||||
+noun-arobase|Noun: the @ symbol|arobase|l'arobase||les arobases|||||||
 noun-chaos|Noun: chaos|chaos|le chaos|||||||||
+noun-connexion|Noun: connection, login|connexion||la connexion||les connexions||||||
 noun-contraire|Noun: (also adj) opposite|contraire|le contraire||les contraires|||||||
 noun-douane|Noun: customs|douane||la douane||les douanes||||||
 noun-enthousiasme|Noun: enthusiasm|enthousiasme|l'enthousiasme||les enthousiasmes|||||||
+noun-fourrure|Noun: fur|fourrure||la fourrure||les fourrures||||||
 noun-gymnase|Noun: gymnasium|gymnase|le gymnase||les gymnases|||||||
 noun-hasard|Noun: chance, coincidence, hazard|hasard|le hasard||les hasards|||||||
 noun-impression|Noun: impression/ the overall feel|impression||l'impression||les impressions||||||
+noun-joue|Noun: cheek|joue||la joue||les joues||||||
+noun-mal|Noun: trouble/ difficulty, evil|mal|le mal||les maux|||||||
+noun-manche|Noun: sleeve|manche||la manche||les manches||||||
+noun-nom d'utilisateur|Noun: username|nom d'utilisateur|le nom d'utilisateur||les noms d'utilisateur|||||||
+noun-pois|Noun: pea, polka dot|pois|le pois||les pois|||||||
+noun-publicité|Noun: advertising|publicité||la publicité||les publicités||||||
+noun-rayure|Noun: scratch, stripe|rayure||la rayure||les rayures||||||
+noun-renseignement|Noun: piece of information|renseignement|le renseignement||les renseignements|||||||
+noun-soie|Noun: silk|soie||la soie||les soies||||||
+noun-sorte|Noun: kind/ type, way/ manner|sorte||la sorte||les sortes||||||
+noun-sourcil|Noun: eyebrow|sourcil|le sourcil||les sourcils|||||||
+noun-statue|Noun: statue|statue||la statue||les statues||||||
+noun-tissu|Noun: fabric|tissu|le tissu||les tissus|||||||
+noun-tube|Noun: tube, pipe|tube|le tube||les tubes|||||||
+verb-attendrir|Verb: to soften|attendrir||||||attendrir|attendri|attendrissant||
+verb-coller|Verb: to stick/ paste/ glue|coller||||||coller|collé|collant||
 verb-déclarer|Verb: to declare|déclarer||||||déclarer|déclaré|déclarant||
+verb-emballer|Verb: to wrap up|emballer||||||emballer|emballé|emballant||
+verb-froncer|Verb: to scowl|froncer||||||froncer|froncé|fronçant||
+verb-mâcher|Verb: to chew|mâcher||||||mâcher|mâché|mâchant||
 verb-ruiner|Verb: to ruin|ruiner||||||ruiner|ruiné|ruinant||
+verb-surveiller|Verb: to monitor/ watch|surveiller||||||surveiller|surveillé|surveillant||
