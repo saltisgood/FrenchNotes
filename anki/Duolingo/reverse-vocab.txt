@@ -18,6 +18,7 @@ misc-par hasard|at random/ by chance|par hasard|||||par hasard|||||
 misc-se connecter à internet|connect to the internet|se connecter à internet|||||se connecter à internet|||||
 noun-arobase|Noun: the @ symbol|arobase|l'arobase||les arobases|||||||
 noun-chaos|Noun: chaos|chaos|le chaos|||||||||
+noun-col|Noun: collar|col|le col||les cols|||||||
 noun-connexion|Noun: connection, login|connexion||la connexion||les connexions||||||
 noun-contraire|Noun: (also adj) opposite|contraire|le contraire||les contraires|||||||
 noun-douane|Noun: customs|douane||la douane||les douanes||||||

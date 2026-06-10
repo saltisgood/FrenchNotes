@@ -24,6 +24,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | arobase | l'arobase |  | les arobases |  | the @ symbol |  | [Link](<https://en.wiktionary.org/wiki/arobase#French>) |
 | chaos | le chaos |  |  |  | chaos |  | [Link](<https://en.wiktionary.org/wiki/chaos#French>) |
+| col | le col |  | les cols |  | collar |  | [Link](<https://en.wiktionary.org/wiki/col#French>) |
 | connexion |  | la connexion |  | les connexions | connection, login |  | [Link](<https://en.wiktionary.org/wiki/connexion#French>) |
 | contraire | le contraire |  | les contraires |  | (also adj) opposite |  | [Link](<https://en.wiktionary.org/wiki/contraire#French>) |
 | douane |  | la douane |  | les douanes | customs |  | [Link](<https://en.wiktionary.org/wiki/douane#French>) |
