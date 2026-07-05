@@ -2,8 +2,10 @@
 #columns:Key|Word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Basic meanings of word|Example sentences|Wiktionary
 #notetype:French to English Noun
 #deck:French Courses::Duolingo::Vocab
+adj-amer|amer|amer|amère|amers|amères|||||Adjective: bitter, sour||
 adj-ample|ample|ample||amples||||||Adjective: ample/ plentiful, (clothes) loose||
 adj-argenté|argenté|argenté|argentée|argentés|argentées|||||Adjective: silvery||
+adj-censé|censé|censé|censée|censés|censées|||||Adjective: supposed to/ meant to||
 adj-chaotique|chaotique|chaotique||chaotiques||||||Adjective: chaotic||
 adj-doré|doré|doré|dorée|dorés|dorées|||||Adjective: golden||
 adj-impressionné|impressionné|impressionné|impressionnée|impressionnés|impressionnées|||||Adjective: impressed||
@@ -14,22 +16,29 @@ misc-avoir du mal (à + verbe)|avoir du mal (à + verbe)|||||avoir du mal (à + 
 misc-avoir l'impression|avoir l'impression|||||avoir l'impression||||have the feeling||
 misc-faire un tour|faire un tour|||||faire un tour||||take a walk||
 misc-froncer les sourcils|froncer les sourcils|||||froncer les sourcils||||to furrow one's brow||
+misc-les restes|les restes|||||les restes||||leftovers||
+misc-mettre la table|mettre la table|||||mettre la table||||to set the table||
 misc-par hasard|par hasard|||||par hasard||||at random/ by chance||
 misc-se connecter à internet|se connecter à internet|||||se connecter à internet||||connect to the internet||
 noun-arobase|arobase|l'arobase||les arobases||||||Noun: the @ symbol||
 noun-chaos|chaos|le chaos||||||||Noun: chaos||
+noun-chou|chou|le chou||les choux||||||Noun: cabbage||
+noun-collant|collant|le collant||les collants||||||Noun: (plural) tights||
 noun-col|col|le col||les cols||||||Noun: collar||
 noun-connexion|connexion||la connexion||les connexions|||||Noun: connection, login||
 noun-contraire|contraire|le contraire||les contraires||||||Noun: (also adj) opposite||
 noun-douane|douane||la douane||les douanes|||||Noun: customs||
+noun-désastre|désastre|le désastre||les désastres||||||Noun: disaster||
 noun-enthousiasme|enthousiasme|l'enthousiasme||les enthousiasmes||||||Noun: enthusiasm||
 noun-fourrure|fourrure||la fourrure||les fourrures|||||Noun: fur||
 noun-gymnase|gymnase|le gymnase||les gymnases||||||Noun: gymnasium||
 noun-hasard|hasard|le hasard||les hasards||||||Noun: chance, coincidence, hazard||
 noun-impression|impression||l'impression||les impressions|||||Noun: impression/ the overall feel||
 noun-joue|joue||la joue||les joues|||||Noun: cheek||
+noun-laitue|laitue||la laitue||les laitues|||||Noun: lettuce||
 noun-mal|mal|le mal||les maux||||||Noun: trouble/ difficulty, evil||
 noun-manche|manche||la manche||les manches|||||Noun: sleeve||
+noun-mayonnaise|mayonnaise||la mayonnaise||les mayonnaises|||||Noun: mayo||
 noun-nom d'utilisateur|nom d'utilisateur|le nom d'utilisateur||les noms d'utilisateur||||||Noun: username||
 noun-pois|pois|le pois||les pois||||||Noun: pea, polka dot||
 noun-publicité|publicité||la publicité||les publicités|||||Noun: advertising||
@@ -38,13 +47,16 @@ noun-renseignement|renseignement|le renseignement||les renseignements||||||Noun:
 noun-soie|soie||la soie||les soies|||||Noun: silk||
 noun-sorte|sorte||la sorte||les sortes|||||Noun: kind/ type, way/ manner||
 noun-sourcil|sourcil|le sourcil||les sourcils||||||Noun: eyebrow||
+noun-soutien-gorge|soutien-gorge|le soutien-gorge||les soutiens-gorge||||||Noun: bra||
 noun-statue|statue||la statue||les statues|||||Noun: statue||
+noun-sucrerie|sucrerie||la sucrerie||les sucreries|||||Noun: (typically plural) sweet/ candy||
 noun-tissu|tissu|le tissu||les tissus||||||Noun: fabric||
 noun-tube|tube|le tube||les tubes||||||Noun: tube, pipe||
 verb-attendrir|attendrir||||||attendrir|attendri|attendrissant|Verb: to soften||
 verb-coller|coller||||||coller|collé|collant|Verb: to stick/ paste/ glue||
 verb-déclarer|déclarer||||||déclarer|déclaré|déclarant|Verb: to declare||
 verb-emballer|emballer||||||emballer|emballé|emballant|Verb: to wrap up||
+verb-fouetter|fouetter||||||fouetter|fouetté|fouettant|Verb: to whip, to whisk||
 verb-froncer|froncer||||||froncer|froncé|fronçant|Verb: to scowl||
 verb-mâcher|mâcher||||||mâcher|mâché|mâchant|Verb: to chew||
 verb-ruiner|ruiner||||||ruiner|ruiné|ruinant|Verb: to ruin||
