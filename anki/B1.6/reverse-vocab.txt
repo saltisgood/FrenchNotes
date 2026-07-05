@@ -3,8 +3,11 @@
 #notetype:English to French
 #deck:French Courses::B1.6::English to French Vocab
 adj-factice|Adjective: fake|factice|factice||factices|||||||
+adj-haineux|Adjective: hateful|haineux|haineux|haineuse|haineux|haineuses||||||
 adj-imprudent|Adjective: imprudent/ reckless|imprudent|imprudent|imprudente|imprudents|imprudentes||||||
+adj-infernal|Adjective: hellish, infernal|infernal|infernal|infernale|infernaux|infernales||||||
 adj-informationnel|Adjective: informational|informationnel|informationnel|informationnelle|informationnels|informationnelles||||||
+adj-laborieux|Adjective: laborious/ painstaking|laborieux|laborieux|laborieuse|laborieux|laborieuses||||||
 adj-loufoque|Adjective: crazy|loufoque|loufoque||loufoques|||||||
 adj-minutieux|Adjective: thorough/ elaborate/ detailed|minutieux|minutieux|minutieuse|minutieux|minutieuses||||||
 adj-neutre|Adjective: neutral|neutre|neutre||neutres|||||||
@@ -14,6 +17,7 @@ adj-passionnant|Adjective: evoking passion or enthusiasm|passionnant|passionnant
 adj-pertinent|Adjective: pertinent|pertinent|pertinent|pertinente|pertinents|pertinentes||||||
 adj-polyvalent|Adjective: versatile, multipurpose|polyvalent|polyvalent|polyvalente|polyvalents|polyvalentes||||||
 adj-ponctuel|Adjective: punctual|ponctuel|ponctuel|ponctuelle|ponctuels|ponctuelles||||||
+adj-précaire|Adjective: precarious|précaire|précaire||précaires|||||||
 adj-prévisible|Adjective: predictable|prévisible|prévisible||prévisibles|||||||
 adj-pénible|Adjective: painful/ hard/ displeasing, annoying|pénible|pénible||pénibles|||||||
 adj-renommé|Adjective: renowned|renommé|renommé|renommée|renommés|renommées||||||
@@ -25,8 +29,12 @@ adj-souple|Adjective: supple/ flexible|souple|souple||souples|||||||
 adj-subjectif|Adjective: subjective/ personal|subjectif|subjectif|subjective|subjectifs|subjectives||||||
 adj-varié|Adjective: varied|varié|varié|variée|variés|variées||||||
 adj-vestimentaire|Adjective: (adjective) clothing|vestimentaire|vestimentaire||vestimentaires|||||||
+adj-zinzin|Adjective: bonkers|zinzin|zinzin||zinzins|||||||
+adj-épais|Adjective: thick|épais|épais|épaisse|épais|épaisses||||||
 adj-épanouissant|Adjective: fulfilling|épanouissant|épanouissant|épanouissante|épanouissants|épanouissantes||||||
 adv-auparavant|Adverb: beforehand/ previously|auparavant|||||auparavant|||||
+adv-soigneusement|Adverb: carefully|soigneusement|||||soigneusement|||||
+adv-à peine|Adverb: barely, hardly, scarcely|à peine|||||à peine|||||
 misc-au point de + l'indicatif|so much so that ...|au point de + l'indicatif|||||au point de + l'indicatif|||||
 misc-avoir deux casquettes|Wear 2 hats|avoir deux casquettes|||||avoir deux casquettes|||||
 misc-avoir le vent en poupe|to gather steam/ gain popularity|avoir le vent en poupe|||||avoir le vent en poupe|||||
@@ -39,6 +47,8 @@ misc-de peur que + subjonctif|for fear that ...|de peur que + subjonctif|||||de 
 misc-de sorte que + l'indicatif|so much so that ... (conséquence)|de sorte que + l'indicatif|||||de sorte que + l'indicatif|||||
 misc-de sorte que + le subjonctif|in order to ... (le but)|de sorte que + le subjonctif|||||de sorte que + le subjonctif|||||
 misc-du fait de + un nom|due to, because of|du fait de + un nom|||||du fait de + un nom|||||
+misc-en gras|in bold|en gras|||||en gras|||||
+misc-en italique|in italic|en italique|||||en italique|||||
 misc-en raison de + un nom|due to, because of|en raison de + un nom|||||en raison de + un nom|||||
 misc-en vue de + infinitif|in order to ...|en vue de + infinitif|||||en vue de + infinitif|||||
 misc-faire des heures supplémentaires|over time|faire des heures supplémentaires|||||faire des heures supplémentaires|||||
@@ -48,7 +58,9 @@ misc-la cerise sur le gâteau|the cherry on top/ icing on the cake|la cerise sur
 misc-la descente aux enfers|descent into hell|la descente aux enfers|||||la descente aux enfers|||||
 misc-le SMIC (salaire minimum interprofessionel de croissance)|minimum wage|le SMIC (salaire minimum interprofessionel de croissance)|||||le SMIC (salaire minimum interprofessionel de croissance)|||||
 misc-le cas de figure|hypothesis|le cas de figure|||||le cas de figure|||||
+misc-le point d'exlamation|!|le point d'exlamation|||||le point d'exlamation|||||
 misc-le point de repère|point of reference|le point de repère|||||le point de repère|||||
+misc-le point de suspension|...|le point de suspension|||||le point de suspension|||||
 misc-mettre en valeur|to highlight|mettre en valeur|||||mettre en valeur|||||
 misc-mettre le feux aux poudres|to spark off a criss/ stir up a hornets' nest|mettre le feux aux poudres|||||mettre le feux aux poudres|||||
 misc-même son de cloche|same thing|même son de cloche|||||même son de cloche|||||
@@ -56,7 +68,9 @@ misc-savoir-faire|know how|savoir-faire|||||savoir-faire|||||
 misc-savoir-être|soft skills, life management skills|savoir-être|||||savoir-être|||||
 misc-si bien que + l'indicatif|so much so that ...|si bien que + l'indicatif|||||si bien que + l'indicatif|||||
 misc-sous prétexte que + l'indicatif|on the pretext that, arguing that|sous prétexte que + l'indicatif|||||sous prétexte que + l'indicatif|||||
+misc-tandis que|whereas/ while/ whilst|tandis que|||||tandis que|||||
 misc-vu que + l'indicatif|given that, seeing that|vu que + l'indicatif|||||vu que + l'indicatif|||||
+misc-à peine|barely/ scarcely/ hardly|à peine|||||à peine|||||
 misc-à tel point que + l'indicatif|so much so that ...|à tel point que + l'indicatif|||||à tel point que + l'indicatif|||||
 misc-étant donné que + l'indicatif|because, considering|étant donné que + l'indicatif|||||étant donné que + l'indicatif|||||
 noun-Suède|Noun: Sweden|Suède||la Suède||||||||
@@ -64,6 +78,8 @@ noun-Suédois|Noun: Swedish person|Suédois|le Suédois|la Suédoise||||||||
 noun-acquisition|Noun: acquisition|acquisition||l'acquisition||les acquisitions||||||
 noun-actualité|Noun: topic, (esp in plural) news/ current affairs|actualité||l'actualité||les actualités||||||
 noun-adepte|Noun: (also adj) expert|adepte|l'adepte|l'adepte|les adeptes|||||||
+noun-aile|Noun: wing|aile||l'aile||les ailes||||||
+noun-amande|Noun: almond|amande||l'amande||les amandes||||||
 noun-argument|Noun: argument|argument|l'argument||les arguments|||||||
 noun-assiduité|Noun: Attendance|assiduité||l'assiduité||les assiduités||||||
 noun-atout|Noun: advantage/ asset|atout|l'atout||les atouts|||||||
@@ -73,6 +89,7 @@ noun-autonomie|Noun: autonomy|autonomie||l'autonomie||les autonomies||||||
 noun-banqueroute|Noun: bankruptcy|banqueroute||la banqueroute||les banqueroutes||||||
 noun-barrière|Noun: barrier/ fence|barrière||la barrière||les barrières||||||
 noun-bulletin de paie|Noun: payslip|bulletin de paie|le bulletin de paie||les bulletins de paie|||||||
+noun-bêtise|Noun: foolishness, nonsense|bêtise||la bêtise||||||||
 noun-caddie|Noun: shopping cart|caddie|le caddie||les caddies|||||||
 noun-cadre|Noun: door/ picture frame, business executive|cadre|le cadre||les cadres|||||||
 noun-caissier|Noun: cashier|caissier|le caissier|la caissière|les caissiers|les caissières||||||
@@ -87,6 +104,7 @@ noun-complot|Noun: plot/ conspiracy|complot|le complot||les complots|||||||
 noun-congé|Noun: leave (time off, absence from work)|congé|le congé||les congés|||||||
 noun-copie|Noun: copy|copie||la copie||les copies||||||
 noun-crainte|Noun: fear/ fright|crainte||la crainte||les craintes||||||
+noun-dessous|Noun: underside/ bottom, (plural) women's underwear|dessous|le dessous|||||||||
 noun-doctorat|Noun: doctorate|doctorat|le doctorat||les doctorats|||||||
 noun-défiance|Noun: mistrust|défiance||la défiance||les défiances||||||
 noun-déontologie|Noun: professional ethics/ code|déontologie||la déontologie||les déontologies||||||
@@ -99,6 +117,7 @@ noun-expéditeur|Noun: Sender|expéditeur|l'expéditeur|l'expéditrice|les expé
 noun-faillite|Noun: bankruptcy|faillite||la faillite||les faillites||||||
 noun-façon|Noun: the way/ manner/ fashion|façon||la façon||les façons||||||
 noun-fil conducteur|Noun: power cable, (figurative) common thread|fil conducteur|le fil conducteur||les fils conducteurs|||||||
+noun-finalité|Noun: purpose/ end result|finalité||la finalité||les finalités||||||
 noun-flexibilité|Noun: flexibility|flexibilité||la flexibilité||les flexibilités||||||
 noun-fonctionnement|Noun: working/ functioning|fonctionnement|le fonctionnement||les fonctionnements|||||||
 noun-force|Noun: force, strength|force||la force||les forces||||||
@@ -108,20 +127,29 @@ noun-harcèlement|Noun: harassment|harcèlement|le harcèlement||les harcèlemen
 noun-implication|Noun: involvement, implication|implication||l'implication||les implications||||||
 noun-incitation|Noun: incitation|incitation||l'incitation||les incitations||||||
 noun-intégrité|Noun: integrity|intégrité||l'intégrité||les intégrités||||||
+noun-labeur|Noun: toil/ work|labeur|le labeur||les labeurs|||||||
 noun-lassitude|Noun: lethargy/ fatigue|lassitude||la lassitude||les lassitudes||||||
 noun-laïcité|Noun: secularity, secularism|laïcité||la laïcité||les laïcités||||||
 noun-licence|Noun: licence, bachelor's degree|licence||la licence||les licences||||||
 noun-licenciement|Noun: sacking/ redundancy|licenciement|le licenciement||les licenciements|||||||
+noun-mammifière|Noun: mammal|mammifière|le mammifère||les mammifères|||||||
 noun-master|Noun: master's degree|master|le master||les masters|||||||
 noun-matière|Noun: material, matter|matière||la matière||les matières||||||
 noun-méthodologie|Noun: methodology|méthodologie|le méthodologie||les méthodologies|||||||
+noun-noisette|Noun: hazelnut|noisette||la noisette||les noisettes||||||
+noun-noix|Noun: nut|noix||la noix||||||||
+noun-ornithorynque|Noun: platypus|ornithorynque|l'ornithorynque||les ornithorynques|||||||
+noun-paradoxe|Noun: paradox|paradoxe|le paradoxe||les paradoxes|||||||
 noun-passerelle|Noun: footbridge, (education) bridging program|passerelle||la passerelle||les passerelles||||||
 noun-phoque|Noun: seal|phoque|le phoque||les phoques|||||||
 noun-phénomène|Noun: phenomenon|phénomène|le phénomène||les phénomènes|||||||
 noun-pourboire|Noun: tip|pourboire|le pourboire||les pourboires|||||||
 noun-prime|Noun: reward/ prize/ bonus, premium (insurance)|prime||la prime||les primes||||||
+noun-promesse|Noun: promise|promesse||la promesse||les promesses||||||
 noun-propagande|Noun: propaganda|propagande||la propagande||les propagandes||||||
 noun-précarité|Noun: existence without financial security|précarité||la précarité||les précarités||||||
+noun-raccourci|Noun: shortcut|raccourci|le raccourci||les raccourcis|||||||
+noun-radin|Noun: cheapskate|radin|le radin||les radins|||||||
 noun-rumeur|Noun: rumour|rumeur||la rumeur||les rumeurs||||||
 noun-récupération|Noun: recovery, retrieval|récupération||la récupération||les récupérations||||||
 noun-référence|Noun: reference|référence||la référence||les références||||||
@@ -131,7 +159,9 @@ noun-sondage|Noun: poll/ survey|sondage|le sondage||les sondages|||||||
 noun-souplesse|Noun: flexibility|souplesse||la souplesse||les souplesses||||||
 noun-stratégie|Noun: strategy|stratégie||la stratégie||les stratégies||||||
 noun-syndicaliste|Noun: trade unionist|syndicaliste|le syndicaliste||les syndicalistes|||||||
+noun-thune|Noun: (slang) cash|thune||la thune||les thunes||||||
 noun-thèse|Noun: thesis|thèse||la thèse||les thèses||||||
+noun-tolérance|Noun: tolerance|tolérance||la tolérance||les tolérances||||||
 noun-tourmente|Noun: storm, (figurative) turmoil|tourmente||la tourmente||les tourmentes||||||
 noun-travail au noir|Noun: undeclared work|travail au noir|le travail au noir||les travaux au noir|||||||
 noun-tuteur|Noun: tutor|tuteur|le tuteur|la tutrice|les tuteurs|||||||
@@ -143,29 +173,39 @@ noun-équitation|Noun: Equestrianism/ act of horseriding|équitation||l'équitat
 noun-évitement|Noun: avoidance|évitement|l'évitement||les évitements|||||||
 verb-acquérir|Verb: to acquire, to purchase, (reflexive) to gain|acquérir||||||acquérir|acquis|acquérant||
 verb-adresser|Verb: (reflexive + à) to address (someone)|adresser||||||adresser|adressé|adressant||
+verb-arroser|Verb: to water, squirt, spray|arroser||||||arroser|arrosé|arrosant||
 verb-attester|Verb: to attest|attester||||||attester|attesté|attestant||
 verb-discerner|Verb: to discern|discerner||||||discerner|discerné|discernant||
 verb-distinguer|Verb: to distinguish|distinguer||||||distinguer|distingué|distinguant||
+verb-déborder|Verb: to overflow|déborder||||||déborder|débordé|débordant||
 verb-décrocher|Verb: to unhook, to pick up/ get one's hands on|décrocher||||||décrocher|décroché|décrochant||
 verb-défassuer|Verb: (reflexive) (card games) to discard|défassuer||||||défassuer|défassué|défassuant||
 verb-dégager|Verb: to free/ release, to bring out (an idea), (vulgar) go away!|dégager||||||dégager|dégagé|dégageant||
 verb-déléguer|Verb: to delegate|déléguer||||||déléguer|délégué|déléguant||
+verb-démarrer|Verb: to start up something (like a machine)|démarrer||||||démarrer|démarré|démarrant||
 verb-démissionner|Verb: to resign, dismiss|démissionner||||||démissionner|démissionné|démissionant||
 verb-dévoiler|Verb: to unveil|dévoiler||||||dévoiler|dévoilé|dévoilant||
 verb-encadrer|Verb: to surround/ outline, to frame|encadrer||||||encadrer|encadré|encadrant||
+verb-enjamber|Verb: to straddle|enjamber||||||enjamber|enjambé|enjambant||
 verb-expérimenter|Verb: to experiment, to experience|expérimenter||||||expérimenter|expérimenté|expérimentant||
+verb-fidéliser|Verb: to keep someone loyal|fidéliser||||||fidéliser|fidélisé|fidélisant||
 verb-filtrer|Verb: to filter|filtrer||||||filtrer|filtré|filtrant||
 verb-former|Verb: (generic) to form, to shape, to train|former||||||former|formé|formant||
 verb-fusionner|Verb: to fuse/ meld|fusionner||||||fusionner|fusionné|fusionnant||
 verb-garantir|Verb: to guarantee|garantir||||||garantir|garanti|garantissant||
+verb-guérir|Verb: to heal|guérir||||||guérir|guéri|guérissant||
 verb-gâcher|Verb: to ruin/ spoil/ wreck, to mess up|gâcher||||||gâcher|gâché|gâchant||
 verb-informer|Verb: to inform|informer||||||informer|informé|informant||
+verb-insister|Verb: to insist|insister||||||insister|insisté|insistant||
 verb-négocier|Verb: to negotiate|négocier||||||négocier|négocié|négociant||
 verb-orienter|Verb: to orientate, to guide|orienter||||||orienter|orienté|orientant||
 verb-piloter|Verb: to pilot a vehicle, to direct/ guide people|piloter||||||piloter|piloté|pilotant||
 verb-piocher|Verb: (card games) to draw from the deck, to pick from a set of options|piocher||||||piocher|pioché|piochant||
+verb-promouvoir|Verb: to promote|promouvoir||||||promouvoir|promu|promouvant||
 verb-recruter|Verb: to recruit|recruter||||||recruter|recruté|recrutant||
 verb-relier|Verb: to connect/ link/ relate to|relier||||||relier|relié|reliant||
+verb-renifler|Verb: to sniff/ smell|renifler||||||renifler|reniflé|reniflant||
+verb-repasser|Verb: to iron clothes, to redo, to pass by again|repasser||||||repasser|repassé|repassant||
 verb-repérer|Verb: to reference, to spot|repérer||||||repérer|repéré|repérant||
 verb-retracer|Verb: to recount/ tell|retracer||||||retracer|retracé|retraçant||
 verb-rédiger|Verb: to write in a well defined manner|rédiger||||||rédiger|rédigé|rédigeant||
@@ -173,5 +213,7 @@ verb-réparer|Verb: to repair|réparer||||||réparer|réparé|réparant||
 verb-révéler|Verb: to reveal|révéler||||||révéler|révélé|révélant||
 verb-sanctionner|Verb: to sanction (all meanings)|sanctionner||||||sanctionner|sanctionné|sanctionnant||
 verb-soulever|Verb: to raise/ lift up, to rouse (interest)|soulever||||||soulever|soulevé|soulevant||
+verb-subir|Verb: to suffer, to put up with|subir||||||subir|subi|subissant||
 verb-valider|Verb: to validate|valider||||||valider|validé|validant||
+verb-vanter|Verb: to praise, (reflexive) to boast/ brag|vanter||||||vanter|vanté|vantannt||
 verb-élaborer|Verb: to put together/ make up/ draw up, to elaborate, to supervise|élaborer||||||élaborer|élaboré|élaborant||
