@@ -1,0 +1,11 @@
+#separator:Pipe
+#columns:Phrase|CausesSubjonctif
+#notetype:Subjonctif Check
+#deck:French Courses::Misc::Subjonctif Check
+aimer|Yes!
+avoir l'espoir de|No!
+désirer|Yes!
+espérer|No!
+préférer|Yes!
+souhaiter|Yes!
+vouloir|Yes!

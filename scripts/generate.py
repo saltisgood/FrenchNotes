@@ -17,6 +17,7 @@ class FileType(StrEnum):
     VerbPreposition = "VerbPreposition"
     NounEndings = "NounEndings"
     VerbConjugations = "VerbConjugations"
+    SubjonctifCheck = "SubjonctifCheck"
 
 
 class ParsedFileType:
@@ -321,6 +322,32 @@ class VerbConjugations(ParsedFileType):
         ])
 
 
+@dataclass(frozen=True)
+class SubjonctifCheck(ParsedFileType):
+    FIELDS = ["Phrase", "CausesSubjonctif"]
+    NOTE_TYPE = "Subjonctif Check"
+    DECK_NAME = "Subjonctif Check"
+
+    phrase: str
+    causes_subjonctif: str
+
+    @property
+    def has_subjonctif(self):
+        return self.causes_subjonctif.lower() == "y"
+
+    def to_dict(self):
+        return OrderedDict([
+            ("Phrase", self.phrase),
+            ("CausesSubjonctif", "Yes!" if self.has_subjonctif else "No!"),
+        ])
+    
+    def to_md_dict(self):
+        return OrderedDict([
+            ("Phrase", self.phrase),
+            ("CausesSubjonctif", "Yes" if self.has_subjonctif else "No"),
+        ])
+
+
 class Generator(Protocol):
     def generate_files(self, src_dir: Path, dest_dir: Path):
         for d in src_dir.iterdir():
@@ -486,6 +513,8 @@ class AnkiGenerator(Generator):
             self.generate_parsed_file(deck_folder, dest_deck_dir / "noun-endings.txt", NounEndings, files)
         elif type == FileType.VerbConjugations:
             self.generate_parsed_file(deck_folder, dest_deck_dir / "verb-conjugations.txt", VerbConjugations, files)
+        elif type == FileType.SubjonctifCheck:
+            self.generate_parsed_file(deck_folder, dest_deck_dir / "subjonctif-check.txt", SubjonctifCheck, files)
         else:
             raise NotImplementedError(f"File type {type} is not supported for Anki generation.")
 
@@ -571,6 +600,8 @@ class MarkdownGenerator(Generator):
             self.generate_parsed_file(dest_deck_dir / "noun-endings.md", NounEndings, files)
         elif type == FileType.VerbConjugations:
             self.generate_parsed_file(dest_deck_dir / "verb-conjugations.md", VerbConjugations, files)
+        elif type == FileType.SubjonctifCheck:
+            self.generate_parsed_file(dest_deck_dir / "subjonctif-check.md", SubjonctifCheck, files)
         else:
             print(f"File type {type} is not supported for Markdown generation.")
 
