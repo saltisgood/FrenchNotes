@@ -1,0 +1,38 @@
+#separator:Pipe
+#columns:Key|Basic meanings of word|Word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Example sentences|Wiktionary
+#notetype:English to French
+#deck:French Courses::B2.2::English to French Vocab
+adj-autoproclamé|Adjective: self-proclaimed|autoproclamé|autoproclamé|autoproclamée|autoproclamés|autoproclamées||||||
+adj-branché|Adjective: trendy|branché|branché|branchée|branchés|branchées||||||
+adj-criard|Adjective: (sound) shrill, (colour) garish|criard|criard|criarde|criards|criardes||||||
+adj-dominical|Adjective: related to Sunday|dominical|dominical|dominicale|dominicaux|dominicales||||||
+adj-fade|Adjective: bland, tasteless|fade|fade||fades|||||||
+adj-omniprésent|Adjective: omnipresent|omniprésent|omniprésent|omniprésente|omniprésents|omniprésentes||||||
+adj-phobique|Adjective: phobic|phobique|phobique||phobiques|||||||
+adj-ringard|Adjective: old fashioned, cheesy|ringard|ringard|ringarde|ringards|ringardes||||||
+adj-tapageur|Adjective: rowdy/ noisy, garish/ gaudy|tapageur|tapageur|tapageuse|tapageurs|tapageuses||||||
+misc-l'habit ne fait pas le moine|the clothing doesn't make the monk (you can't judge a book by its cover)|l'habit ne fait pas le moine|||||l'habit ne fait pas le moine|||||
+misc-tel|(conjunction) like/ as, such as|tel|||||tel|||||
+noun-apparence|Noun: appearance|apparence||l'apparence||les apparances||||||
+noun-aviron|Noun: (uncountable) rowing, oar|aviron|l'aviron||les avirons|||||||
+noun-bonnet|Noun: beanie, hat|bonnet|le bonnet||les bonnets|||||||
+noun-bucheron|Noun: lumberjack|bucheron|le bucheron||les bucherons|||||||
+noun-fringue|Noun: piece of clothing|fringue|le fringue||les fringues|||||||
+noun-friperie|Noun: used clothes, second hand shop|friperie||la friperie||les friperies||||||
+noun-fripe|Noun: rag, second hand clothes|fripe||la fripe||les fripes||||||
+noun-habit|Noun: article of clothing|habit|l'habit||les habits|||||||
+noun-moine|Noun: monk|moine|le moine||les moines|||||||
+noun-nippe|Noun: cheap worn out clothing|nippe||la nippe||les nippes||||||
+noun-noeud papillon|Noun: bowtie|noeud papillon|le noeud papillon||les noeuds papillon|||||||
+noun-noeud|Noun: knot|noeud|le noeud||les noeuds|||||||
+noun-ourlet|Noun: hem|ourlet|l'ourlet||les ourlets|||||||
+noun-pelle|Noun: shovel|pelle||la pelle||les pelles||||||
+noun-sape|Noun: fashion/ style, (plural) outfit|sape||la sape||les sapes||||||
+noun-tendance|Noun: tendency|tendance||la tendance||les tendances||||||
+verb-brancher|Verb: to plug in (an appliance)|brancher||||||brancher|branché|branchant||
+verb-démoder|Verb: (reflexive) to go out of fashion|démoder||||||démoder|démodé|démodant||
+verb-emménager|Verb: to move in|emménager||||||emménager|emménagé|emménageant||
+verb-incommoder|Verb: to both/ disconcert, to inconvenience|incommoder||||||incommoder|incommodé|incommodant||
+verb-nuire|Verb: to harm|nuire||||||nuire|nui|nuisant||
+verb-ramer|Verb: to row|ramer||||||ramer|ramé|ramant||
+verb-surplomber|Verb: to overhang, overlook, hang over|surplomber||||||surplomber|surplombé|surplombant||
