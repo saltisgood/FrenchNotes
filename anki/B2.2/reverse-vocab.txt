@@ -4,35 +4,58 @@
 #deck:French Courses::B2.2::English to French Vocab
 adj-autoproclamé|Adjective: self-proclaimed|autoproclamé|autoproclamé|autoproclamée|autoproclamés|autoproclamées||||||
 adj-branché|Adjective: trendy|branché|branché|branchée|branchés|branchées||||||
+adj-courant|Adjective: current/ present, fluent|courant|courant|courante|courants|courantes||||||
 adj-criard|Adjective: (sound) shrill, (colour) garish|criard|criard|criarde|criards|criardes||||||
 adj-dominical|Adjective: related to Sunday|dominical|dominical|dominicale|dominicaux|dominicales||||||
+adj-déjanté|Adjective: crazy, eccentric|déjanté|déjanté|déjantée|déjantés|déjantées||||||
 adj-fade|Adjective: bland, tasteless|fade|fade||fades|||||||
+adj-fondamental|Adjective: fundamental|fondamental|fondamental|fondamentale|fondamentaux|fondamentales||||||
+adj-incontournable|Adjective: unmissable|incontournable|incontournable||incontournables|||||||
+adj-indissociable|Adjective: inseparable|indissociable|indissociable||indissociables|||||||
 adj-omniprésent|Adjective: omnipresent|omniprésent|omniprésent|omniprésente|omniprésents|omniprésentes||||||
 adj-phobique|Adjective: phobic|phobique|phobique||phobiques|||||||
+adj-pur|Adjective: pure|pur|pur|pure|purs|pures||||||
 adj-ringard|Adjective: old fashioned, cheesy|ringard|ringard|ringarde|ringards|ringardes||||||
 adj-tapageur|Adjective: rowdy/ noisy, garish/ gaudy|tapageur|tapageur|tapageuse|tapageurs|tapageuses||||||
+adv-néanmoins|Adverb: however, nonetheless|néanmoins|||||néanmoins|||||
+misc-compte tenu de|given/ considering/ in light of|compte tenu de|||||compte tenu de|||||
+misc-faire fi de|to turn one's nose up at (disdain), to pay no heed to (disregard)|faire fi de|||||faire fi de|||||
 misc-l'habit ne fait pas le moine|the clothing doesn't make the monk (you can't judge a book by its cover)|l'habit ne fait pas le moine|||||l'habit ne fait pas le moine|||||
 misc-tel|(conjunction) like/ as, such as|tel|||||tel|||||
+misc-tenir compte|to take into account|tenir compte|||||tenir compte|||||
+noun-allure|Noun: appearance|allure||l'allure||les allures||||||
 noun-apparence|Noun: appearance|apparence||l'apparence||les apparances||||||
+noun-audace|Noun: audacity|audace||l'audace||les audaces||||||
 noun-aviron|Noun: (uncountable) rowing, oar|aviron|l'aviron||les avirons|||||||
 noun-bonnet|Noun: beanie, hat|bonnet|le bonnet||les bonnets|||||||
 noun-bucheron|Noun: lumberjack|bucheron|le bucheron||les bucherons|||||||
+noun-coupure|Noun: the act of cutting/ a cut, interruption/ power cut|coupure||la coupure||les coupures||||||
+noun-courant|Noun: current (water, electricity)|courant|le courant||les courants|||||||
+noun-excentricité|Noun: eccentric behaviour|excentricité||l'excentricité||||||||
 noun-fringue|Noun: piece of clothing|fringue|le fringue||les fringues|||||||
 noun-friperie|Noun: used clothes, second hand shop|friperie||la friperie||les friperies||||||
 noun-fripe|Noun: rag, second hand clothes|fripe||la fripe||les fripes||||||
+noun-germe|Noun: germ, seed|germe|le germe||les germes|||||||
 noun-habit|Noun: article of clothing|habit|l'habit||les habits|||||||
+noun-misère|Noun: misery, poverty|misère||la misère||les misères||||||
 noun-moine|Noun: monk|moine|le moine||les moines|||||||
 noun-nippe|Noun: cheap worn out clothing|nippe||la nippe||les nippes||||||
 noun-noeud papillon|Noun: bowtie|noeud papillon|le noeud papillon||les noeuds papillon|||||||
 noun-noeud|Noun: knot|noeud|le noeud||les noeuds|||||||
 noun-ourlet|Noun: hem|ourlet|l'ourlet||les ourlets|||||||
 noun-pelle|Noun: shovel|pelle||la pelle||les pelles||||||
+noun-reflet|Noun: reflection|reflet|le reflet||les reflets|||||||
 noun-sape|Noun: fashion/ style, (plural) outfit|sape||la sape||les sapes||||||
+noun-spontanéité|Noun: spontaneity|spontanéité||la spontanéité||les spontanéités||||||
 noun-tendance|Noun: tendency|tendance||la tendance||les tendances||||||
+noun-élégance|Noun: elegance|élégance||l'élégance||||||||
+verb-accorder|Verb: (reflexive) to agree, to link to/ be related to|accorder||||||accorder|accordé|accordant||
 verb-brancher|Verb: to plug in (an appliance)|brancher||||||brancher|branché|branchant||
 verb-démoder|Verb: (reflexive) to go out of fashion|démoder||||||démoder|démodé|démodant||
 verb-emménager|Verb: to move in|emménager||||||emménager|emménagé|emménageant||
 verb-incommoder|Verb: to both/ disconcert, to inconvenience|incommoder||||||incommoder|incommodé|incommodant||
 verb-nuire|Verb: to harm|nuire||||||nuire|nui|nuisant||
+verb-priver|Verb: to deprive|priver||||||priver|privé|privant||
 verb-ramer|Verb: to row|ramer||||||ramer|ramé|ramant||
 verb-surplomber|Verb: to overhang, overlook, hang over|surplomber||||||surplomber|surplombé|surplombant||
+verb-éblouir|Verb: to dazzle|éblouir||||||éblouir|ébloui|éblouissant||

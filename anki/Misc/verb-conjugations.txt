@@ -8,7 +8,7 @@ finir-Indicatif présent|2nd|finir|Indicatif présent|finis|finis|finit|finisson
 finir-Indicatif imparfait|2nd|finir|Indicatif imparfait|finissais|finissais|finissait|finissions|finissiez|finissaient||Form the new radical by taking the Nous form of indicatif présent|https://fr.wiktionary.org/wiki/Conjugaison:fran%C3%A7ais/Deuxi%C3%A8me_groupe
 aller-Indicatif présent|3rd|aller|Indicatif présent|vais|vas|va|allons|allez|vont|||https://fr.wiktionary.org/wiki/Conjugaison:fran%C3%A7ais/aller
 aller-Indicatif imparfait|3rd|aller|Indicatif imparfait|allais|allais|allait|allions|alliez|allaient|||https://fr.wiktionary.org/wiki/Conjugaison:fran%C3%A7ais/aller
-aller-Indicatif passé composé|3rd|aller|Indicatif passé composé|||||||(être) allé||https://fr.wiktionary.org/wiki/Conjugaison:fran%C3%A7ais/aller
+aller-Indicatif passé composé|3rd|aller|Indicatif passé composé|||||||||https://fr.wiktionary.org/wiki/Conjugaison:fran%C3%A7ais/aller
 aller-Subjonctif|3rd|aller|Subjonctif|aille|ailles|aille|allions|alliez|aillent|||https://fr.wiktionary.org/wiki/Conjugaison:fran%C3%A7ais/aller
 avoir-Subjonctif|3rd|avoir|Subjonctif|aie|aies|ait|ayons|ayez|aient|||https://fr.wiktionary.org/wiki/Conjugaison:fran%C3%A7ais/avoir
 être-Subjonctif|3rd|être|Subjonctif|sois|sois|soit|soyons|soyez|soient|||https://fr.wiktionary.org/wiki/Conjugaison:fran%C3%A7ais/%C3%AAtre
