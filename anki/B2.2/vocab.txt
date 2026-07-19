@@ -10,12 +10,18 @@ adj-dominical|dominical|dominical|dominicale|dominicaux|dominicales|||||Adjectiv
 adj-déjanté|déjanté|déjanté|déjantée|déjantés|déjantées|||||Adjective: crazy, eccentric||
 adj-déraisonnable|déraisonnable|déraisonnable||déraisonnables||||||Adjective: unreasonable||
 adj-fade|fade|fade||fades||||||Adjective: bland, tasteless||
+adj-farouche|farouche|farouche||farouches||||||Adjective: shy, stubborn||
 adj-fondamental|fondamental|fondamental|fondamentale|fondamentaux|fondamentales|||||Adjective: fundamental||
+adj-haut de gamme|haut de gamme|haut de gamme||||||||Adjective: upscale/ high-end||
 adj-incontournable|incontournable|incontournable||incontournables||||||Adjective: unmissable||
 adj-indissociable|indissociable|indissociable||indissociables||||||Adjective: inseparable||
 adj-indécent|indécent|indécent|indécente|indécents|indécentes|||||Adjective: indecent||
+adj-indéniable|indéniable|indéniable||indéniables||||||Adjective: undeniable||
+adj-influent|influent|influent|influente|influents|influentes|||||Adjective: influential||
+adj-intemporel|intemporel|intemporel|intemporelle|intemporels|intemporelles|||||Adjective: timeless||
 adj-légitime|légitime|légitime||légitimes||||||Adjective: legitimate||
 adj-omniprésent|omniprésent|omniprésent|omniprésente|omniprésents|omniprésentes|||||Adjective: omnipresent||
+adj-outré|outré|outré|outrée|outrés|outrées|||||Adjective: excessive, outrageous, outraged||
 adj-phobique|phobique|phobique||phobiques||||||Adjective: phobic||
 adj-pur|pur|pur|pure|purs|pures|||||Adjective: pure||
 adj-ringard|ringard|ringard|ringarde|ringards|ringardes|||||Adjective: old fashioned, cheesy||
@@ -26,19 +32,25 @@ adv-néanmoins|néanmoins|||||néanmoins||||Adverb: however, nonetheless||
 misc-compte tenu de|compte tenu de|||||compte tenu de||||given/ considering/ in light of||
 misc-faire fi de|faire fi de|||||faire fi de||||to turn one's nose up at (disdain), to pay no heed to (disregard)||
 misc-l'habit ne fait pas le moine|l'habit ne fait pas le moine|||||l'habit ne fait pas le moine||||the clothing doesn't make the monk (you can't judge a book by its cover)||
+misc-le dernier cri|le dernier cri|||||le dernier cri||||the latest thing/ latest fashion||
 misc-quoique|quoique|||||quoique||||(conjunction) (+ subjunctive) though/ although||
 misc-tant que|tant que|||||tant que||||(conjunction) as long as||
 misc-tel|tel|||||tel||||(conjunction) like/ as, such as||
 misc-tenir compte|tenir compte|||||tenir compte||||to take into account||
+noun-Cendrillon|Cendrillon||la Cendrillon|||||||Noun: Cinderella||
 noun-abus|abus|l'abus||||||||Noun: abuse||
+noun-algue|algue||l'algue||les algues|||||Noun: algae||
 noun-allure|allure||l'allure||les allures|||||Noun: appearance||
 noun-apparence|apparence||l'apparence||les apparances|||||Noun: appearance||
 noun-audace|audace||l'audace||les audaces|||||Noun: audacity||
 noun-aviron|aviron|l'aviron||les avirons||||||Noun: (uncountable) rowing, oar||
+noun-barquette|barquette||la barquette||les barquettes|||||Noun: punnet||
 noun-bonnet|bonnet|le bonnet||les bonnets||||||Noun: beanie, hat||
+noun-broche|broche||la broche||les broches|||||Noun: brooch||
 noun-broutille|broutille||la broutille||les broutilles|||||Noun: trifle (inconsequential thing)||
 noun-bucheron|bucheron|le bucheron||les bucherons||||||Noun: lumberjack||
 noun-bétail|bétail|le bétail||les bétails||||||Noun: livestock||
+noun-chiffon|chiffon|le chiffon||les chiffons||||||Noun: rag||
 noun-coupure|coupure||la coupure||les coupures|||||Noun: the act of cutting/ a cut, interruption/ power cut||
 noun-courant|courant|le courant||les courants||||||Noun: current (water, electricity)||
 noun-dangerosité|dangerosité||la dangerosité||les dangerosités|||||Noun: dangerousness||
@@ -48,19 +60,26 @@ noun-excentricité|excentricité||l'excentricité|||||||Noun: eccentric behaviou
 noun-fringue|fringue||la fringue||les fringues|||||Noun: piece of clothing||
 noun-friperie|friperie||la friperie||les friperies|||||Noun: used clothes, second hand shop||
 noun-fripe|fripe||la fripe||les fripes|||||Noun: rag, second hand clothes||
+noun-gamme|gamme||la gamme||les gammes|||||Noun: range/ series, (music) scale||
 noun-germe|germe|le germe||les germes||||||Noun: germ, seed||
 noun-habit|habit|l'habit||les habits||||||Noun: article of clothing||
+noun-investissement|investissement|l'investissement||les investissements||||||Noun: investment||
 noun-lèvre|lèvre||la lèvre||les lèvres|||||Noun: lip||
 noun-misère|misère||la misère||les misères|||||Noun: misery, poverty||
+noun-moeurs|moeurs||||les moeurs|||||Noun: customs||
 noun-moine|moine|le moine||les moines||||||Noun: monk||
 noun-niche|niche||la niche||les niches|||||Noun: niche||
 noun-nippe|nippe||la nippe||les nippes|||||Noun: cheap worn out clothing||
 noun-noeud papillon|noeud papillon|le noeud papillon||les noeuds papillon||||||Noun: bowtie||
 noun-noeud|noeud|le noeud||les noeuds||||||Noun: knot||
+noun-occasion|occasion||l'occasion||les occasions|||||Noun: occasion, cause, secondhand item||
 noun-ourlet|ourlet|l'ourlet||les ourlets||||||Noun: hem||
 noun-pelle|pelle||la pelle||les pelles|||||Noun: shovel||
 noun-poireau|poireau|le poireau||les poireaux||||||Noun: leek||
+noun-problématique|problématique||la problématique||les problématiques|||||Noun: question/ issue||
+noun-prévision|prévision||la prévision||les prévisions|||||Noun: forecast||
 noun-reflet|reflet|le reflet||les reflets||||||Noun: reflection||
+noun-refus|refus|le refus||||||||Noun: refusal||
 noun-sape|sape||la sape||les sapes|||||Noun: fashion/ style, (plural) outfit||
 noun-sauterelle|sauterelle||la sauterelle||les sauterelles|||||Noun: grasshopper||
 noun-souffrance|souffrance||la souffrance||les souffrances|||||Noun: sufferance/ pain||
@@ -68,17 +87,23 @@ noun-spontanéité|spontanéité||la spontanéité||les spontanéités|||||Noun:
 noun-tendance|tendance||la tendance||les tendances|||||Noun: tendency||
 noun-élégance|élégance||l'élégance|||||||Noun: elegance||
 verb-accorder|accorder||||||accorder|accordé|accordant|Verb: (reflexive) to agree, to link to/ be related to||
+verb-arranger|arranger||||||arranger|arrangé|arrangeant|Verb: to arrange, to suit/ be convenient||
 verb-bousculer|bousculer||||||bousculer|bousculé|bousculant|Verb: to shove||
 verb-brancher|brancher||||||brancher|branché|branchant|Verb: to plug in (an appliance)||
 verb-dresser|dresser||||||dresser|dressé|dressant|Verb: to raise, erect, build, draw up, lay out||
+verb-défiler|défiler||||||défiler|défilé|défilant|Verb: to parade/ march, to unfold/ happen||
 verb-démoder|démoder||||||démoder|démodé|démodant|Verb: (reflexive) to go out of fashion||
 verb-emménager|emménager||||||emménager|emménagé|emménageant|Verb: to move in||
+verb-empiler|empiler||||||empiler|empilé|empilant|Verb: to pile up||
+verb-entasser|entasser||||||entasser|entassé|entassant|Verb: to pile objects||
 verb-essuyer|essuyer||||||essuyer|essuyé|essuyant|Verb: to wipe||
 verb-incommoder|incommoder||||||incommoder|incommodé|incommodant|Verb: to both/ disconcert, to inconvenience||
 verb-mincir|mincir||||||mincir|minci|mincissant|Verb: to make thinner||
 verb-nuire|nuire||||||nuire|nui|nuisant|Verb: to harm||
 verb-priver|priver||||||priver|privé|privant|Verb: to deprive||
+verb-propager|propager||||||propager|propagé|propageant|Verb: to propagate/ spread||
 verb-ramer|ramer||||||ramer|ramé|ramant|Verb: to row||
+verb-revendiquer|revendiquer||||||revendiquer|revendiqué|revendiquant|Verb: to lay claim to, (law) to demand, to take on responsibility||
 verb-régner|régner||||||régner|régné|régnant|Verb: to reign||
 verb-résider|résider||||||résider|résidé|résidant|Verb: to reside/ live||
 verb-surplomber|surplomber||||||surplomber|surplombé|surplombant|Verb: to overhang, overlook, hang over||
