@@ -2,6 +2,7 @@
 ## Adjectives
 | Word | Masculine Singular | Feminine Singular | Masculine Plural | Feminine Plural | Basic meanings of word | Example sentences | Wiktionary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| acide | acide |  | acides |  | sour |  | [Link](<https://en.wiktionary.org/wiki/acide#French>) |
 | amer | amer | amère | amers | amères | bitter, sour |  | [Link](<https://en.wiktionary.org/wiki/amer#French>) |
 | ample | ample |  | amples |  | ample/ plentiful, (clothes) loose |  | [Link](<https://en.wiktionary.org/wiki/ample#French>) |
 | argenté | argenté | argentée | argentés | argentées | silvery |  | [Link](<https://en.wiktionary.org/wiki/argenté#French>) |
@@ -10,6 +11,7 @@
 | doré | doré | dorée | dorés | dorées | golden |  | [Link](<https://en.wiktionary.org/wiki/doré#French>) |
 | impressionné | impressionné | impressionnée | impressionnés | impressionnées | impressed |  | [Link](<https://en.wiktionary.org/wiki/impressionné#French>) |
 | mou | mou | molle | mous | molles | soft/ squishy, comfortable |  | [Link](<https://en.wiktionary.org/wiki/mou#French>) |
+| nature | nature |  | natures |  | plain |  | [Link](<https://en.wiktionary.org/wiki/nature#French>) |
 | serré | serré | serrée | serrés | serrées | tight |  | [Link](<https://en.wiktionary.org/wiki/serré#French>) |
 | tendre | tendre |  | tendres |  | tender |  | [Link](<https://en.wiktionary.org/wiki/tendre#French>) |
 ## Misc
@@ -26,6 +28,7 @@
 ## Nouns
 | Word | Masculine Singular | Feminine Singular | Masculine Plural | Feminine Plural | Basic meanings of word | Example sentences | Wiktionary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| agneau | l'agneau |  | les agneaux |  | lamb |  | [Link](<https://en.wiktionary.org/wiki/agneau#French>) |
 | arobase | l'arobase |  | les arobases |  | the @ symbol |  | [Link](<https://en.wiktionary.org/wiki/arobase#French>) |
 | chaos | le chaos |  |  |  | chaos |  | [Link](<https://en.wiktionary.org/wiki/chaos#French>) |
 | chou | le chou |  | les choux |  | cabbage |  | [Link](<https://en.wiktionary.org/wiki/chou#French>) |
@@ -34,17 +37,20 @@
 | connexion |  | la connexion |  | les connexions | connection, login |  | [Link](<https://en.wiktionary.org/wiki/connexion#French>) |
 | contraire | le contraire |  | les contraires |  | (also adj) opposite |  | [Link](<https://en.wiktionary.org/wiki/contraire#French>) |
 | désastre | le désastre |  | les désastres |  | disaster |  | [Link](<https://en.wiktionary.org/wiki/désastre#French>) |
+| dinde |  | la dinde |  | les dindes | turkey |  | [Link](<https://en.wiktionary.org/wiki/dinde#French>) |
 | douane |  | la douane |  | les douanes | customs |  | [Link](<https://en.wiktionary.org/wiki/douane#French>) |
 | enthousiasme | l'enthousiasme |  | les enthousiasmes |  | enthusiasm |  | [Link](<https://en.wiktionary.org/wiki/enthousiasme#French>) |
 | fourrure |  | la fourrure |  | les fourrures | fur |  | [Link](<https://en.wiktionary.org/wiki/fourrure#French>) |
 | gymnase | le gymnase |  | les gymnases |  | gymnasium |  | [Link](<https://en.wiktionary.org/wiki/gymnase#French>) |
 | hasard | le hasard |  | les hasards |  | chance, coincidence, hazard |  | [Link](<https://en.wiktionary.org/wiki/hasard#French>) |
+| humour | l'humour |  | les humours |  | humour |  | [Link](<https://en.wiktionary.org/wiki/humour#French>) |
 | impression |  | l'impression |  | les impressions | impression/ the overall feel |  | [Link](<https://en.wiktionary.org/wiki/impression#French>) |
 | joue |  | la joue |  | les joues | cheek |  | [Link](<https://en.wiktionary.org/wiki/joue#French>) |
 | laitue |  | la laitue |  | les laitues | lettuce |  | [Link](<https://en.wiktionary.org/wiki/laitue#French>) |
 | mal | le mal |  | les maux |  | trouble/ difficulty, evil |  | [Link](<https://en.wiktionary.org/wiki/mal#French>) |
 | manche |  | la manche |  | les manches | sleeve |  | [Link](<https://en.wiktionary.org/wiki/manche#French>) |
 | mayonnaise |  | la mayonnaise |  | les mayonnaises | mayo |  | [Link](<https://en.wiktionary.org/wiki/mayonnaise#French>) |
+| nappe |  | la nappe |  | les nappes | tablecloth |  | [Link](<https://en.wiktionary.org/wiki/nappe#French>) |
 | nom d'utilisateur | le nom d'utilisateur |  | les noms d'utilisateur |  | username |  | [Link](<https://en.wiktionary.org/wiki/nom d'utilisateur#French>) |
 | pois | le pois |  | les pois |  | pea, polka dot |  | [Link](<https://en.wiktionary.org/wiki/pois#French>) |
 | publicité |  | la publicité |  | les publicités | advertising |  | [Link](<https://en.wiktionary.org/wiki/publicité#French>) |
@@ -56,8 +62,11 @@
 | soutien-gorge | le soutien-gorge |  | les soutiens-gorge |  | bra |  | [Link](<https://en.wiktionary.org/wiki/soutien-gorge#French>) |
 | statue |  | la statue |  | les statues | statue |  | [Link](<https://en.wiktionary.org/wiki/statue#French>) |
 | sucrerie |  | la sucrerie |  | les sucreries | (typically plural) sweet/ candy |  | [Link](<https://en.wiktionary.org/wiki/sucrerie#French>) |
+| tisane |  | la tisane |  | les tisanes | herbal tea |  | [Link](<https://en.wiktionary.org/wiki/tisane#French>) |
 | tissu | le tissu |  | les tissus |  | fabric |  | [Link](<https://en.wiktionary.org/wiki/tissu#French>) |
 | tube | le tube |  | les tubes |  | tube, pipe |  | [Link](<https://en.wiktionary.org/wiki/tube#French>) |
+| veau | le veau |  | les veaux |  | calf, veal |  | [Link](<https://en.wiktionary.org/wiki/veau#French>) |
+| vinaigre | le vinaigre |  | les vinaigres |  | vinegar |  | [Link](<https://en.wiktionary.org/wiki/vinaigre#French>) |
 ## Verbs
 | Word | Infinitive | Past Participle | Present Participle | Basic meanings of word | Example sentences | Wiktionary |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -68,5 +77,6 @@
 | fouetter | fouetter | fouetté | fouettant | to whip, to whisk |  | [Link](<https://en.wiktionary.org/wiki/fouetter#French>) |
 | froncer | froncer | froncé | fronçant | to scowl |  | [Link](<https://en.wiktionary.org/wiki/froncer#French>) |
 | mâcher | mâcher | mâché | mâchant | to chew |  | [Link](<https://en.wiktionary.org/wiki/mâcher#French>) |
+| peigner | peigner | peigné | peignant | to comb |  | [Link](<https://en.wiktionary.org/wiki/peigner#French>) |
 | ruiner | ruiner | ruiné | ruinant | to ruin |  | [Link](<https://en.wiktionary.org/wiki/ruiner#French>) |
 | surveiller | surveiller | surveillé | surveillant | to monitor/ watch |  | [Link](<https://en.wiktionary.org/wiki/surveiller#French>) |
