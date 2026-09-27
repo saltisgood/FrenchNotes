@@ -2,6 +2,7 @@
 ## Adjectives
 | Word | Masculine Singular | Feminine Singular | Masculine Plural | Feminine Plural | Basic meanings of word | Example sentences | Wiktionary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| à jour | à jour |  |  |  | up to date/ current |  | [Link](<https://en.wiktionary.org/wiki/à jour#French>) |
 | acide | acide |  | acides |  | sour |  | [Link](<https://en.wiktionary.org/wiki/acide#French>) |
 | amer | amer | amère | amers | amères | bitter, sour |  | [Link](<https://en.wiktionary.org/wiki/amer#French>) |
 | ample | ample |  | amples |  | ample/ plentiful, (clothes) loose |  | [Link](<https://en.wiktionary.org/wiki/ample#French>) |
@@ -14,6 +15,10 @@
 | nature | nature |  | natures |  | plain |  | [Link](<https://en.wiktionary.org/wiki/nature#French>) |
 | serré | serré | serrée | serrés | serrées | tight |  | [Link](<https://en.wiktionary.org/wiki/serré#French>) |
 | tendre | tendre |  | tendres |  | tender |  | [Link](<https://en.wiktionary.org/wiki/tendre#French>) |
+## Adverbs
+| Word | Adverb | Basic meanings of word | Example sentences | Wiktionary |
+| --- | --- | --- | --- | --- |
+| dernièrement | dernièrement | lately |  | [Link](<https://en.wiktionary.org/wiki/dernièrement#French>) |
 ## Misc
 | Word | Adverb | Basic meanings of word | Example sentences | Wiktionary |
 | --- | --- | --- | --- | --- |
@@ -21,7 +26,9 @@
 | avoir l'impression | avoir l'impression | have the feeling |  | [Link](<https://en.wiktionary.org/wiki/avoir l'impression#French>) |
 | faire un tour | faire un tour | take a walk |  | [Link](<https://en.wiktionary.org/wiki/faire un tour#French>) |
 | froncer les sourcils | froncer les sourcils | to furrow one's brow |  | [Link](<https://en.wiktionary.org/wiki/froncer les sourcils#French>) |
+| mettre à jour | mettre à jour | to update |  | [Link](<https://en.wiktionary.org/wiki/mettre à jour#French>) |
 | mettre la table | mettre la table | to set the table |  | [Link](<https://en.wiktionary.org/wiki/mettre la table#French>) |
+| mettre sur pause | mettre sur pause | to pause |  | [Link](<https://en.wiktionary.org/wiki/mettre sur pause#French>) |
 | par hasard | par hasard | at random/ by chance |  | [Link](<https://en.wiktionary.org/wiki/par hasard#French>) |
 | se connecter à internet | se connecter à internet | connect to the internet |  | [Link](<https://en.wiktionary.org/wiki/se connecter à internet#French>) |
 | les restes | les restes | leftovers |  | [Link](<https://en.wiktionary.org/wiki/les restes#French>) |
@@ -30,6 +37,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | agneau | l'agneau |  | les agneaux |  | lamb |  | [Link](<https://en.wiktionary.org/wiki/agneau#French>) |
 | arobase | l'arobase |  | les arobases |  | the @ symbol |  | [Link](<https://en.wiktionary.org/wiki/arobase#French>) |
+| bâillement | le bâillement |  | les bâillements |  | yawn |  | [Link](<https://en.wiktionary.org/wiki/bâillement#French>) |
 | chaos | le chaos |  |  |  | chaos |  | [Link](<https://en.wiktionary.org/wiki/chaos#French>) |
 | chou | le chou |  | les choux |  | cabbage |  | [Link](<https://en.wiktionary.org/wiki/chou#French>) |
 | col | le col |  | les cols |  | collar |  | [Link](<https://en.wiktionary.org/wiki/col#French>) |
@@ -47,11 +55,13 @@
 | impression |  | l'impression |  | les impressions | impression/ the overall feel |  | [Link](<https://en.wiktionary.org/wiki/impression#French>) |
 | joue |  | la joue |  | les joues | cheek |  | [Link](<https://en.wiktionary.org/wiki/joue#French>) |
 | laitue |  | la laitue |  | les laitues | lettuce |  | [Link](<https://en.wiktionary.org/wiki/laitue#French>) |
+| logiciel | le logiciel |  | les logiciels |  | software |  | [Link](<https://en.wiktionary.org/wiki/logiciel#French>) |
 | mal | le mal |  | les maux |  | trouble/ difficulty, evil |  | [Link](<https://en.wiktionary.org/wiki/mal#French>) |
 | manche |  | la manche |  | les manches | sleeve |  | [Link](<https://en.wiktionary.org/wiki/manche#French>) |
 | mayonnaise |  | la mayonnaise |  | les mayonnaises | mayo |  | [Link](<https://en.wiktionary.org/wiki/mayonnaise#French>) |
 | nappe |  | la nappe |  | les nappes | tablecloth |  | [Link](<https://en.wiktionary.org/wiki/nappe#French>) |
 | nom d'utilisateur | le nom d'utilisateur |  | les noms d'utilisateur |  | username |  | [Link](<https://en.wiktionary.org/wiki/nom d'utilisateur#French>) |
+| pièce jointe |  | la pièce jointe |  | les pièces jointes | attachment (email) |  | [Link](<https://en.wiktionary.org/wiki/pièce jointe#French>) |
 | pois | le pois |  | les pois |  | pea, polka dot |  | [Link](<https://en.wiktionary.org/wiki/pois#French>) |
 | publicité |  | la publicité |  | les publicités | advertising |  | [Link](<https://en.wiktionary.org/wiki/publicité#French>) |
 | rayure |  | la rayure |  | les rayures | scratch, stripe |  | [Link](<https://en.wiktionary.org/wiki/rayure#French>) |
@@ -71,9 +81,12 @@
 | Word | Infinitive | Past Participle | Present Participle | Basic meanings of word | Example sentences | Wiktionary |
 | --- | --- | --- | --- | --- | --- | --- |
 | attendrir | attendrir | attendri | attendrissant | to soften |  | [Link](<https://en.wiktionary.org/wiki/attendrir#French>) |
+| bâiller | bâiller | bâillé | bâillant | to yawn |  | [Link](<https://en.wiktionary.org/wiki/bâiller#French>) |
 | coller | coller | collé | collant | to stick/ paste/ glue |  | [Link](<https://en.wiktionary.org/wiki/coller#French>) |
 | déclarer | déclarer | déclaré | déclarant | to declare |  | [Link](<https://en.wiktionary.org/wiki/déclarer#French>) |
+| déconnecter | déconnecter | déconnecté | déconnectant | to disconnect/ unplug, (reflexive) to log out |  | [Link](<https://en.wiktionary.org/wiki/déconnecter#French>) |
 | emballer | emballer | emballé | emballant | to wrap up |  | [Link](<https://en.wiktionary.org/wiki/emballer#French>) |
+| étirer | étirer | étiré | étirant | (reflexive) to stretch |  | [Link](<https://en.wiktionary.org/wiki/étirer#French>) |
 | fouetter | fouetter | fouetté | fouettant | to whip, to whisk |  | [Link](<https://en.wiktionary.org/wiki/fouetter#French>) |
 | froncer | froncer | froncé | fronçant | to scowl |  | [Link](<https://en.wiktionary.org/wiki/froncer#French>) |
 | mâcher | mâcher | mâché | mâchant | to chew |  | [Link](<https://en.wiktionary.org/wiki/mâcher#French>) |

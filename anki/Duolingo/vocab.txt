@@ -14,16 +14,21 @@ adj-mou|mou|mou|molle|mous|molles|||||Adjective: soft/ squishy, comfortable||
 adj-nature|nature|nature||natures||||||Adjective: plain||
 adj-serré|serré|serré|serrée|serrés|serrées|||||Adjective: tight||
 adj-tendre|tendre|tendre||tendres||||||Adjective: tender||
+adj-à jour|à jour|à jour||||||||Adjective: up to date/ current||
+adv-dernièrement|dernièrement|||||dernièrement||||Adverb: lately||
 misc-avoir du mal (à + verbe)|avoir du mal (à + verbe)|||||avoir du mal (à + verbe)||||to have difficulty||
 misc-avoir l'impression|avoir l'impression|||||avoir l'impression||||have the feeling||
 misc-faire un tour|faire un tour|||||faire un tour||||take a walk||
 misc-froncer les sourcils|froncer les sourcils|||||froncer les sourcils||||to furrow one's brow||
 misc-les restes|les restes|||||les restes||||leftovers||
 misc-mettre la table|mettre la table|||||mettre la table||||to set the table||
+misc-mettre sur pause|mettre sur pause|||||mettre sur pause||||to pause||
+misc-mettre à jour|mettre à jour|||||mettre à jour||||to update||
 misc-par hasard|par hasard|||||par hasard||||at random/ by chance||
 misc-se connecter à internet|se connecter à internet|||||se connecter à internet||||connect to the internet||
 noun-agneau|agneau|l'agneau||les agneaux||||||Noun: lamb||
 noun-arobase|arobase|l'arobase||les arobases||||||Noun: the @ symbol||
+noun-bâillement|bâillement|le bâillement||les bâillements||||||Noun: yawn||
 noun-chaos|chaos|le chaos||||||||Noun: chaos||
 noun-chou|chou|le chou||les choux||||||Noun: cabbage||
 noun-collant|collant|le collant||les collants||||||Noun: (plural) tights||
@@ -41,11 +46,13 @@ noun-humour|humour|l'humour||les humours||||||Noun: humour||
 noun-impression|impression||l'impression||les impressions|||||Noun: impression/ the overall feel||
 noun-joue|joue||la joue||les joues|||||Noun: cheek||
 noun-laitue|laitue||la laitue||les laitues|||||Noun: lettuce||
+noun-logiciel|logiciel|le logiciel||les logiciels||||||Noun: software||
 noun-mal|mal|le mal||les maux||||||Noun: trouble/ difficulty, evil||
 noun-manche|manche||la manche||les manches|||||Noun: sleeve||
 noun-mayonnaise|mayonnaise||la mayonnaise||les mayonnaises|||||Noun: mayo||
 noun-nappe|nappe||la nappe||les nappes|||||Noun: tablecloth||
 noun-nom d'utilisateur|nom d'utilisateur|le nom d'utilisateur||les noms d'utilisateur||||||Noun: username||
+noun-pièce jointe|pièce jointe||la pièce jointe||les pièces jointes|||||Noun: attachment (email)||
 noun-pois|pois|le pois||les pois||||||Noun: pea, polka dot||
 noun-publicité|publicité||la publicité||les publicités|||||Noun: advertising||
 noun-rayure|rayure||la rayure||les rayures|||||Noun: scratch, stripe||
@@ -62,8 +69,10 @@ noun-tube|tube|le tube||les tubes||||||Noun: tube, pipe||
 noun-veau|veau|le veau||les veaux||||||Noun: calf, veal||
 noun-vinaigre|vinaigre|le vinaigre||les vinaigres||||||Noun: vinegar||
 verb-attendrir|attendrir||||||attendrir|attendri|attendrissant|Verb: to soften||
+verb-bâiller|bâiller||||||bâiller|bâillé|bâillant|Verb: to yawn||
 verb-coller|coller||||||coller|collé|collant|Verb: to stick/ paste/ glue||
 verb-déclarer|déclarer||||||déclarer|déclaré|déclarant|Verb: to declare||
+verb-déconnecter|déconnecter||||||déconnecter|déconnecté|déconnectant|Verb: to disconnect/ unplug, (reflexive) to log out||
 verb-emballer|emballer||||||emballer|emballé|emballant|Verb: to wrap up||
 verb-fouetter|fouetter||||||fouetter|fouetté|fouettant|Verb: to whip, to whisk||
 verb-froncer|froncer||||||froncer|froncé|fronçant|Verb: to scowl||
@@ -71,3 +80,4 @@ verb-mâcher|mâcher||||||mâcher|mâché|mâchant|Verb: to chew||
 verb-peigner|peigner||||||peigner|peigné|peignant|Verb: to comb||
 verb-ruiner|ruiner||||||ruiner|ruiné|ruinant|Verb: to ruin||
 verb-surveiller|surveiller||||||surveiller|surveillé|surveillant|Verb: to monitor/ watch||
+verb-étirer|étirer||||||étirer|étiré|étirant|Verb: (reflexive) to stretch||
