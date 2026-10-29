@@ -1,0 +1,41 @@
+#separator:Pipe
+#columns:Key|Word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Basic meanings of word|Example sentences|Wiktionary
+#notetype:French to English Noun
+#deck:French Courses::Tutoring::Vocab
+adj-piégeux|piégeux|piégeux|piégeuse|piégeux|piégeuses|||||Adjective: tricky, dangerous||
+adj-redoutable|redoutable|redoutable||redoutable||||||Adjective: formidable||
+adv-de justesse|de justesse|||||de justesse||||Adverb: narrowly, only just||
+misc-faire l'intérieur|faire l'intérieur|||||faire l'intérieur||||To overtake on the inside||
+misc-le tacle glissé|le tacle glissé|||||le tacle glissé||||sliding tackle||
+noun-adhérence|adhérence||l'adhérence||les adhérences|||||Noun: grip||
+noun-braquage inversé|braquage inversé|le braquage inversé||les braquages inversés||||||Noun: countersteer||
+noun-casse-tête|casse-tête|le casse-tête||les casse-têtes||||||Noun: puzzle||
+noun-chicane|chicane||la chicane||les chicanes|||||Noun: chicane||
+noun-coup de maître|coup de maître|le coup de maître||les coups de maître||||||Noun: masterstroke||
+noun-envol|envol|l'envol||les envols||||||Noun: takeoff||
+noun-freinage|freinage|le freinage||les freinages||||||Noun: action of braking/ deceleration||
+noun-grip|grip|le grip||les grips||||||Noun: grip||
+noun-ligne d'arrivée|ligne d'arrivée||la ligne d'arrivée||les lignes d'arrivée|||||Noun: finish line||
+noun-lucarne|lucarne||la lucarne||les lucarnes|||||Noun: (football) The upper corners of the goal||
+noun-manœuvre|manœuvre||la manœuvre||les manœuvre|||||Noun: move, manoeuvre||
+noun-monoplace|monoplace|le monoplace||les monoplaces||||||Noun: single-seater (car, aircraft)||
+noun-muret|muret|le muret||les murets||||||Noun: small wall||
+noun-mêlée|mêlée||la mêlée||les mêlées|||||Noun: brawl, (rugby) scrum||
+noun-passe décisive|passe décisive||la passe décisive||les passes décisives|||||Noun: (football) assist||
+noun-pneu|pneu|le pneu||les pneus||||||Noun: tyre||
+noun-poteau|poteau|le poteau||les poteaux||||||Noun: pole, goalpost||
+noun-sous-virage|sous-virage|le sous-virage||les sous-virages||||||Noun: understeer||
+noun-stand|stand|le stand||les stands||||||Noun: (motorsport) pit, stand (like a stall)||
+noun-survirage|survirage|le survirage||les survirages||||||Noun: oversteer||
+noun-tacle|tacle|le tacle||les tacles||||||Noun: (football) tackle||
+noun-tête-à-queue|tête-à-queue|le tête-à-queue||les tête-à-queues||||||Noun: spin||
+noun-undercut|undercut|l'undercut||les undercuts||||||Noun: undercut strategy||
+noun-vibreur|vibreur|le vibreur||les vibreurs||||||Noun: kerb/ rumble strip||
+noun-virage en épingle|virage en épingle|le virage en épingle||les virages en épingle||||||Noun: hairpin corner||
+noun-virage|virage|le virage||les virages||||||Noun: curve, bend||
+noun-voie des stands|voie des stands||la voie des stands||les voies des stands|||||Noun: pitlane||
+verb-aplatir|aplatir||||||aplatir|aplati|aplatissant|Verb: to score a try||
+verb-avérer|avérer||||||avérer|avéré|avérant|Verb: (transitive) to reveal, (reflexive) to prove to be/ transpire||
+verb-chausser|chausser||||||chausser|chaussé|chaussant|Verb: to shoe, to put on footwear||
+verb-doubler|doubler||||||doubler|doublé|doublant|Verb: To overtake, to double||
+verb-franchir|franchir||||||franchir|franchi|franchissant|Verb: to cross (a line), to pass (an obstacle), to cover (a distance)||
