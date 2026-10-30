@@ -2,11 +2,17 @@
 #columns:Key|Basic meanings of word|Word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Example sentences|Wiktionary
 #notetype:English to French
 #deck:French Courses::Tutoring::English to French Vocab
+adj-nickel|Adjective: (slang) perfect/ bang on|nickel|nickel|||||||||
 adj-piégeux|Adjective: tricky, dangerous|piégeux|piégeux|piégeuse|piégeux|piégeuses||||||
 adj-redoutable|Adjective: formidable|redoutable|redoutable||redoutable|||||||
+adj-relou|Adjective: irritating/ frustrating|relou|relou|reloue|relous|reloues||||||
 adv-de justesse|Adverb: narrowly, only just|de justesse|||||de justesse|||||
+misc-avoir la flemme|(slang) Can't be bothered|avoir la flemme|||||avoir la flemme|||||
+misc-avoir le seum|(slang) to be gutted/ bitter|avoir le seum|||||avoir le seum|||||
+misc-c'est carré|(slang) spot on|c'est carré|||||c'est carré|||||
 misc-faire l'intérieur|To overtake on the inside|faire l'intérieur|||||faire l'intérieur|||||
 misc-le tacle glissé|sliding tackle|le tacle glissé|||||le tacle glissé|||||
+misc-ça me saoule|(slang) It pisses me off|ça me saoule|||||ça me saoule|||||
 noun-adhérence|Noun: grip|adhérence||l'adhérence||les adhérences||||||
 noun-braquage inversé|Noun: countersteer|braquage inversé|le braquage inversé||les braquages inversés|||||||
 noun-casse-tête|Noun: puzzle|casse-tête|le casse-tête||les casse-têtes|||||||
@@ -28,6 +34,7 @@ noun-sous-virage|Noun: understeer|sous-virage|le sous-virage||les sous-virages||
 noun-stand|Noun: (motorsport) pit, stand (like a stall)|stand|le stand||les stands|||||||
 noun-survirage|Noun: oversteer|survirage|le survirage||les survirages|||||||
 noun-tacle|Noun: (football) tackle|tacle|le tacle||les tacles|||||||
+noun-taf|Noun: work/ job|taf|le taf||les tafs|||||||
 noun-tête-à-queue|Noun: spin|tête-à-queue|le tête-à-queue||les tête-à-queues|||||||
 noun-undercut|Noun: undercut strategy|undercut|l'undercut||les undercuts|||||||
 noun-vibreur|Noun: kerb/ rumble strip|vibreur|le vibreur||les vibreurs|||||||
@@ -36,6 +43,8 @@ noun-virage|Noun: curve, bend|virage|le virage||les virages|||||||
 noun-voie des stands|Noun: pitlane|voie des stands||la voie des stands||les voies des stands||||||
 verb-aplatir|Verb: to score a try|aplatir||||||aplatir|aplati|aplatissant||
 verb-avérer|Verb: (transitive) to reveal, (reflexive) to prove to be/ transpire|avérer||||||avérer|avéré|avérant||
+verb-bosser|Verb: (slang) to work|bosser||||||bosser|bossé|bossant||
 verb-chausser|Verb: to shoe, to put on footwear|chausser||||||chausser|chaussé|chaussant||
 verb-doubler|Verb: To overtake, to double|doubler||||||doubler|doublé|doublant||
 verb-franchir|Verb: to cross (a line), to pass (an obstacle), to cover (a distance)|franchir||||||franchir|franchi|franchissant||
+verb-kiffer|Verb: (slang) to love/ really enjoy|kiffer||||||kiffer|kiffé|kiffant||

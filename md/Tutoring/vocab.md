@@ -2,8 +2,10 @@
 ## Adjectives
 | Word | Masculine Singular | Feminine Singular | Masculine Plural | Feminine Plural | Basic meanings of word | Example sentences | Wiktionary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| nickel | nickel |  |  |  | (slang) perfect/ bang on |  | [Link](<https://en.wiktionary.org/wiki/nickel#French>) |
 | piégeux | piégeux | piégeuse | piégeux | piégeuses | tricky, dangerous |  | [Link](<https://en.wiktionary.org/wiki/piégeux#French>) |
 | redoutable | redoutable |  | redoutable |  | formidable |  | [Link](<https://en.wiktionary.org/wiki/redoutable#French>) |
+| relou | relou | reloue | relous | reloues | irritating/ frustrating |  | [Link](<https://en.wiktionary.org/wiki/relou#French>) |
 ## Adverbs
 | Word | Adverb | Basic meanings of word | Example sentences | Wiktionary |
 | --- | --- | --- | --- | --- |
@@ -11,6 +13,10 @@
 ## Misc
 | Word | Adverb | Basic meanings of word | Example sentences | Wiktionary |
 | --- | --- | --- | --- | --- |
+| avoir la flemme | avoir la flemme | (slang) Can't be bothered |  | [Link](<https://en.wiktionary.org/wiki/avoir la flemme#French>) |
+| avoir le seum | avoir le seum | (slang) to be gutted/ bitter |  | [Link](<https://en.wiktionary.org/wiki/avoir le seum#French>) |
+| ça me saoule | ça me saoule | (slang) It pisses me off |  | [Link](<https://en.wiktionary.org/wiki/ça me saoule#French>) |
+| c'est carré | c'est carré | (slang) spot on |  | [Link](<https://en.wiktionary.org/wiki/c'est carré#French>) |
 | faire l'intérieur | faire l'intérieur | To overtake on the inside |  | [Link](<https://en.wiktionary.org/wiki/faire l'intérieur#French>) |
 | le tacle glissé | le tacle glissé | sliding tackle |  | [Link](<https://en.wiktionary.org/wiki/le tacle glissé#French>) |
 ## Nouns
@@ -37,6 +43,7 @@
 | stand | le stand |  | les stands |  | (motorsport) pit, stand (like a stall) |  | [Link](<https://en.wiktionary.org/wiki/stand#French>) |
 | survirage | le survirage |  | les survirages |  | oversteer |  | [Link](<https://en.wiktionary.org/wiki/survirage#French>) |
 | tacle | le tacle |  | les tacles |  | (football) tackle |  | [Link](<https://en.wiktionary.org/wiki/tacle#French>) |
+| taf | le taf |  | les tafs |  | work/ job |  | [Link](<https://en.wiktionary.org/wiki/taf#French>) |
 | tête-à-queue | le tête-à-queue |  | les tête-à-queues |  | spin |  | [Link](<https://en.wiktionary.org/wiki/tête-à-queue#French>) |
 | undercut | l'undercut |  | les undercuts |  | undercut strategy |  | [Link](<https://en.wiktionary.org/wiki/undercut#French>) |
 | voie des stands |  | la voie des stands |  | les voies des stands | pitlane |  | [Link](<https://en.wiktionary.org/wiki/voie des stands#French>) |
@@ -48,6 +55,8 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | aplatir | aplatir | aplati | aplatissant | to score a try |  | [Link](<https://en.wiktionary.org/wiki/aplatir#French>) |
 | avérer | avérer | avéré | avérant | (transitive) to reveal, (reflexive) to prove to be/ transpire |  | [Link](<https://en.wiktionary.org/wiki/avérer#French>) |
+| bosser | bosser | bossé | bossant | (slang) to work |  | [Link](<https://en.wiktionary.org/wiki/bosser#French>) |
 | chausser | chausser | chaussé | chaussant | to shoe, to put on footwear |  | [Link](<https://en.wiktionary.org/wiki/chausser#French>) |
 | doubler | doubler | doublé | doublant | To overtake, to double |  | [Link](<https://en.wiktionary.org/wiki/doubler#French>) |
 | franchir | franchir | franchi | franchissant | to cross (a line), to pass (an obstacle), to cover (a distance) |  | [Link](<https://en.wiktionary.org/wiki/franchir#French>) |
+| kiffer | kiffer | kiffé | kiffant | (slang) to love/ really enjoy |  | [Link](<https://en.wiktionary.org/wiki/kiffer#French>) |
