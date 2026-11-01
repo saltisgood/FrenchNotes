@@ -2,22 +2,70 @@
 #columns:Key|Word|Masculine Singular|Feminine Singular|Masculine Plural|Feminine Plural|Adverb|Infinitive|Past Participle|Present Participle|Basic meanings of word|Example sentences|Wiktionary
 #notetype:French to English Noun
 #deck:French Courses::Tutoring::Vocab
+adj-chelou|chelou|chelou|cheloue|chelous|cheloues|||||Adjective: (slang) weird||
+adj-claqué|claqué|claqué|claquée|claqués|claquées|||||Adjective: (slang) exhausted||
+adj-crevé|crevé|crevé|crevée|crevés|crevées|||||Adjective: (slang) exhausted||
 adj-nickel|nickel|nickel||||||||Adjective: (slang) perfect/ bang on||
 adj-piégeux|piégeux|piégeux|piégeuse|piégeux|piégeuses|||||Adjective: tricky, dangerous||
 adj-redoutable|redoutable|redoutable||redoutable||||||Adjective: formidable||
 adj-relou|relou|relou|reloue|relous|reloues|||||Adjective: irritating/ frustrating||
 adv-de justesse|de justesse|||||de justesse||||Adverb: narrowly, only just||
+misc-appuyer sur le champignon|appuyer sur le champignon|||||appuyer sur le champignon||||to hit the gas||
+misc-avoir la dalle|avoir la dalle|||||avoir la dalle||||(slang) to be starving||
 misc-avoir la flemme|avoir la flemme|||||avoir la flemme||||(slang) Can't be bothered||
+misc-avoir le cafard|avoir le cafard|||||avoir le cafard||||to feel down||
 misc-avoir le seum|avoir le seum|||||avoir le seum||||(slang) to be gutted/ bitter||
+misc-avoir les dents longues|avoir les dents longues|||||avoir les dents longues||||to be ambitious||
+misc-avoir un chat dans la gorge|avoir un chat dans la gorge|||||avoir un chat dans la gorge||||to have a frog in the throat||
+misc-avoir un coup de barre|avoir un coup de barre|||||avoir un coup de barre||||to hit a wall||
 misc-c'est carré|c'est carré|||||c'est carré||||(slang) spot on||
+misc-c'est chaud|c'est chaud|||||c'est chaud||||(slang) it's tricky/ intense||
+misc-c'est la fin des haricots|c'est la fin des haricots|||||c'est la fin des haricots||||that's the end||
+misc-carrément|carrément|||||carrément||||(slang) a lot. Also can be a response to say yes||
+misc-casser les pieds à quelqu'un|casser les pieds à quelqu'un|||||casser les pieds à quelqu'un||||to get on someone's nervves||
+misc-chercher midi à quatorze heures|chercher midi à quatorze heures|||||chercher midi à quatorze heures||||to overcomplicate||
+misc-couper la trajectoire|couper la trajectoire|||||couper la trajectoire||||to cut across the line of another driver||
+misc-coûter les yeux de la tête|coûter les yeux de la tête|||||coûter les yeux de la tête||||to cost an arm and a leg||
 misc-faire l'intérieur|faire l'intérieur|||||faire l'intérieur||||To overtake on the inside||
+misc-faire le malade|faire le malade|||||faire le malade||||to chuck a sickie||
+misc-frimer|frimer|||||frimer||||(slang) to show off||
 misc-le tacle glissé|le tacle glissé|||||le tacle glissé||||sliding tackle||
+misc-les doigts dans le nez|les doigts dans le nez|||||les doigts dans le nez||||easy peasy||
+misc-lever le pied|lever le pied|||||lever le pied||||(motorsport) to ease off||
+misc-mettre les gaz|mettre les gaz|||||mettre les gaz||||To accelerate hard||
+misc-mettre les pieds dans le plat|mettre les pieds dans le plat|||||mettre les pieds dans le plat||||to make a gaffe||
+misc-mettre son grain de sel|mettre son grain de sel|||||mettre son grain de sel||||to give your opinion without being asked||
+misc-ménager ses pneus|ménager ses pneus|||||ménager ses pneus||||to look after the tyres||
+misc-partir en vrille|partir en vrille|||||partir en vrille||||to spin out of control||
+misc-passer la vitesse supérieure|passer la vitesse supérieure|||||passer la vitesse supérieure||||to shift up a gear||
+misc-poser un lapin à quelqu'un|poser un lapin à quelqu'un|||||poser un lapin à quelqu'un||||to stand someone up||
+misc-prendre la corde|prendre la corde|||||prendre la corde||||To hug the inside line||
+misc-prendre ses jambes à son cou|prendre ses jambes à son cou|||||prendre ses jambes à son cou||||to run for it||
+misc-se faire déborder|se faire déborder|||||se faire déborder||||to get overtaken wide||
+misc-se faire porter pâle|se faire porter pâle|||||se faire porter pâle||||to chuck a sickie||
+misc-se jeter à l'eau|se jeter à l'eau|||||se jeter à l'eau||||to take the plunge||
+misc-tomber dans les pommes|tomber dans les pommes|||||tomber dans les pommes||||to pass out||
+misc-à fond la caisse|à fond la caisse|||||à fond la caisse||||flat out||
+misc-ça déchire|ça déchire|||||ça déchire||||(slang) it rocks||
+misc-ça le fait|ça le fait|||||ça le fait||||(slang) that works||
+misc-ça me gonfle|ça me gonfle|||||ça me gonfle||||(slang) it annoys me||
 misc-ça me saoule|ça me saoule|||||ça me saoule||||(slang) It pisses me off||
+misc-être au taquet|être au taquet|||||être au taquet||||to be at the limit||
+misc-être blanc comme un linge|être blanc comme un linge|||||être blanc comme un linge||||white as a sheet||
+misc-être dans le pétrin|être dans le pétrin|||||être dans le pétrin||||to be in a mess||
+misc-être en pole position|être en pole position|||||être en pole position||||to be on pole||
+misc-être en roue libre|être en roue libre|||||être en roue libre||||to coast||
 noun-adhérence|adhérence||l'adhérence||les adhérences|||||Noun: grip||
+noun-aprèm|aprèm|l'aprèm||||||||Noun: (slang) afternoon||
+noun-bac à gravier|bac à gravier|le bac à gravier||||||||Noun: gravel trap||
+noun-bac|bac|le bac||les bacs||||||Noun: vat/ tray/ box||
+noun-barbeuc|barbeuc|le barbeuc||||||||Noun: (slang) barbecue||
+noun-boulet|boulet|le boulet||les boulets||||||Noun: (slang) a drag/ pain||
 noun-braquage inversé|braquage inversé|le braquage inversé||les braquages inversés||||||Noun: countersteer||
 noun-casse-tête|casse-tête|le casse-tête||les casse-têtes||||||Noun: puzzle||
 noun-chicane|chicane||la chicane||les chicanes|||||Noun: chicane||
 noun-coup de maître|coup de maître|le coup de maître||les coups de maître||||||Noun: masterstroke||
+noun-courbe|courbe||la courbe||les courbes|||||Noun: curve||
 noun-envol|envol|l'envol||les envols||||||Noun: takeoff||
 noun-freinage|freinage|le freinage||les freinages||||||Noun: action of braking/ deceleration||
 noun-grip|grip|le grip||les grips||||||Noun: grip||
@@ -25,9 +73,11 @@ noun-ligne d'arrivée|ligne d'arrivée||la ligne d'arrivée||les lignes d'arriv�
 noun-lucarne|lucarne||la lucarne||les lucarnes|||||Noun: (football) The upper corners of the goal||
 noun-manœuvre|manœuvre||la manœuvre||les manœuvre|||||Noun: move, manoeuvre||
 noun-monoplace|monoplace|le monoplace||les monoplaces||||||Noun: single-seater (car, aircraft)||
+noun-motard|motard|le motard|la motarde|les motards||||||Noun: motorcyclist (especially police)||
 noun-muret|muret|le muret||les murets||||||Noun: small wall||
 noun-mêlée|mêlée||la mêlée||les mêlées|||||Noun: brawl, (rugby) scrum||
 noun-passe décisive|passe décisive||la passe décisive||les passes décisives|||||Noun: (football) assist||
+noun-pick up|pick up|le pick up||||||||Noun: ute||
 noun-pneu|pneu|le pneu||les pneus||||||Noun: tyre||
 noun-poteau|poteau|le poteau||les poteaux||||||Noun: pole, goalpost||
 noun-sous-virage|sous-virage|le sous-virage||les sous-virages||||||Noun: understeer||
@@ -35,6 +85,7 @@ noun-stand|stand|le stand||les stands||||||Noun: (motorsport) pit, stand (like a
 noun-survirage|survirage|le survirage||les survirages||||||Noun: oversteer||
 noun-tacle|tacle|le tacle||les tacles||||||Noun: (football) tackle||
 noun-taf|taf|le taf||les tafs||||||Noun: work/ job||
+noun-tribune|tribune||la tribune||les tribunes|||||Noun: platform/ podium, grandstand||
 noun-tête-à-queue|tête-à-queue|le tête-à-queue||les tête-à-queues||||||Noun: spin||
 noun-undercut|undercut|l'undercut||les undercuts||||||Noun: undercut strategy||
 noun-vibreur|vibreur|le vibreur||les vibreurs||||||Noun: kerb/ rumble strip||
@@ -44,7 +95,14 @@ noun-voie des stands|voie des stands||la voie des stands||les voies des stands||
 verb-aplatir|aplatir||||||aplatir|aplati|aplatissant|Verb: to score a try||
 verb-avérer|avérer||||||avérer|avéré|avérant|Verb: (transitive) to reveal, (reflexive) to prove to be/ transpire||
 verb-bosser|bosser||||||bosser|bossé|bossant|Verb: (slang) to work||
+verb-caler|caler||||||caler|calé|calant|Verb: to stall a car||
 verb-chausser|chausser||||||chausser|chaussé|chaussant|Verb: to shoe, to put on footwear||
 verb-doubler|doubler||||||doubler|doublé|doublant|Verb: To overtake, to double||
+verb-déraper|déraper||||||déraper|dérapé|dérapant|Verb: to skid/ slide||
+verb-détremper|détremper||||||détremper|détrempé|détrempant|Verb: to soak||
+verb-emparer|emparer||||||emparer|emparé|emparant|Verb: (reflexive) to seize/ get hold of (+ de)||
 verb-franchir|franchir||||||franchir|franchi|franchissant|Verb: to cross (a line), to pass (an obstacle), to cover (a distance)||
+verb-halluciner|halluciner||||||halluciner|halluciné|hallucinant|Verb: to hallucinate, (slang) to be flabbergasted||
 verb-kiffer|kiffer||||||kiffer|kiffé|kiffant|Verb: (slang) to love/ really enjoy||
+verb-patiner|patiner||||||patiner|patiné|patinant|Verb: to ice skate, (motorsport) to spin wheels without going anywhere||
+verb-planter|planter||||||planter|planté|plantant|Verb: to plant, to drive in (a nail), (reflexive, slang) to fail||
