@@ -13,6 +13,7 @@ adv-de justesse|de justesse|||||de justesse||||Adverb: narrowly, only just||
 misc-appuyer sur le champignon|appuyer sur le champignon|||||appuyer sur le champignon||||to hit the gas||
 misc-avoir la dalle|avoir la dalle|||||avoir la dalle||||(slang) to be starving||
 misc-avoir la flemme|avoir la flemme|||||avoir la flemme||||(slang) Can't be bothered||
+misc-avoir la pêche|avoir la pêche|||||avoir la pêche||||(slang) to be full of energy||
 misc-avoir le cafard|avoir le cafard|||||avoir le cafard||||to feel down||
 misc-avoir le seum|avoir le seum|||||avoir le seum||||(slang) to be gutted/ bitter||
 misc-avoir les dents longues|avoir les dents longues|||||avoir les dents longues||||to be ambitious||
@@ -20,7 +21,10 @@ misc-avoir un chat dans la gorge|avoir un chat dans la gorge|||||avoir un chat d
 misc-avoir un coup de barre|avoir un coup de barre|||||avoir un coup de barre||||to hit a wall||
 misc-c'est carré|c'est carré|||||c'est carré||||(slang) spot on||
 misc-c'est chaud|c'est chaud|||||c'est chaud||||(slang) it's tricky/ intense||
+misc-c'est cuit|c'est cuit|||||c'est cuit||||(slang) it's done for||
+misc-c'est du lourd|c'est du lourd|||||c'est du lourd||||(slang) that's impressive||
 misc-c'est la fin des haricots|c'est la fin des haricots|||||c'est la fin des haricots||||that's the end||
+misc-c'est mort|c'est mort|||||c'est mort||||no way (impossible)||
 misc-carrément|carrément|||||carrément||||(slang) a lot. Also can be a response to say yes||
 misc-casser les pieds à quelqu'un|casser les pieds à quelqu'un|||||casser les pieds à quelqu'un||||to get on someone's nervves||
 misc-chercher midi à quatorze heures|chercher midi à quatorze heures|||||chercher midi à quatorze heures||||to overcomplicate||
@@ -29,9 +33,11 @@ misc-coûter les yeux de la tête|coûter les yeux de la tête|||||coûter les y
 misc-faire l'intérieur|faire l'intérieur|||||faire l'intérieur||||To overtake on the inside||
 misc-faire le malade|faire le malade|||||faire le malade||||to chuck a sickie||
 misc-frimer|frimer|||||frimer||||(slang) to show off||
+misc-il fait bon|il fait bon|||||il fait bon||||the weather is nice||
 misc-le tacle glissé|le tacle glissé|||||le tacle glissé||||sliding tackle||
 misc-les doigts dans le nez|les doigts dans le nez|||||les doigts dans le nez||||easy peasy||
 misc-lever le pied|lever le pied|||||lever le pied||||(motorsport) to ease off||
+misc-lâcher l'affaire|lâcher l'affaire|||||lâcher l'affaire||||to give up||
 misc-mettre les gaz|mettre les gaz|||||mettre les gaz||||To accelerate hard||
 misc-mettre les pieds dans le plat|mettre les pieds dans le plat|||||mettre les pieds dans le plat||||to make a gaffe||
 misc-mettre son grain de sel|mettre son grain de sel|||||mettre son grain de sel||||to give your opinion without being asked||
@@ -41,20 +47,24 @@ misc-passer la vitesse supérieure|passer la vitesse supérieure|||||passer la v
 misc-poser un lapin à quelqu'un|poser un lapin à quelqu'un|||||poser un lapin à quelqu'un||||to stand someone up||
 misc-prendre la corde|prendre la corde|||||prendre la corde||||To hug the inside line||
 misc-prendre ses jambes à son cou|prendre ses jambes à son cou|||||prendre ses jambes à son cou||||to run for it||
+misc-péter les plombs|péter les plombs|||||péter les plombs||||to lose it (lose your calm)||
 misc-se faire déborder|se faire déborder|||||se faire déborder||||to get overtaken wide||
 misc-se faire porter pâle|se faire porter pâle|||||se faire porter pâle||||to chuck a sickie||
 misc-se jeter à l'eau|se jeter à l'eau|||||se jeter à l'eau||||to take the plunge||
 misc-tomber dans les pommes|tomber dans les pommes|||||tomber dans les pommes||||to pass out||
 misc-à fond la caisse|à fond la caisse|||||à fond la caisse||||flat out||
+misc-ça craint|ça craint|||||ça craint||||(slang) it sucks||
 misc-ça déchire|ça déchire|||||ça déchire||||(slang) it rocks||
 misc-ça le fait|ça le fait|||||ça le fait||||(slang) that works||
 misc-ça me gonfle|ça me gonfle|||||ça me gonfle||||(slang) it annoys me||
 misc-ça me saoule|ça me saoule|||||ça me saoule||||(slang) It pisses me off||
 misc-être au taquet|être au taquet|||||être au taquet||||to be at the limit||
 misc-être blanc comme un linge|être blanc comme un linge|||||être blanc comme un linge||||white as a sheet||
+misc-être bon en|être bon en|||||être bon en||||Competent||
 misc-être dans le pétrin|être dans le pétrin|||||être dans le pétrin||||to be in a mess||
 misc-être en pole position|être en pole position|||||être en pole position||||to be on pole||
 misc-être en roue libre|être en roue libre|||||être en roue libre||||to coast||
+misc-être à la dèche|être à la dèche|||||être à la dèche||||(slang) to be broke||
 noun-adhérence|adhérence||l'adhérence||les adhérences|||||Noun: grip||
 noun-aprèm|aprèm|l'aprèm||||||||Noun: (slang) afternoon||
 noun-bac à gravier|bac à gravier|le bac à gravier||||||||Noun: gravel trap||
@@ -94,6 +104,7 @@ noun-virage|virage|le virage||les virages||||||Noun: curve, bend||
 noun-voie des stands|voie des stands||la voie des stands||les voies des stands|||||Noun: pitlane||
 verb-aplatir|aplatir||||||aplatir|aplati|aplatissant|Verb: to score a try||
 verb-avérer|avérer||||||avérer|avéré|avérant|Verb: (transitive) to reveal, (reflexive) to prove to be/ transpire||
+verb-barrer|barrer||||||barrer|barré|barrant|Verb: (slang) (reflexive) to leave||
 verb-bosser|bosser||||||bosser|bossé|bossant|Verb: (slang) to work||
 verb-caler|caler||||||caler|calé|calant|Verb: to stall a car||
 verb-chausser|chausser||||||chausser|chaussé|chaussant|Verb: to shoe, to put on footwear||
@@ -106,3 +117,4 @@ verb-halluciner|halluciner||||||halluciner|halluciné|hallucinant|Verb: to hallu
 verb-kiffer|kiffer||||||kiffer|kiffé|kiffant|Verb: (slang) to love/ really enjoy||
 verb-patiner|patiner||||||patiner|patiné|patinant|Verb: to ice skate, (motorsport) to spin wheels without going anywhere||
 verb-planter|planter||||||planter|planté|plantant|Verb: to plant, to drive in (a nail), (reflexive, slang) to fail||
+verb-tchatcher|tchatcher||||||tchatcher|tchatché|tchatchant|Verb: (slang) to chat||

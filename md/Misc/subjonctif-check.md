@@ -9,3 +9,27 @@
 | préférer | Yes |
 | souhaiter | Yes |
 | vouloir | Yes |
+| penser | No |
+| croire | No |
+| trouver | No |
+| supposer | No |
+| se douter | No |
+| prétendre | No |
+| affirmer | No |
+| déclarer | No |
+| estimer | No |
+| s'imaginer | No |
+| se rendre compte | No |
+| il me semble | Yes |
+| il est probable | No |
+| il est certain | No |
+| être convaincu | No |
+| exiger | Yes |
+| attendre | Yes |
+| regretter | Yes |
+| craindre | Yes |
+| douter | Yes |
+| ne pas douter | No |
+| il est possible | Yes |
+| il se peut | Yes |
+| il vaut mieux | Yes |

@@ -21,10 +21,12 @@
 | avoir le cafard | avoir le cafard | to feel down |  | [Link](<https://en.wiktionary.org/wiki/avoir le cafard#French>) |
 | avoir la dalle | avoir la dalle | (slang) to be starving |  | [Link](<https://en.wiktionary.org/wiki/avoir la dalle#French>) |
 | avoir la flemme | avoir la flemme | (slang) Can't be bothered |  | [Link](<https://en.wiktionary.org/wiki/avoir la flemme#French>) |
+| avoir la pêche | avoir la pêche | (slang) to be full of energy |  | [Link](<https://en.wiktionary.org/wiki/avoir la pêche#French>) |
 | avoir le seum | avoir le seum | (slang) to be gutted/ bitter |  | [Link](<https://en.wiktionary.org/wiki/avoir le seum#French>) |
 | avoir les dents longues | avoir les dents longues | to be ambitious |  | [Link](<https://en.wiktionary.org/wiki/avoir les dents longues#French>) |
 | avoir un chat dans la gorge | avoir un chat dans la gorge | to have a frog in the throat |  | [Link](<https://en.wiktionary.org/wiki/avoir un chat dans la gorge#French>) |
 | avoir un coup de barre | avoir un coup de barre | to hit a wall |  | [Link](<https://en.wiktionary.org/wiki/avoir un coup de barre#French>) |
+| ça craint | ça craint | (slang) it sucks |  | [Link](<https://en.wiktionary.org/wiki/ça craint#French>) |
 | ça déchire | ça déchire | (slang) it rocks |  | [Link](<https://en.wiktionary.org/wiki/ça déchire#French>) |
 | ça le fait | ça le fait | (slang) that works |  | [Link](<https://en.wiktionary.org/wiki/ça le fait#French>) |
 | ça me gonfle | ça me gonfle | (slang) it annoys me |  | [Link](<https://en.wiktionary.org/wiki/ça me gonfle#French>) |
@@ -33,17 +35,24 @@
 | casser les pieds à quelqu'un | casser les pieds à quelqu'un | to get on someone's nervves |  | [Link](<https://en.wiktionary.org/wiki/casser les pieds à quelqu'un#French>) |
 | c'est carré | c'est carré | (slang) spot on |  | [Link](<https://en.wiktionary.org/wiki/c'est carré#French>) |
 | c'est chaud | c'est chaud | (slang) it's tricky/ intense |  | [Link](<https://en.wiktionary.org/wiki/c'est chaud#French>) |
+| c'est cuit | c'est cuit | (slang) it's done for |  | [Link](<https://en.wiktionary.org/wiki/c'est cuit#French>) |
+| c'est du lourd | c'est du lourd | (slang) that's impressive |  | [Link](<https://en.wiktionary.org/wiki/c'est du lourd#French>) |
 | c'est la fin des haricots | c'est la fin des haricots | that's the end |  | [Link](<https://en.wiktionary.org/wiki/c'est la fin des haricots#French>) |
+| c'est mort | c'est mort | no way (impossible) |  | [Link](<https://en.wiktionary.org/wiki/c'est mort#French>) |
 | chercher midi à quatorze heures | chercher midi à quatorze heures | to overcomplicate |  | [Link](<https://en.wiktionary.org/wiki/chercher midi à quatorze heures#French>) |
 | couper la trajectoire | couper la trajectoire | to cut across the line of another driver |  | [Link](<https://en.wiktionary.org/wiki/couper la trajectoire#French>) |
 | coûter les yeux de la tête | coûter les yeux de la tête | to cost an arm and a leg |  | [Link](<https://en.wiktionary.org/wiki/coûter les yeux de la tête#French>) |
+| être à la dèche | être à la dèche | (slang) to be broke |  | [Link](<https://en.wiktionary.org/wiki/être à la dèche#French>) |
 | être au taquet | être au taquet | to be at the limit |  | [Link](<https://en.wiktionary.org/wiki/être au taquet#French>) |
 | être blanc comme un linge | être blanc comme un linge | white as a sheet |  | [Link](<https://en.wiktionary.org/wiki/être blanc comme un linge#French>) |
+| être bon en | être bon en | Competent |  | [Link](<https://en.wiktionary.org/wiki/être bon en#French>) |
 | être dans le pétrin | être dans le pétrin | to be in a mess |  | [Link](<https://en.wiktionary.org/wiki/être dans le pétrin#French>) |
 | être en pole position | être en pole position | to be on pole |  | [Link](<https://en.wiktionary.org/wiki/être en pole position#French>) |
 | être en roue libre | être en roue libre | to coast |  | [Link](<https://en.wiktionary.org/wiki/être en roue libre#French>) |
 | faire l'intérieur | faire l'intérieur | To overtake on the inside |  | [Link](<https://en.wiktionary.org/wiki/faire l'intérieur#French>) |
 | frimer | frimer | (slang) to show off |  | [Link](<https://en.wiktionary.org/wiki/frimer#French>) |
+| il fait bon | il fait bon | the weather is nice |  | [Link](<https://en.wiktionary.org/wiki/il fait bon#French>) |
+| lâcher l'affaire | lâcher l'affaire | to give up |  | [Link](<https://en.wiktionary.org/wiki/lâcher l'affaire#French>) |
 | le tacle glissé | le tacle glissé | sliding tackle |  | [Link](<https://en.wiktionary.org/wiki/le tacle glissé#French>) |
 | les doigts dans le nez | les doigts dans le nez | easy peasy |  | [Link](<https://en.wiktionary.org/wiki/les doigts dans le nez#French>) |
 | lever le pied | lever le pied | (motorsport) to ease off |  | [Link](<https://en.wiktionary.org/wiki/lever le pied#French>) |
@@ -53,6 +62,7 @@
 | mettre son grain de sel | mettre son grain de sel | to give your opinion without being asked |  | [Link](<https://en.wiktionary.org/wiki/mettre son grain de sel#French>) |
 | partir en vrille | partir en vrille | to spin out of control |  | [Link](<https://en.wiktionary.org/wiki/partir en vrille#French>) |
 | passer la vitesse supérieure | passer la vitesse supérieure | to shift up a gear |  | [Link](<https://en.wiktionary.org/wiki/passer la vitesse supérieure#French>) |
+| péter les plombs | péter les plombs | to lose it (lose your calm) |  | [Link](<https://en.wiktionary.org/wiki/péter les plombs#French>) |
 | poser un lapin à quelqu'un | poser un lapin à quelqu'un | to stand someone up |  | [Link](<https://en.wiktionary.org/wiki/poser un lapin à quelqu'un#French>) |
 | prendre la corde | prendre la corde | To hug the inside line |  | [Link](<https://en.wiktionary.org/wiki/prendre la corde#French>) |
 | prendre ses jambes à son cou | prendre ses jambes à son cou | to run for it |  | [Link](<https://en.wiktionary.org/wiki/prendre ses jambes à son cou#French>) |
@@ -106,6 +116,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | aplatir | aplatir | aplati | aplatissant | to score a try |  | [Link](<https://en.wiktionary.org/wiki/aplatir#French>) |
 | avérer | avérer | avéré | avérant | (transitive) to reveal, (reflexive) to prove to be/ transpire |  | [Link](<https://en.wiktionary.org/wiki/avérer#French>) |
+| barrer | barrer | barré | barrant | (slang) (reflexive) to leave |  | [Link](<https://en.wiktionary.org/wiki/barrer#French>) |
 | bosser | bosser | bossé | bossant | (slang) to work |  | [Link](<https://en.wiktionary.org/wiki/bosser#French>) |
 | caler | caler | calé | calant | to stall a car |  | [Link](<https://en.wiktionary.org/wiki/caler#French>) |
 | chausser | chausser | chaussé | chaussant | to shoe, to put on footwear |  | [Link](<https://en.wiktionary.org/wiki/chausser#French>) |
@@ -118,3 +129,4 @@
 | kiffer | kiffer | kiffé | kiffant | (slang) to love/ really enjoy |  | [Link](<https://en.wiktionary.org/wiki/kiffer#French>) |
 | patiner | patiner | patiné | patinant | to ice skate, (motorsport) to spin wheels without going anywhere |  | [Link](<https://en.wiktionary.org/wiki/patiner#French>) |
 | planter | planter | planté | plantant | to plant, to drive in (a nail), (reflexive, slang) to fail |  | [Link](<https://en.wiktionary.org/wiki/planter#French>) |
+| tchatcher | tchatcher | tchatché | tchatchant | (slang) to chat |  | [Link](<https://en.wiktionary.org/wiki/tchatcher#French>) |
