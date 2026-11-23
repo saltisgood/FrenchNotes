@@ -57,7 +57,7 @@
 | laitue |  | la laitue |  | les laitues | lettuce |  | [Link](<https://en.wiktionary.org/wiki/laitue#French>) |
 | logiciel | le logiciel |  | les logiciels |  | software |  | [Link](<https://en.wiktionary.org/wiki/logiciel#French>) |
 | mal | le mal |  | les maux |  | trouble/ difficulty, evil |  | [Link](<https://en.wiktionary.org/wiki/mal#French>) |
-| manche |  | la manche |  | les manches | sleeve |  | [Link](<https://en.wiktionary.org/wiki/manche#French>) |
+| manche |  | la manche |  | les manches | sleeve, (sports) round/ set/ inning |  | [Link](<https://en.wiktionary.org/wiki/manche#French>) |
 | mayonnaise |  | la mayonnaise |  | les mayonnaises | mayo |  | [Link](<https://en.wiktionary.org/wiki/mayonnaise#French>) |
 | nappe |  | la nappe |  | les nappes | tablecloth |  | [Link](<https://en.wiktionary.org/wiki/nappe#French>) |
 | nom d'utilisateur | le nom d'utilisateur |  | les noms d'utilisateur |  | username |  | [Link](<https://en.wiktionary.org/wiki/nom d'utilisateur#French>) |

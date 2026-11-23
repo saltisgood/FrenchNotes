@@ -48,7 +48,7 @@ noun-joue|Noun: cheek|joue||la joue||les joues||||||
 noun-laitue|Noun: lettuce|laitue||la laitue||les laitues||||||
 noun-logiciel|Noun: software|logiciel|le logiciel||les logiciels|||||||
 noun-mal|Noun: trouble/ difficulty, evil|mal|le mal||les maux|||||||
-noun-manche|Noun: sleeve|manche||la manche||les manches||||||
+noun-manche|Noun: sleeve, (sports) round/ set/ inning|manche||la manche||les manches||||||
 noun-mayonnaise|Noun: mayo|mayonnaise||la mayonnaise||les mayonnaises||||||
 noun-nappe|Noun: tablecloth|nappe||la nappe||les nappes||||||
 noun-nom d'utilisateur|Noun: username|nom d'utilisateur|le nom d'utilisateur||les noms d'utilisateur|||||||

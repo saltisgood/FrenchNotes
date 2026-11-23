@@ -12,6 +12,7 @@ adj-redoutable|redoutable|redoutable||redoutable||||||Adjective: formidable||
 adj-relou|relou|relou|reloue|relous|reloues|||||Adjective: irritating/ frustrating||
 adj-réglementaire|réglementaire|réglementaire||réglementaires||||||Adjective: regulatory (e.g. regulation time in sport)||
 adv-de justesse|de justesse|||||de justesse||||Adverb: narrowly, only just||
+adv-ex aequo|ex aequo|||||ex aequo||||Adverb: (sports) equal/ draw||
 misc-appuyer sur le champignon|appuyer sur le champignon|||||appuyer sur le champignon||||to hit the gas||
 misc-avoir du pain sur la planche|avoir du pain sur la planche|||||avoir du pain sur la planche||||to have a lot of work ahead||
 misc-avoir la dalle|avoir la dalle|||||avoir la dalle||||(slang) to be starving||
@@ -22,6 +23,7 @@ misc-avoir le seum|avoir le seum|||||avoir le seum||||(slang) to be gutted/ bitt
 misc-avoir les dents longues|avoir les dents longues|||||avoir les dents longues||||to be ambitious||
 misc-avoir un chat dans la gorge|avoir un chat dans la gorge|||||avoir un chat dans la gorge||||to have a frog in the throat||
 misc-avoir un coup de barre|avoir un coup de barre|||||avoir un coup de barre||||to hit a wall||
+misc-avoir une longueur d'avance|avoir une longueur d'avance|||||avoir une longueur d'avance||||to have an edge/ advantage||
 misc-c'est abusé|c'est abusé|||||c'est abusé||||(slang) It's too much||
 misc-c'est carré|c'est carré|||||c'est carré||||(slang) spot on||
 misc-c'est chaud|c'est chaud|||||c'est chaud||||(slang) it's tricky/ intense||
@@ -40,8 +42,10 @@ misc-faire l'intérieur|faire l'intérieur|||||faire l'intérieur||||To overtake
 misc-faire le malade|faire le malade|||||faire le malade||||to chuck a sickie||
 misc-faites comme chez vous|faites comme chez vous|||||faites comme chez vous||||Make yourself at home (to welcome someone)||
 misc-frimer|frimer|||||frimer||||(slang) to show off||
+misc-garder la tête froide|garder la tête froide|||||garder la tête froide||||keep a cool head||
 misc-il fait bon|il fait bon|||||il fait bon||||the weather is nice||
 misc-il ya de l'eau dans le gaz|il ya de l'eau dans le gaz|||||il ya de l'eau dans le gaz||||There's trouble brewing||
+misc-le fond indiciel|le fond indiciel|||||le fond indiciel||||ETF||
 misc-le tacle glissé|le tacle glissé|||||le tacle glissé||||sliding tackle||
 misc-les doigts dans le nez|les doigts dans le nez|||||les doigts dans le nez||||easy peasy||
 misc-lever le pied|lever le pied|||||lever le pied||||(motorsport) to ease off||
@@ -60,6 +64,7 @@ misc-prendre la corde|prendre la corde|||||prendre la corde||||To hug the inside
 misc-prendre ses jambes à son cou|prendre ses jambes à son cou|||||prendre ses jambes à son cou||||to run for it||
 misc-péter les plombs|péter les plombs|||||péter les plombs||||to lose it (lose your calm)||
 misc-quand on parle du loup|quand on parle du loup|||||quand on parle du loup||||speak of the devil||
+misc-renverser la vapeur|renverser la vapeur|||||renverser la vapeur||||make a comeback||
 misc-se faire déborder|se faire déborder|||||se faire déborder||||to get overtaken wide||
 misc-se faire porter pâle|se faire porter pâle|||||se faire porter pâle||||to chuck a sickie||
 misc-se jeter à l'eau|se jeter à l'eau|||||se jeter à l'eau||||to take the plunge||
@@ -69,6 +74,7 @@ misc-tomber dans les pommes|tomber dans les pommes|||||tomber dans les pommes|||
 misc-tu reprendras bien un peu de ...?|tu reprendras bien un peu de ...?|||||tu reprendras bien un peu de ...?||||Will you have some more...? (polite)||
 misc-tu veux ma photo|tu veux ma photo|||||tu veux ma photo||||Want a photo? (you're staring)||
 misc-à fond la caisse|à fond la caisse|||||à fond la caisse||||flat out||
+misc-à la loyale|à la loyale|||||à la loyale||||fair and square||
 misc-ça craint|ça craint|||||ça craint||||(slang) it sucks||
 misc-ça déchire|ça déchire|||||ça déchire||||(slang) it rocks||
 misc-ça le fait|ça le fait|||||ça le fait||||(slang) that works||
@@ -86,34 +92,51 @@ noun-adhérence|adhérence||l'adhérence||les adhérences|||||Noun: grip||
 noun-aprèm|aprèm|l'aprèm||||||||Noun: (slang) afternoon||
 noun-bac à gravier|bac à gravier|le bac à gravier||||||||Noun: gravel trap||
 noun-bac|bac|le bac||les bacs||||||Noun: vat/ tray/ box||
+noun-baisse|baisse||la baisse||les baisses|||||Noun: drop/ decrease||
 noun-barbeuc|barbeuc|le barbeuc||||||||Noun: (slang) barbecue||
 noun-boulet|boulet|le boulet||les boulets||||||Noun: (slang) a drag/ pain||
 noun-braquage inversé|braquage inversé|le braquage inversé||les braquages inversés||||||Noun: countersteer||
+noun-case|case||la case||les cases|||||Noun: (board game) square||
 noun-casse-tête|casse-tête|le casse-tête||les casse-têtes||||||Noun: puzzle||
 noun-chicane|chicane||la chicane||les chicanes|||||Noun: chicane||
 noun-coquille|coquille||la coquille||les coquilles|||||Noun: shell, typo||
 noun-coup de maître|coup de maître|le coup de maître||les coups de maître||||||Noun: masterstroke||
 noun-courbe|courbe||la courbe||les courbes|||||Noun: curve||
 noun-daron|daron|le daron|la daronne|les darons||||||Noun: (slang) parent||
+noun-dé|dé|le dé||les dés||||||Noun: die (dice)||
 noun-envol|envol|l'envol||les envols||||||Noun: takeoff||
 noun-freinage|freinage|le freinage||les freinages||||||Noun: action of braking/ deceleration||
 noun-grip|grip|le grip||les grips||||||Noun: grip||
+noun-hausse|hausse||l'hausse||les hausses|||||Noun: rise/ increase||
+noun-inflation|inflation||l'inflation||les inflations|||||Noun: (financial) inflation||
 noun-ligne d'arrivée|ligne d'arrivée||la ligne d'arrivée||les lignes d'arrivée|||||Noun: finish line||
+noun-liquidité|liquidité||la liquidité||les liquidités|||||Noun: liquidity||
 noun-lucarne|lucarne||la lucarne||les lucarnes|||||Noun: (football) The upper corners of the goal||
 noun-manœuvre|manœuvre||la manœuvre||les manœuvre|||||Noun: move, manoeuvre||
+noun-match nul|match nul|le match nul||les matchs nuls||||||Noun: tie/ draw in a match||
+noun-moins-value|moins-value||la moins-value||les moins-values|||||Noun: capital loss||
 noun-monoplace|monoplace|le monoplace||les monoplaces||||||Noun: single-seater (car, aircraft)||
 noun-motard|motard|le motard|la motarde|les motards||||||Noun: motorcyclist (especially police)||
 noun-muret|muret|le muret||les murets||||||Noun: small wall||
 noun-mêlée|mêlée||la mêlée||les mêlées|||||Noun: brawl, (rugby) scrum||
 noun-passe décisive|passe décisive||la passe décisive||les passes décisives|||||Noun: (football) assist||
+noun-patrimoine|patrimoine|le patrimoine||les patrimoines||||||Noun: capital/ holdings, heritage, estate||
 noun-pick up|pick up|le pick up||||||||Noun: ute||
+noun-pion|pion|le pion||les pions||||||Noun: pawn, (board game) figure||
+noun-placement|placement|le placement||les placements||||||Noun: investment||
+noun-plateau|plateau|le plateau||les plateaux||||||Noun: flat area, (board game) map/ board||
+noun-plus-value|plus-value||la plus-value||les plus-values|||||Noun: capital gain||
 noun-pneu|pneu|le pneu||les pneus||||||Noun: tyre||
 noun-poteau|poteau|le poteau||les poteaux||||||Noun: pole, goalpost||
+noun-pouvoir d'achat|pouvoir d'achat|le pouvoir d'achat||||||||Noun: buying power||
+noun-rendement|rendement|le rendement||les rendements||||||Noun: (financial) return/ output/ yield||
 noun-sous-virage|sous-virage|le sous-virage||les sous-virages||||||Noun: understeer||
 noun-stand|stand|le stand||les stands||||||Noun: (motorsport) pit, stand (like a stall)||
 noun-survirage|survirage|le survirage||les survirages||||||Noun: oversteer||
 noun-tacle|tacle|le tacle||les tacles||||||Noun: (football) tackle||
 noun-taf|taf|le taf||les tafs||||||Noun: work/ job||
+noun-taux de change|taux de change|le taux de change||||||||Noun: exchange rate||
+noun-tournant|tournant|le tournant||les tournants||||||Noun: turning point||
 noun-tribune|tribune||la tribune||les tribunes|||||Noun: platform/ podium, grandstand||
 noun-tête-à-queue|tête-à-queue|le tête-à-queue||les tête-à-queues||||||Noun: spin||
 noun-undercut|undercut|l'undercut||les undercuts||||||Noun: undercut strategy||
@@ -121,27 +144,39 @@ noun-vibreur|vibreur|le vibreur||les vibreurs||||||Noun: kerb/ rumble strip||
 noun-virage en épingle|virage en épingle|le virage en épingle||les virages en épingle||||||Noun: hairpin corner||
 noun-virage|virage|le virage||les virages||||||Noun: curve, bend||
 noun-voie des stands|voie des stands||la voie des stands||les voies des stands|||||Noun: pitlane||
+noun-volatilité|volatilité||la volatilité||les volatilités|||||Noun: volatility||
+noun-écart|écart|l'écart||les écarts||||||Noun: interval/ gap||
 noun-égalité|égalité||l'égalité||les égalités|||||Noun: equality, (sport) tie||
+noun-épargne|épargne||l'épargne||les épargnes|||||Noun: savings||
 verb-aplatir|aplatir||||||aplatir|aplati|aplatissant|Verb: to score a try||
 verb-avérer|avérer||||||avérer|avéré|avérant|Verb: (transitive) to reveal, (reflexive) to prove to be/ transpire||
 verb-barrer|barrer||||||barrer|barré|barrant|Verb: (slang) (reflexive) to leave||
+verb-bloquer|bloquer||||||bloquer|bloqué|bloquant|Verb: to block/ obstruct/ impede||
 verb-bosser|bosser||||||bosser|bossé|bossant|Verb: (slang) to work||
 verb-bouquiner|bouquiner||||||bouquiner|bouquiné|bouquinant|Verb: to read constantly||
 verb-caler|caler||||||caler|calé|calant|Verb: to stall a car||
 verb-chausser|chausser||||||chausser|chaussé|chaussant|Verb: to shoe, to put on footwear||
+verb-contourner|contourner||||||contourner|contourné|contournant|Verb: to circumvent/ bypass||
+verb-diversifier|diversifier||||||diversifier|diversifié|diversifiant|Verb: to diversify||
 verb-doubler|doubler||||||doubler|doublé|doublant|Verb: To overtake, to double||
 verb-déraper|déraper||||||déraper|dérapé|dérapant|Verb: to skid/ slide||
 verb-détremper|détremper||||||détremper|détrempé|détrempant|Verb: to soak||
 verb-emparer|emparer||||||emparer|emparé|emparant|Verb: (reflexive) to seize/ get hold of (+ de)||
+verb-enliser|enliser||||||enliser|enlisé|enlisant|Verb: to get something stuck in mud/ sand||
 verb-franchir|franchir||||||franchir|franchi|franchissant|Verb: to cross (a line), to pass (an obstacle), to cover (a distance)||
 verb-gêner|gêner||||||gêner|gêné|gênant|Verb: to bother/ annoy/ irritate, to embarrass, (reflexive) to be bothered||
 verb-halluciner|halluciner||||||halluciner|halluciné|hallucinant|Verb: to hallucinate, (slang) to be flabbergasted||
 verb-kiffer|kiffer||||||kiffer|kiffé|kiffant|Verb: (slang) to love/ really enjoy||
 verb-marquer|marquer||||||marquer|marqué|marquant|Verb: to mark, (sports) to score||
 verb-mater|mater||||||mater|maté|matant|Verb: (slang) to watch/ ogle||
+verb-miser|miser||||||miser|misé|misant|Verb: to place a bet||
 verb-patiner|patiner||||||patiner|patiné|patinant|Verb: to ice skate, (motorsport) to spin wheels without going anywhere||
 verb-piquer|piquer||||||piquer|piqué|piquant|Verb: (slang) to steal||
 verb-planter|planter||||||planter|planté|plantant|Verb: to plant, to drive in (a nail), (reflexive, slang) to fail||
+verb-plébisciter|plébisciter||||||plébisciter|plébiscité|plébiscitant|Verb: to approve overwhelmingly||
 verb-pointer|pointer||||||pointer|pointé|pointant|Verb: to point at, (reflexive) (slang) to show up||
 verb-qualifier|qualifier||||||qualifier|qualifié|qualifiant|Verb: (reflexive) (sports) to qualify||
+verb-stocker|stocker||||||stocker|stocké|stockant|Verb: to store/ stock up||
 verb-tchatcher|tchatcher||||||tchatcher|tchatché|tchatchant|Verb: (slang) to chat||
+verb-tricher|tricher||||||tricher|triché|trichant|Verb: to cheat||
+verb-épargner|épargner||||||épargner|épargné|épargnant|Verb: to save (time/ money)||

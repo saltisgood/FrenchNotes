@@ -15,10 +15,12 @@
 | Word | Adverb | Basic meanings of word | Example sentences | Wiktionary |
 | --- | --- | --- | --- | --- |
 | de justesse | de justesse | narrowly, only just |  | [Link](<https://en.wiktionary.org/wiki/de justesse#French>) |
+| ex aequo | ex aequo | (sports) equal/ draw |  | [Link](<https://en.wiktionary.org/wiki/ex aequo#French>) |
 ## Misc
 | Word | Adverb | Basic meanings of word | Example sentences | Wiktionary |
 | --- | --- | --- | --- | --- |
 | à fond la caisse | à fond la caisse | flat out |  | [Link](<https://en.wiktionary.org/wiki/à fond la caisse#French>) |
+| à la loyale | à la loyale | fair and square |  | [Link](<https://en.wiktionary.org/wiki/à la loyale#French>) |
 | appuyer sur le champignon | appuyer sur le champignon | to hit the gas |  | [Link](<https://en.wiktionary.org/wiki/appuyer sur le champignon#French>) |
 | avoir du pain sur la planche | avoir du pain sur la planche | to have a lot of work ahead |  | [Link](<https://en.wiktionary.org/wiki/avoir du pain sur la planche#French>) |
 | avoir le cafard | avoir le cafard | to feel down |  | [Link](<https://en.wiktionary.org/wiki/avoir le cafard#French>) |
@@ -29,6 +31,7 @@
 | avoir les dents longues | avoir les dents longues | to be ambitious |  | [Link](<https://en.wiktionary.org/wiki/avoir les dents longues#French>) |
 | avoir un chat dans la gorge | avoir un chat dans la gorge | to have a frog in the throat |  | [Link](<https://en.wiktionary.org/wiki/avoir un chat dans la gorge#French>) |
 | avoir un coup de barre | avoir un coup de barre | to hit a wall |  | [Link](<https://en.wiktionary.org/wiki/avoir un coup de barre#French>) |
+| avoir une longueur d'avance | avoir une longueur d'avance | to have an edge/ advantage |  | [Link](<https://en.wiktionary.org/wiki/avoir une longueur d'avance#French>) |
 | ça craint | ça craint | (slang) it sucks |  | [Link](<https://en.wiktionary.org/wiki/ça craint#French>) |
 | ça déchire | ça déchire | (slang) it rocks |  | [Link](<https://en.wiktionary.org/wiki/ça déchire#French>) |
 | ça le fait | ça le fait | (slang) that works |  | [Link](<https://en.wiktionary.org/wiki/ça le fait#French>) |
@@ -58,7 +61,9 @@
 | être en roue libre | être en roue libre | to coast |  | [Link](<https://en.wiktionary.org/wiki/être en roue libre#French>) |
 | faire l'intérieur | faire l'intérieur | To overtake on the inside |  | [Link](<https://en.wiktionary.org/wiki/faire l'intérieur#French>) |
 | faites comme chez vous | faites comme chez vous | Make yourself at home (to welcome someone) |  | [Link](<https://en.wiktionary.org/wiki/faites comme chez vous#French>) |
+| le fond indiciel | le fond indiciel | ETF |  | [Link](<https://en.wiktionary.org/wiki/le fond indiciel#French>) |
 | frimer | frimer | (slang) to show off |  | [Link](<https://en.wiktionary.org/wiki/frimer#French>) |
+| garder la tête froide | garder la tête froide | keep a cool head |  | [Link](<https://en.wiktionary.org/wiki/garder la tête froide#French>) |
 | il fait bon | il fait bon | the weather is nice |  | [Link](<https://en.wiktionary.org/wiki/il fait bon#French>) |
 | il ya de l'eau dans le gaz | il ya de l'eau dans le gaz | There's trouble brewing |  | [Link](<https://en.wiktionary.org/wiki/il ya de l'eau dans le gaz#French>) |
 | lâcher l'affaire | lâcher l'affaire | to give up |  | [Link](<https://en.wiktionary.org/wiki/lâcher l'affaire#French>) |
@@ -79,6 +84,7 @@
 | prendre la corde | prendre la corde | To hug the inside line |  | [Link](<https://en.wiktionary.org/wiki/prendre la corde#French>) |
 | prendre ses jambes à son cou | prendre ses jambes à son cou | to run for it |  | [Link](<https://en.wiktionary.org/wiki/prendre ses jambes à son cou#French>) |
 | quand on parle du loup | quand on parle du loup | speak of the devil |  | [Link](<https://en.wiktionary.org/wiki/quand on parle du loup#French>) |
+| renverser la vapeur | renverser la vapeur | make a comeback |  | [Link](<https://en.wiktionary.org/wiki/renverser la vapeur#French>) |
 | se faire déborder | se faire déborder | to get overtaken wide |  | [Link](<https://en.wiktionary.org/wiki/se faire déborder#French>) |
 | se la couler douce | se la couler douce | (slang) to take it easy |  | [Link](<https://en.wiktionary.org/wiki/se la couler douce#French>) |
 | faire le malade | faire le malade | to chuck a sickie |  | [Link](<https://en.wiktionary.org/wiki/faire le malade#French>) |
@@ -95,39 +101,59 @@
 | aprèm | l'aprèm |  |  |  | (slang) afternoon |  | [Link](<https://en.wiktionary.org/wiki/aprèm#French>) |
 | bac | le bac |  | les bacs |  | vat/ tray/ box |  | [Link](<https://en.wiktionary.org/wiki/bac#French>) |
 | bac à gravier | le bac à gravier |  |  |  | gravel trap |  | [Link](<https://en.wiktionary.org/wiki/bac à gravier#French>) |
+| baisse |  | la baisse |  | les baisses | drop/ decrease |  | [Link](<https://en.wiktionary.org/wiki/baisse#French>) |
 | barbeuc | le barbeuc |  |  |  | (slang) barbecue |  | [Link](<https://en.wiktionary.org/wiki/barbeuc#French>) |
 | boulet | le boulet |  | les boulets |  | (slang) a drag/ pain |  | [Link](<https://en.wiktionary.org/wiki/boulet#French>) |
 | braquage inversé | le braquage inversé |  | les braquages inversés |  | countersteer |  | [Link](<https://en.wiktionary.org/wiki/braquage inversé#French>) |
+| case |  | la case |  | les cases | (board game) square |  | [Link](<https://en.wiktionary.org/wiki/case#French>) |
 | casse-tête | le casse-tête |  | les casse-têtes |  | puzzle |  | [Link](<https://en.wiktionary.org/wiki/casse-tête#French>) |
 | chicane |  | la chicane |  | les chicanes | chicane |  | [Link](<https://en.wiktionary.org/wiki/chicane#French>) |
 | coquille |  | la coquille |  | les coquilles | shell, typo |  | [Link](<https://en.wiktionary.org/wiki/coquille#French>) |
 | coup de maître | le coup de maître |  | les coups de maître |  | masterstroke |  | [Link](<https://en.wiktionary.org/wiki/coup de maître#French>) |
 | courbe |  | la courbe |  | les courbes | curve |  | [Link](<https://en.wiktionary.org/wiki/courbe#French>) |
 | daron | le daron | la daronne | les darons |  | (slang) parent |  | [Link](<https://en.wiktionary.org/wiki/daron#French>) |
+| dé | le dé |  | les dés |  | die (dice) |  | [Link](<https://en.wiktionary.org/wiki/dé#French>) |
+| écart | l'écart |  | les écarts |  | interval/ gap |  | [Link](<https://en.wiktionary.org/wiki/écart#French>) |
 | égalité |  | l'égalité |  | les égalités | equality, (sport) tie |  | [Link](<https://en.wiktionary.org/wiki/égalité#French>) |
 | envol | l'envol |  | les envols |  | takeoff |  | [Link](<https://en.wiktionary.org/wiki/envol#French>) |
+| épargne |  | l'épargne |  | les épargnes | savings |  | [Link](<https://en.wiktionary.org/wiki/épargne#French>) |
 | freinage | le freinage |  | les freinages |  | action of braking/ deceleration |  | [Link](<https://en.wiktionary.org/wiki/freinage#French>) |
 | grip | le grip |  | les grips |  | grip |  | [Link](<https://en.wiktionary.org/wiki/grip#French>) |
+| hausse |  | l'hausse |  | les hausses | rise/ increase |  | [Link](<https://en.wiktionary.org/wiki/hausse#French>) |
+| inflation |  | l'inflation |  | les inflations | (financial) inflation |  | [Link](<https://en.wiktionary.org/wiki/inflation#French>) |
 | ligne d'arrivée |  | la ligne d'arrivée |  | les lignes d'arrivée | finish line |  | [Link](<https://en.wiktionary.org/wiki/ligne d'arrivée#French>) |
+| liquidité |  | la liquidité |  | les liquidités | liquidity |  | [Link](<https://en.wiktionary.org/wiki/liquidité#French>) |
 | lucarne |  | la lucarne |  | les lucarnes | (football) The upper corners of the goal |  | [Link](<https://en.wiktionary.org/wiki/lucarne#French>) |
 | manœuvre |  | la manœuvre |  | les manœuvre | move, manoeuvre |  | [Link](<https://en.wiktionary.org/wiki/manœuvre#French>) |
+| match nul | le match nul |  | les matchs nuls |  | tie/ draw in a match |  | [Link](<https://en.wiktionary.org/wiki/match nul#French>) |
 | mêlée |  | la mêlée |  | les mêlées | brawl, (rugby) scrum |  | [Link](<https://en.wiktionary.org/wiki/mêlée#French>) |
+| moins-value |  | la moins-value |  | les moins-values | capital loss |  | [Link](<https://en.wiktionary.org/wiki/moins-value#French>) |
 | monoplace | le monoplace |  | les monoplaces |  | single-seater (car, aircraft) |  | [Link](<https://en.wiktionary.org/wiki/monoplace#French>) |
 | motard | le motard | la motarde | les motards |  | motorcyclist (especially police) |  | [Link](<https://en.wiktionary.org/wiki/motard#French>) |
 | muret | le muret |  | les murets |  | small wall |  | [Link](<https://en.wiktionary.org/wiki/muret#French>) |
 | passe décisive |  | la passe décisive |  | les passes décisives | (football) assist |  | [Link](<https://en.wiktionary.org/wiki/passe décisive#French>) |
+| patrimoine | le patrimoine |  | les patrimoines |  | capital/ holdings, heritage, estate |  | [Link](<https://en.wiktionary.org/wiki/patrimoine#French>) |
 | pick up | le pick up |  |  |  | ute |  | [Link](<https://en.wiktionary.org/wiki/pick up#French>) |
+| pion | le pion |  | les pions |  | pawn, (board game) figure |  | [Link](<https://en.wiktionary.org/wiki/pion#French>) |
+| placement | le placement |  | les placements |  | investment |  | [Link](<https://en.wiktionary.org/wiki/placement#French>) |
+| plateau | le plateau |  | les plateaux |  | flat area, (board game) map/ board |  | [Link](<https://en.wiktionary.org/wiki/plateau#French>) |
+| plus-value |  | la plus-value |  | les plus-values | capital gain |  | [Link](<https://en.wiktionary.org/wiki/plus-value#French>) |
 | pneu | le pneu |  | les pneus |  | tyre |  | [Link](<https://en.wiktionary.org/wiki/pneu#French>) |
 | poteau | le poteau |  | les poteaux |  | pole, goalpost |  | [Link](<https://en.wiktionary.org/wiki/poteau#French>) |
+| pouvoir d'achat | le pouvoir d'achat |  |  |  | buying power |  | [Link](<https://en.wiktionary.org/wiki/pouvoir d'achat#French>) |
+| rendement | le rendement |  | les rendements |  | (financial) return/ output/ yield |  | [Link](<https://en.wiktionary.org/wiki/rendement#French>) |
 | sous-virage | le sous-virage |  | les sous-virages |  | understeer |  | [Link](<https://en.wiktionary.org/wiki/sous-virage#French>) |
 | stand | le stand |  | les stands |  | (motorsport) pit, stand (like a stall) |  | [Link](<https://en.wiktionary.org/wiki/stand#French>) |
 | survirage | le survirage |  | les survirages |  | oversteer |  | [Link](<https://en.wiktionary.org/wiki/survirage#French>) |
 | tacle | le tacle |  | les tacles |  | (football) tackle |  | [Link](<https://en.wiktionary.org/wiki/tacle#French>) |
 | taf | le taf |  | les tafs |  | work/ job |  | [Link](<https://en.wiktionary.org/wiki/taf#French>) |
+| taux de change | le taux de change |  |  |  | exchange rate |  | [Link](<https://en.wiktionary.org/wiki/taux de change#French>) |
 | tête-à-queue | le tête-à-queue |  | les tête-à-queues |  | spin |  | [Link](<https://en.wiktionary.org/wiki/tête-à-queue#French>) |
+| tournant | le tournant |  | les tournants |  | turning point |  | [Link](<https://en.wiktionary.org/wiki/tournant#French>) |
 | tribune |  | la tribune |  | les tribunes | platform/ podium, grandstand |  | [Link](<https://en.wiktionary.org/wiki/tribune#French>) |
 | undercut | l'undercut |  | les undercuts |  | undercut strategy |  | [Link](<https://en.wiktionary.org/wiki/undercut#French>) |
 | voie des stands |  | la voie des stands |  | les voies des stands | pitlane |  | [Link](<https://en.wiktionary.org/wiki/voie des stands#French>) |
+| volatilité |  | la volatilité |  | les volatilités | volatility |  | [Link](<https://en.wiktionary.org/wiki/volatilité#French>) |
 | vibreur | le vibreur |  | les vibreurs |  | kerb/ rumble strip |  | [Link](<https://en.wiktionary.org/wiki/vibreur#French>) |
 | virage | le virage |  | les virages |  | curve, bend |  | [Link](<https://en.wiktionary.org/wiki/virage#French>) |
 | virage en épingle | le virage en épingle |  | les virages en épingle |  | hairpin corner |  | [Link](<https://en.wiktionary.org/wiki/virage en épingle#French>) |
@@ -137,23 +163,32 @@
 | aplatir | aplatir | aplati | aplatissant | to score a try |  | [Link](<https://en.wiktionary.org/wiki/aplatir#French>) |
 | avérer | avérer | avéré | avérant | (transitive) to reveal, (reflexive) to prove to be/ transpire |  | [Link](<https://en.wiktionary.org/wiki/avérer#French>) |
 | barrer | barrer | barré | barrant | (slang) (reflexive) to leave |  | [Link](<https://en.wiktionary.org/wiki/barrer#French>) |
+| bloquer | bloquer | bloqué | bloquant | to block/ obstruct/ impede |  | [Link](<https://en.wiktionary.org/wiki/bloquer#French>) |
 | bosser | bosser | bossé | bossant | (slang) to work |  | [Link](<https://en.wiktionary.org/wiki/bosser#French>) |
 | bouquiner | bouquiner | bouquiné | bouquinant | to read constantly |  | [Link](<https://en.wiktionary.org/wiki/bouquiner#French>) |
 | caler | caler | calé | calant | to stall a car |  | [Link](<https://en.wiktionary.org/wiki/caler#French>) |
 | chausser | chausser | chaussé | chaussant | to shoe, to put on footwear |  | [Link](<https://en.wiktionary.org/wiki/chausser#French>) |
+| contourner | contourner | contourné | contournant | to circumvent/ bypass |  | [Link](<https://en.wiktionary.org/wiki/contourner#French>) |
 | déraper | déraper | dérapé | dérapant | to skid/ slide |  | [Link](<https://en.wiktionary.org/wiki/déraper#French>) |
 | détremper | détremper | détrempé | détrempant | to soak |  | [Link](<https://en.wiktionary.org/wiki/détremper#French>) |
+| diversifier | diversifier | diversifié | diversifiant | to diversify |  | [Link](<https://en.wiktionary.org/wiki/diversifier#French>) |
 | doubler | doubler | doublé | doublant | To overtake, to double |  | [Link](<https://en.wiktionary.org/wiki/doubler#French>) |
 | emparer | emparer | emparé | emparant | (reflexive) to seize/ get hold of (+ de) |  | [Link](<https://en.wiktionary.org/wiki/emparer#French>) |
+| enliser | enliser | enlisé | enlisant | to get something stuck in mud/ sand |  | [Link](<https://en.wiktionary.org/wiki/enliser#French>) |
+| épargner | épargner | épargné | épargnant | to save (time/ money) |  | [Link](<https://en.wiktionary.org/wiki/épargner#French>) |
 | franchir | franchir | franchi | franchissant | to cross (a line), to pass (an obstacle), to cover (a distance) |  | [Link](<https://en.wiktionary.org/wiki/franchir#French>) |
 | gêner | gêner | gêné | gênant | to bother/ annoy/ irritate, to embarrass, (reflexive) to be bothered |  | [Link](<https://en.wiktionary.org/wiki/gêner#French>) |
 | halluciner | halluciner | halluciné | hallucinant | to hallucinate, (slang) to be flabbergasted |  | [Link](<https://en.wiktionary.org/wiki/halluciner#French>) |
 | kiffer | kiffer | kiffé | kiffant | (slang) to love/ really enjoy |  | [Link](<https://en.wiktionary.org/wiki/kiffer#French>) |
 | marquer | marquer | marqué | marquant | to mark, (sports) to score |  | [Link](<https://en.wiktionary.org/wiki/marquer#French>) |
 | mater | mater | maté | matant | (slang) to watch/ ogle |  | [Link](<https://en.wiktionary.org/wiki/mater#French>) |
+| miser | miser | misé | misant | to place a bet |  | [Link](<https://en.wiktionary.org/wiki/miser#French>) |
 | patiner | patiner | patiné | patinant | to ice skate, (motorsport) to spin wheels without going anywhere |  | [Link](<https://en.wiktionary.org/wiki/patiner#French>) |
 | piquer | piquer | piqué | piquant | (slang) to steal |  | [Link](<https://en.wiktionary.org/wiki/piquer#French>) |
 | planter | planter | planté | plantant | to plant, to drive in (a nail), (reflexive, slang) to fail |  | [Link](<https://en.wiktionary.org/wiki/planter#French>) |
+| plébisciter | plébisciter | plébiscité | plébiscitant | to approve overwhelmingly |  | [Link](<https://en.wiktionary.org/wiki/plébisciter#French>) |
 | pointer | pointer | pointé | pointant | to point at, (reflexive) (slang) to show up |  | [Link](<https://en.wiktionary.org/wiki/pointer#French>) |
 | qualifier | qualifier | qualifié | qualifiant | (reflexive) (sports) to qualify |  | [Link](<https://en.wiktionary.org/wiki/qualifier#French>) |
+| stocker | stocker | stocké | stockant | to store/ stock up |  | [Link](<https://en.wiktionary.org/wiki/stocker#French>) |
 | tchatcher | tchatcher | tchatché | tchatchant | (slang) to chat |  | [Link](<https://en.wiktionary.org/wiki/tchatcher#French>) |
+| tricher | tricher | triché | trichant | to cheat |  | [Link](<https://en.wiktionary.org/wiki/tricher#French>) |
